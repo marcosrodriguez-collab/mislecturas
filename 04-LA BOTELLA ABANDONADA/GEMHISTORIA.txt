@@ -1,0 +1,455 @@
+﻿ESTÁS ENCOGIÉNDOTE
+
+1#
+Con «Dusty» vais andando por la alta hierba del pantano, a la orilla de la laguna del Pato.
+
+«Dusty», grande, peludo y negro, es el mejor perro que jamás hayas tenido. Los dos buscáis tortugas, pero te llama la atención una gran botella apoyada en un tronco. En ella hay una etiqueta: 
+
+«PELIGRO: NO LA TOQUEN, DEVUÉLVANLA AL PROFESOR RIGA. CARRETERA DE LA LAGUNA DEL PATO, 14».
+
+La botella no lleva tapón y está medio llena de un líquido azul.
+
+#Si decides coger la botella:2
+#Si decides no coger la botella:4
+
+
+
+
+2#
+Coges la botella. Está grasienta y se te escapa de la mano. Parte del líquido se derrama en tu brazo mientras la botella cae al suelo.
+Será mejor que te laves la mancha de esa substancia en la laguna. Empiezas a caminar hacia ella, pero tropiezas con el tronco. Parece mayor que antes. Mas aún, dirías que la hierba está creciendo ante tus ojos, y los arboles de alrededor, subiendo hacia el cielo.
+¡Estás encogiéndote!
+
+#Si tratas de lavarte el brazo en la laguna:6
+#Si corres a tu casa para que te ayuden:22
+
+
+
+4#
+
+Decides no coger la botella.
+
+—Miremos por este lado -dices a «Dusty»
+
+Pero «Dusty» está husmeando la botella. Te mira de un modo curioso y se mete saltan
+entre los árboles.
+
+¿Dónde estará ese perro? Probablemente cazando a un conejo. Andas a tientas por los matorrales. De pronto, un perrito negro corre directamente hacia ti. Salta ante tus piernas como si te conociera. 
+¡Dios mío! Es “Dusty” ¡sólo que mucho más pequeño! El pobre animal se está encogiendo ante tus ojos! Das vistazo a la botella. Está tumbada y parte del líquido se ha derramado.
+Debes llevar a «Dusty» a un veterinario. Empiezas a inclinarte para cogerlo, pero luego te paras. Si lo tocas, ¿también tú comenzarás a encogerte?
+
+#Si corres a casa a buscar auxilio para “Dusty”:11
+#Si coges a «Dusty» y te lo llevas a tu casa:12
+#Si tomas tanto a «Dusty» como a la botella:14
+
+
+6#
+Quieres lavarte el brazo. La laguna sólo está a poco más de un metro de distancia, pero parece mucho más lejana. Tienes dificultad para atravesar las gigantescas hierbas. En estos momentos sólo mide unos centímetros. 
+Cerrándote el paso hacia la laguna hay un animal enorme tan grande como un lobo, de boca descomunal, una horrible cara verde y ojos saltones: Es una rana.
+¡Flap! La rana dispara su larga lengua hacia ti, que saltas a tiempo de esquivarla.
+
+#Sigue:8
+
+
+8#
+Bizzz. A tu izquierda, unos helicópteros amarillos y negros vuelan por encima de margaritas gigantes. Pero no son helicópteros: son avispones. Bizzz. Sus aguijones parecen largas espadas. Un solo aguijón acabaría con tu vida.
+Giras a la derecha. Cuando piensas que ya estás a salvo de la rana, ves una criatura con una cara horrible y quijadas de monstruo. Es tan sólo una rata almizclera, pero te has encogido tan deprisa que es mayor que tú.
+No hay tiempo para pensar. Tienes que llegar al agua enseguida.
+
+#Si intentas huir de la rata almizclera:16
+#Si te agachas para evitar los avispones:18
+
+
+
+11#
+Corres a casa y cuentas a tu madre todo lo referente al encogimiento de «Dusty»
+
+—Lo creeré cuando lo vea —te contesta ella—. Vamos a echar un vistazo.
+
+Mientras bajáis por la carretera, un animal pequeño viene rápidamente hacia ti
+
+—¡Mamá! ¡Mira, es «Dusty»!
+
+—¡Oh, no! Debe ser un ratón.
+
+No puedes criticar a tu madre por no creer lo que ven sus ojos. Sin embargo, sabes qué aspecto tiene un ratón, y sabes qué aspecto tiene «Dusty».
+De repente, un gato gris llega a hurtadillas. Coges con rapidez tu diminuto perro y así lo salvas de las afiladas garras del gato.
+
+—Eso ha sido un buen aviso de lo que puede ocurrir —dice tu madre—. Pero, ¿qué le pasará a «Dusty» cuando no estemos cerca?
+
+—Tendremos que tener un perro de tamaño normal para que lo proteja —respondes—.
+¿Podremos tenerlo, mamá?
+
+—$Sí —replica ella, con una sonrisa—, ¡pero sólo si prometes mantenerlo alejado de las botellas de aspecto extraño!
+Fin
+
+
+
+
+12#
+
+Tomas a «Dusty» y te marchas corriendo a tu casa.
+
+—¿Dónde encontraste ese perro tan pequeño? —te pregunta tu madre—. ¿Y dónde está
+«Dusty»?
+
+Empiezas a dar explicaciones, pero casi no necesitas hacerlo. «Dusty» todavía está disminuyendo de tamaño.
+
+—¡Cielo santo! —exclama tu madre—. Debemos llevar este perro al veterinario.
+
+Pones suavemente a «Dusty» en el bolsillo de tu camisa y saltas al coche. Tu madre conduce a toda velocidad en dirección al consultorio del veterinario. De camino hacia allí oyes ladriditos que vienen de tu bolsillo. Cuando llegáis, tu pobre perro aún se ha encogido más.
+
+El veterinario, la doctora Kemp, observa a «Dusty» con una lupa.
+
+—¡Dios mío! ¡Esto es alarmante! —exclama, y te da una copa vacía—. Pon a «Dusty»
+aquí para que no se pierda.
+
+Le cuentas a la doctora Kemp lo de la botella que había cerca de la laguna.
+
+—¿Puede usted hacer algo? —le preguntas.
+
+#Sigue:14
+
+
+
+
+14#
+
+Tomas a «Dusty» en brazos, coges la botella y te diriges a tu casa. De improvisto, el perro salta, golpea la botella, derrama su líquido azul encima de ti y se te cae al suelo. «Dusty» se mete corriendo entre la alta hierba. Pero no tienes tiempo de preocuparte por él. ¡Tú también has comenzado a encogerte!
+Tu casa se halla a medio kilómetro de distancia. ¿Deberías tratar de llegar a ella o correr hasta la vivienda más próxima para pedir auxilio?
+
+#Si intentas llegar a tu casa:22
+#Si te diriges a la casa más cercana:26
+
+
+16#
+
+Las ratas almizcleras tienen un aspecto feroz cuando son mayores que tú. Te escapas corriendo de la rata en dirección a la laguna, que ahora te parece grande como un océano. Entras en el agua y te lavas el brazo.
+
+Súbitamente, una gran ola te cae encima, y luchas por salir de la laguna. Agotado, te desplomas en la orilla. Afortunadamente has dejado de encogerte
+
+#Sigue:21
+
+
+
+
+
+18#
+
+Los avispones no pican a todo el mundo que pasa cerca de ellos, de manera que quizá no te picarán. Corres deprisa, sin perder de vista los avispones para agacharte si alguno de ellos vuela próximo a ti.
+
+#Sigue:26
+
+
+
+20#
+
+La doctora Kemp mueve la cabeza.
+
+—Me temo que no puedo hacer nada.
+
+Jamás he visto un caso como éste.
+
+—La etiqueta de la botella decía «Peligro» y daba un nombre y una dirección, pero no los recuerdo —cuentas.
+
+—Debemos encontrar esa botella antes de que alguien la toque —propone la doctora
+Kemp—. Si ese líquido azul cae en malas manos, podría achicar a centenares de personas. ¿Me enseñarás dónde la hallaste?
+
+Quieres ayudar a encontrarla, pero no deseas estar cerca de la botella otra vez. Tú también podrías empezar a encogerte.
+
+#Si accedes a ayudarla:47
+#Si decides no arriesgarte a volver allí:30
+
+
+
+21#
+
+Emprendes el largo camino de vuelta a tu casa, ojo avizor para que ningún halcón te confunda con una especie de ardilla. A juzgar por la altura de algunos dientes de león cercanos, debes medir unos ocho centímetros de estatura. Con este tamaño, cuando te pones de puntillas, puede que alcances los diez centímetros.
+¿Qué clase de vida te espera? Podrías convertirte en un enanito de circo. Pero tienes una idea mejor. Serás un científico y encontrarás la fórmula secreta que te hará crecer.
+Fin
+
+
+
+
+
+
+
+22#
+
+Mientras corres a tu casa, los árboles y las casas parecen crecer y crecer. No obstante, sabes que lo que ocurre es que estás encongiéndote.
+Gritas, pero tu voz no suena más fuerte que el maullido de un gatito. Nadie te oirá.
+Te paras para tomar aliento. De pronto aparece una forma enorme y negra, un animal tan grande como un oso. Chillas de miedo, pero luego te das cuenta de que es “Dusty”. Aunque tu perro también se ha encogido, no es tan diminuto como tú.
+A ese paso tardarás una eternidad en llegar a casa. Quizá te sería posible montar a lomos de «Dusty». Sin embargo, hay un problema. A «Dusty» le encanta revolcarse en la hierba, y podría aplastarte
+
+#Si subes encima de “Dusty”:32
+#Si sigues corriendo hacia tu casa:34
+
+
+
+
+24#
+
+—Entre usted —dices al profesor Riga— ¿Cree que de verdad puede devolverle a «Dusty» sus dimensiones normales?
+
+El profesor pestañea con rapidez.
+
+—Sí, por esto he venido. Temía que pudiera pasar algo así —responde—. Por suerte he logrado inventar un antídoto. Es un líquido verde que hará que «Dusty» crezca.
+
+Pones a «Dusty» en el suelo, y el profesor se saca una botella del bolsillo. Observas ansiosamente. ¿Cómo se las arregla el profesor para estar seguro de administrar la cantidad necesaria de líquido?
+
+—¿Es peligroso esto? —preguntas.
+
+El profesor te mira y vuelve a pestañear.
+
+—Supongo que comporta cierto riesgo. Nunca lo he probado antes.
+
+#Si permites que el profesor administre el antídoto a «Dusty»:29
+#Si le dices que no lo pruebe con tu perro:48
+
+
+
+
+
+26#
+
+Quieres ir a la casa más cercana en busca de ayuda. Todavía estás perdiendo tamaño.
+Metes la pierna derecha en una madriguera de ratón, y te caes de bruces.
+Tratas de levantarte, pero no puedes.
+En lugar de eso, resbalas más por la madriguera Sus paredes son demasiado empinadas para subir por ellas. Examinas el agujero y compruebas que conduce a una cueva enorme. ¿Qué harás si sale un ratón?
+Estás encogiéndote tan deprisa que probablemente el ratón ni te vería, ya que en estos momentos no eres mayor que una hormiga.
+
+Estás seguro de eso porque una hormiga se dirige hacia ti. Te parece que mide un centímetro de longitud. Te escondes detrás de una piedrecita.
+
+Lo que es un diminuto charco de agua en una madriguera de ratón ahora representa, para ti, una gran laguna. ¿Te lanzarás a ella?
+
+
+
+#Si te arrojas a la laguna:40
+#Si te quedas donde estás:44
+
+
+
+
+20#
+
+El profesor vierte el líquido verde sobre «Dusty».
+
+—¡Oh, no! ¿Qué he hecho? —grita el científico mientras tu perro empieza a crecer.
+
+En cuestión de segundos el animal es tan alto como la mesa del comedor, y continúa creciendo.
+
+—¿No puede usted hacer nada? —preguntas—. ¡«Dusty» se está convirtiendo en un  monstruo!
+
+Pero el profesor sólo retrocede, y exclama a gritos:
+
+—No, no, ¡yo soy el monstruo por inventar una cosa así! —y sale corriendo por la puerta.
+
+«Dusty» pone una garra en tu hombro. Intenta mostrarse amistoso, pero casi te derriba al suelo. Te colocas de puntillas y acaricias el pecho de tu perro.
+
+—Túmbate, amigo —le dices.
+
+«Dusty» se acurruca en el suelo. ¡Ocupa media habitación! Por fin para de crecer.
+Te has convertido en el propietario del mayor perro del mundo.
+Fin
+
+
+30#
+
+—Lo siento, pero no quiero acercarme otra vez allí —confiesas a la doctora Kemp.
+
+Ese mismo día, más tarde, cuando estás de vuelta a tu casa, oyes que llaman a la puerta. Abres y te encuentras con un hombre de espeso cabello blanco y ojos azules, que parpadea con rapidez.
+
+—Soy el profesor Riga, el inventor —te dice—. Esta mañana, alguien te vio andar cerca de la laguna del Pato. ¿Acaso viste allí una botella con un líquido azul?
+
+—¿Que si la vi? ¡Ese líquido disminuyó el tamaño de mi perro!
+
+Aparecen lágrimas en los ojos del profesor.
+
+—Me encuentro muy mal —manifiesta—¡Fui tan descuidado al perder esa botella!
+
+Déjame pasar, por favor. Quiero intentar devolver a tu perro sus dimensiones normales.
+
+#Sigues:24.
+
+
+
+32#
+
+Subes a lomos de «Dusty».
+
+—¡Rápido! ¡A casa, amigo, a casa! —le gritas.
+
+Tu perro comienza a correr, mientras te agarras a su pelo. Aún estás perdiendo tamaño. Pronto eres tan pequeño que un simple mechón de pelo de «Dusty» te parece una gruesa cuerda. Sigues encogiéndote, y lo que te parecía una cuerda ya lo ves como un tronco de árbol. El mechón no tarda en ser demasiado ancho para que puedas cogerte a él.
+
+¡Socorro! Te caes en un charco de agua que semeja una gran laguna.
+¡Que tengas suerte!
+Fin
+
+
+
+34#
+
+Sigues corriendo hacia tu casa, pero continúas perdiendo tamaño. Cuanto más pequeño te haces menos distancia cubres con las piernas. ¡Casi te cuesta un minuto pasar por el lado de un coche aparcado!
+Plop. Un cubo de agua te cae en la cabeza.
+Plop, plop, plop. Miras hacia arriba y enseguida te das cuenta de que los cubos de agua solamente son gotas de lluvia. Luego ves lo que parece un largo edificio de cristal.
+
+Cuanto te acercas más a él, te percatas de que únicamente se trata de una botella de refresco vacía. Entras en ella a gatas y así te resguardas de la lluvia. En cuanto has entrado en la botella, notas que te levantas muy alto en el aire. Mientras das vueltas violentas dentro de ella, te das cuenta de que alguien ha cogido la botella contigo en su interior.
+
+#Sigues:36
+
+
+36#
+
+Desde dentro de la botella de refresco, ves a un hombre de pelo blanco.
+
+—¡Válgame Dios! Temía que esto llegara a ocurrir -dice el hombre—. Soy el profesor
+Riga. Siento que te hayas encogido, pero no te preocupes. ¡Puedo hacer que crezcas de nuevo!
+
+Das gritos al profesor, para darle a entender que sujete bien la botella, pero Riga no puede oir tu vocecita
+
+El profesor entra en una casa y pone la botella de refresco en el suelo.
+
+—Quédate en la botella —te dice—. Volve ré enseguida.
+
+¿Puedes confiar en el científico? Quizá deberías intentar huir de la botella.
+
+#Si aguardas a que el profesor regrese:38 
+#Si sales de la botella y tratas de escapar:52
+
+
+
+
+
+
+
+
+
+38#
+
+Te esperas en el interior de la botella, temblando. Estás empapado a causa de la lluvia y pegajoso por los restos de refresco que había en la botella. El profesor Riga ha vuelto
+
+—¡Ajá! Estuviste aquí todo el rato —coge de la mesa una botella con líquido verde.
+
+Esto es una poción para hacer crecer. Te hará aumentar de tamaño tan deprisa como te encogiste. Creo que sería mejor que saliéramos fuera, donde tendremos mucho más espacio.
+
+El profesor lleva la botella afuera y la agita hasta que caes en la hierba. Cerca de ti hay un pájaro, un petirrojo, que te parece tan grande como un avestruz, dedicado a buscar gusanos. Te gustaría subir a su espalda y cabalgar.
+
+
+
+#Si subes a la espalda del petirrojo:50
+#Si pides al profesor que te administre la poción para crecer:42
+
+
+40#
+
+Saltas a la laguna y caes en una hoja que flota en ella. El viento comienza a empujarte por la superficie del agua. Cuando llegas a la otra orilla, todavía te has reducido más. Abandonas la hoja y pones pie en tierra.
+
+Cerca de ti ves otro monstruo. Esta vez es un saltamontes. Se te ocurre que podrías cabalgar en él, y saltas a su espalda.
+¡Boing! El saltamontes pega un salto.
+¡Boing! Vuelve a saltar. ¡Te agarras para salvar tu vida!
+¡Boing! El salto mayor de todos te manda volando a través de la ventana abierta de una cocina.
+
+¡Plop! Aterrizas en un tazón lleno de chocolate. Mmmm. Es delicioso. MMmm
+Es lo mejor que jamás hayas probado. Pronto estás cubierto de budín, y tienes dificultad para nadar en él. Las paredes del tazón son demasiado empinadas para que puedas subir por ellas y salir.
+¡Glo, glo, glup!
+¡Auxilio, te estás ahogando!
+Fin
+
+
+
+
+42#
+
+—Me gustaría volver a mi estatura normal ahora mismo —gritas.
+
+El profesor toma aire y a continuación vierte una botella de líquido verde sobre tu cabeza. Empiezas a crecer instantáneamente. Pero algo va mal. Creces demasiado aprisa. En cuestión de segundos, eres tan alto como el profesor Riga.
+
+—¡Páreme! —chiillas.
+
+Miras abajo, pero apenas puedes verte los pies.
+Una débil voz te llama desde ellos:
+
+—Lo siento. He vertido demasiado líquido. 
+
+Pronto has llegado a ser más alto que los tejados. Vociferas con toda la fuerza de tus pulmones:
+
+—¡Auxilio! ¡Estoy creciendo desmesuradamente!
+Fin
+
+
+
+44#
+
+En la guarida del ratón sigues encogiéndote.
+La hormiga parece un gigante, y te da la sensación de que estás en un campo rodeado de montañas. De repente ves a tu alrededor una serie de criaturas pequeñas. Quizá sean bacterias. Incluso estos seres diminutos se vuelven cada vez mayores ante tus ojos.
+Continúas encogiéndote. Pronto eres más pequeño que una motita de polvo. Ahora nadie podría verte sin un microscopio. ¿Qué te ocurrirá? ¿Hasta qué punto puedes perder tamaño? Te preguntas cuán diminuta puede llegar a ser cualquier cosa.
+Fin
+
+
+
+
+47#
+
+—Le ayudaré a encontrar la botella —aseguras a la doctora Kemp.
+
+Cuando llegáis a la laguna, hay allí un hombre bajo y con el pelo blanco, que sostiene una botella.
+
+—¿Han visto una botella llena de un líquido azul? —os pregunta a gritos—. He perdido mi elixir para encoger.
+
+—Así que es suyo! —exclamas.
+
+—Sí. Soy el profesor Riga, el inventor. Preparé dos botellas de líquido para reducir de tamaño. Por error, olvidé una de ellas cerca de aquí. Espero que nadie se encoja.
+
+—Mi perro se ha encogido —manifiestas.
+
+De improviso, el profesor Riga ve la botella del líquido azul detrás de un tronco. La coge y sin decir nada más vierte el contenido de una botella en la otra. Una nube de vapor se eleva por los aires.
+
+—¿Qué ha hecho? —pregunta la doctora
+
+—He disuelto el elixir para encoger —contesta el científico con alivio y parpadea.
+
+—Espléndido —dices—. Pero, ¿qué hay de mi perro?
+Fin
+
+
+
+48#
+
+—No quiero que utilice usted esa porquería con «Dusty» —afirmas
+
+El profesor parpadea y responde:
+
+—Pues adiós. Nunca más te volveré a molestar.
+
+Todos estáis consternados, pero tu perro parece más feliz que nunca. Ahora tiene mucho más espacio para corretear. Y, naturalmente, cuesta mucho menos alimentarlo.
+Viene gente de todas partes para ver a «Dusty». Les cuesta creer que sea un ser real.
+
+Nadie ha vuelto a ver al profesor Riga. Su casa está abandonada. Algunas personas afirman que derramó accidentalmente su líquido sobre sí mismo y que encogió tanto que desapareció.
+Fin
+
+
+
+50# 
+
+Subes de un salto a la espalda del petirrojo y te agarras a él para salvar tu vida cuando se remonta más arriba de las copas de los árboles. Fiuuu. El pájaro se te sacude de encima en un nido donde hay tres crías de petirrojo. Piu, piu. Sus boquitas están muy abiertas y adelantadas hacia su madre petirrojo. Ésta agita un gordo gusano por encima de vosotros. La madre de los petirrojos debe pensar que tú eres... ¡una cría suya! El gusano aterriza sobre tu cabeza. Una de las crías se lo traga. Mamá petirrojo se marcha volando.
+
+Miras por encima del borde del nido.
+
+—¡Socorro! —gritas tan fuerte como puedes.
+
+¿Cómo lograrás bajar a tierra? Buscas por el nido. Entre las ramitas hay un poco de cuerda y un trozo de ropa.
+
+—Esto no es vida para mí —explicas a las crías de petirrojo—. Voy a construirme un paracaídas y a salir de aquí.
+Fin
+
+
+
+52#
+
+Trepas fuera de la botella de refresco. Cerca de ella ves otra botella, llena de un líquido verde. En su etiqueta pone: «Antídoto»
+
+¡Antídoto! Eso es precisamente lo que necesitas para volver a tu estatura normal. Derramas un poco de ese líquido sobre ti. Empiezas a crecer instantáneamente.
+Pronto te encuentras con que has recuperado tu estatura habitual. «Dusty» te está lamiendo la oreja, probablemente mientras se pregunta por qué has estado durmiendo toda la tarde. Te das cuenta de que ni tú ni tu perro nunca os habéis encogido. La botella que cogiste debía contener una poción para dormir, no para encogerse
+
+—Vámonos, «Dusty» -dices, y te levantas del suelo—. Llegaremos tarde a cenar.
+Fin

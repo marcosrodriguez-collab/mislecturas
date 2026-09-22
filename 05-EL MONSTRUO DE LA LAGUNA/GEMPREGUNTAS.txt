@@ -1,0 +1,84 @@
+1#
+Iba a la laguna de Miller a pescar con tu amigo Hal.:V
+El invierno anterior fue muy cálido desde el principio hasta el final.:F
+3#
+Tu anzuelo se engancha en una roca según dice Hal.:V
+El corcho de tu caña se mueve y cae al agua.:V
+5#
+Tu casa está más lejos que la calle Principal.:F
+Decidís huir en bicicleta para escapar del monstruo.:V
+6#
+El monstruo sale del agua con el cuerpo cubierto por una concha verde.:V
+Te apresuras a soltar la caña antes de que salga la criatura.:F
+8#
+Tu viejo perro Tiger empieza a ladrarle al monstruo.:V
+El monstruo rompe la puerta principal de un solo golpe.:F
+10#
+El monstruo te tira a la laguna agarrándote de la muñeca.:V
+La cueva a la que te lleva está iluminada por antorchas.:F
+13#
+Hal te rescata del agua en la orilla de la laguna.:V
+Consigues nadar fácilmente contra la corriente del remolino.:F
+15#
+Los bomberos capturan al monstruo con una gran red.:V
+Decides abandonar al monstruo para ir a ver el fuego con Hal.:F
+16#
+Usas una lata de atún para atraer al monstruo hacia el garaje.:V
+Logras encerrar al monstruo saliendo por la ventana del garaje.:V
+19#
+Vistes al monstruo con un impermeable amarillo de tu padre.:V
+Tienes dinero suficiente para comprar tres billetes de tren al lago Minnewonka.:F
+20#
+El monstruo entra a tu casa y tropieza con la alfombra.:V
+Hal se enfrenta al monstruo cara a cara con valentía.:F
+23#
+El monstruo derriba dos sillas y una lámpara en el vestíbulo.:V
+Tu madre descubre inmediatamente al monstruo al entrar en casa.:F
+24#
+Hal se sorprende porque tu madre ni siquiera te deja tener un hámster.:V
+Decides llevar inmediatamente al monstruo al refugio de animales.:F
+26#
+El barbero, el señor Wedgeworth, se refugia en su tienda al ver al monstruo.:V
+En la calle Principal la gente os ayuda activamente a detener al monstruo.:F
+28#
+Sueltas crema de anchoas para que el monstruo te siga a los arbustos.:V
+Llamas al acuario en lugar de llamar al refugio de animales.:F
+31#
+Al despertar a la mañana siguiente, descubres que el monstruo ha desaparecido.:V
+Hal te llama desde el interior de la casa para que te levantes.:F
+33#
+Engañas al hombre del refugio diciéndole que solo eran unos gatos.:V
+Decides llamar a tu prima Maggie que estudia medicina general.:F
+34#
+Encuentras una cueva llena de muchos otros monstruos como el primero.:V
+La salamandra te guía directamente hacia la salida de la cueva.:F
+37#
+Hal consigue el dinero necesario para los billetes de tren al lago Minnewonka.:V
+Nadie se da cuenta de la presencia del monstruo en el tren.:F
+38#
+Tu prima Maggie quiere llevar al monstruo al laboratorio de la universidad.:V
+El monstruo rompe la ventana de la camioneta al marcharse.:F
+41#
+En el suelo hay dos series de huellas, unas cuatro veces más grandes que las otras.:V
+Hal no vio nada durante la noche y todo fue producto de un sueño.:F
+42#
+El monstruo entra al lago Minnewonka con los patos de goma en sus tobillos.:V
+Lográis recuperar el impermeable amarillo en perfecto estado.:F
+44#
+El perro Tiger persigue al monstruo hasta el bosque y este se escapa.:V
+Un titular de periódico afirma que el monstruo fue visto a diez kilómetros.:F
+47#
+El monstruo entra al cine y empieza a rugirle a la pantalla.:V
+El público del cine sale corriendo aterrorizado al ver al monstruo.:F
+49#
+El señor Gordon se lleva al monstruo en un camión cisterna con agua.:V
+Hal te ayuda pacientemente a enfrentarte a los otros dos monstruos.:F
+50#
+El monstruo se come los peces exóticos del estanque de la señora Brady.:V
+La señora Brady logra escapar corriendo sin tocar el agua.:F
+52#
+El director del cine os paga un dólar a cada uno y pases libres los sábados.:V
+El monstruo se queda a vivir permanentemente en el cine.:F
+54#
+El monstruo pone su membranosa pata sobre tu hombro demostrando cariño.:V
+Tu madre entra en la habitación justo cuando el monstruo tropieza.:F

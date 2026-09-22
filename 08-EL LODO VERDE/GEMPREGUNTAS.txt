@@ -1,0 +1,81 @@
+1#
+La tía Isabel te regaló un equipo de química por tu cumpleaños.:V
+El primo Esteban rompió tu nave espacial y taponó el lavabo.:V
+2#
+Juana era la amiga que llamaba al timbre de la puerta.:V
+El primo Esteban tiene seis años y medio.:F
+4#
+El dependiente del colmado tenía exactamente mil bolsas de hielo disponibles.:F
+Tardarás cinco años de tu asignación en pagar todas las bolsas de hielo.:V
+6#
+El lodo verde hace ruidos de gorgoteo mientras burbujea.:V
+Consigues llegar a la cama de Esteban en el primer salto sin tocar el suelo.:F
+8#
+El olor que sale de la casa se parece al de flores frescas.:F
+Al llegar a la escalera ves caer gotas grandes y densas de una sustancia verde.:V
+11#
+El profesor Tomás se encuentra en el sótano observando bichitos al microscopio.:V
+Los bichitos del profesor se alimentan únicamente de fruta fresca.:F
+12#
+Esteban preparó un pastel dentro de una probeta de cristal.:F
+La sustancia que preparó Esteban es verde oscura y burbujea en el plato.:V
+14#
+Derramas toda el agua sobre el lodo y la sustancia comienza a hervir y sisear.:V
+Los animales pequeños que nadan en el lodo se hacen cada vez más pequeños.:F
+17#
+Tus pies quedan atrapados en el lodo al saltar desde la ventana.:V
+El lodo verde ignora completamente tus zapatillas y no se las come.:F
+18#
+Lograste detener el fluir del lodo congelándolo a un grado bajo cero.:V
+Esteban se mantuvo despierto durante todo el proceso observando el espectáculo.:F
+21#
+Juana y tú decidís quedaros dentro de la casa en la escalera para pedir ayuda.:F
+Tienes una idea para detener la sustancia verde pero debéis daros prisa.:V
+22#
+Esteban se traga la última gota de la sustancia verde del plato.:V
+De la boca de Esteban sale una enorme burbuja de color rojo.:F
+24#
+La habitación queda limpia porque los animalillos devoran el lodo verde.:V
+Un río de lodo fluye únicamente por tu casa y no afecta al resto de la ciudad.:F
+27#
+Para llegar a la ventana pequeña de la habitación tienes que subirte a la cómoda.:V
+El pie derecho de Esteban toca la sustancia justo cuando lo coges.:F
+28#
+Esteban logra liberarse de su zapato porque no tenía atados los cordones.:V
+La sustancia morada y efervescente que tiraste era un refresco de uvas.:V
+31#
+Juana echa la sustancia verde en el lavabo que Esteban había atascado.:V
+El lavabo retiene la sustancia sin desbordarse en ningún momento.:F
+32#
+Decides entrar a la habitación subiendo al roble que hay junto a la ventana.:V
+Esteban está riéndose felizmente sobre la cama cuando lo ves por la ventana.:F
+35#
+Arrojas las aletas y la máscara de goma al pasillo para distraer al lodo.:V
+El lodo verde rechaza la goma porque no le gusta su sabor.:F
+36#
+Derramas un poco de agua mientras subes por las ramas del árbol.:V
+El cubo de agua llega completamente lleno cuando alcanzas la ventana.:F
+39#
+Tía Isabel se alegra mucho al ver a Esteban convertido en el increíble Hulk.:F
+Tu madre decide guardar tu equipo de química hasta que tengas más edad.:V
+40#
+La única escalera del garaje estaba perfecta y tenía todos sus peldaños.:F
+Fabricas unos zancos serrando por la mitad el único peldaño de la escalera.:V
+42#
+Una inmensa gamba de color rosa claro ocupa tu habitación.:V
+Esteban sigue llorando asustado cuando regresas a tu dormitorio.:F
+45#
+El profesor Tomás te entrega un cubo de agua lleno de miles de criaturas.:V
+Decides verter el agua en el patio trasero sin dudarlo.:F
+46#
+Arrojas la balsa neumática, la manguera y pelotas para sacar al lodo de casa.:V
+Pensaste con antelación en una forma definitiva de detener el lodo para siempre.:F
+49#
+Logras ponerte de pie sobre el alféizar de la ventana agarrando el marco.:V
+El suelo de la habitación está completamente limpio de lodo verde.:F
+51#
+Esteban se apoya en tus hombros para salir a través de la ventana.:V
+Esteban se niega rotundamente a salir de la habitación y se queda adentro.:F
+52#
+Una muchedumbre te aplaude y un fotógrafo os toma una foto al llegar.:V
+La policía acude para montar barricadas en la calle debido al lago de lodo.:V

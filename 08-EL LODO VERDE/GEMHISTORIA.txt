@@ -1,0 +1,465 @@
+﻿EL LODO VERDE
+
+1# 
+
+Ayer cumpliste años y tu tía Isabel te regaló un equipo de química. Además, ha dejado a tu cargo al primo Esteban mientras ella y tu mamá fueron de visita a casa de una amiga.
+
+—Es necesario vigilar de cerca a Esteban —te advirtió tía Isabel y no estaba bromeando.
+
+En cinco minutos, el niño ha roto tu nave espacial en miniatura, pegado con pegamento todos tus cromos de deportistas y taponado el lavabo con pañuelos de papel.
+
+—Siéntate en la cama y no te muevas, de lo contrario te arrepentirás —le dices a Esteban.
+
+Abres la caja de tu nuevo equipo de química. Extraes algunas probetas llenas de polvos y líquidos de colores y te dispones a preparar algunas mezclas. En ese momento suena el timbre.
+
+#Sigues:2
+
+
+
+2#
+
+Antes de bajar a abrir la puerta, observas a Esteban. Esta recostado sobre la almohada y tiene los ojos cerrados. Supones que se ha quedado dormido en tu cama. 
+
+Era tu amiga Juana quien llamaba. Mientras charlas con ella en la puerta, oyes gritos y risitas que llegan desde el primer piso.
+
+—¿Quién es? —quiere saber Juana.
+
+Pones cara de circunstancias y respondes:
+
+—Es mi primo Esteban, que sólo tiene cuatro años y medio.
+
+—¿No sería mejor averiguar qué está haciendo? —sugiere Juana.
+
+#Si respondes «no»:8
+#Si respondes «sí»:12
+
+
+4#
+Juana y tü corréis hasta el colmado.
+
+—¡Hielo! — gritas mientras entras a la carrera.
+
+—¿Hielo? — pregunta el dependiente—.¿Cuánto quieres?
+
+—El suficiente para llenar una casa —respondes.
+
+—¡Vamos, niña! Tenemos mucho trabajo —protesta el dependiente.
+
+—Está bien, ¿cuánto hielo tiene? —insistes.
+
+—Si sumamos lo que tengo en la nevera del mostrador con lo que está guardado en el congelador del fondo, habrá unas trescientas bolsas —afirma el dependiente.
+
+—Me lo llevo todo —dices—. Por favor, envíelo ahora mismo. Es muy urgente. Cóbreselo a mis padres.
+
+Dada tu asignación, tardarás cinco años en pagar lo que cuestan esas bolsas de hielo.
+Juana y tú regresáis corriendo a casa para esperar al repartidor del colmado.
+
+#Sigues:18
+
+
+
+6#
+Quizá puedas llegar hasta Esteban, que está sobre la cama. «Plop. Plop-plop. Chup-chup», gorgotea la sustancia.
+El lodo verde burbujea y Esteban grita. El ruido es tan violento que te cuesta trabajo pensar.
+A mitad de camino entre la cama y la ventana divisas un lugar del suelo al que el lodo verde aún no ha llegado. Tal vez podrías saltar desde la ventana a ese sitio y de allí a la cama, con el fin de rescatar a Esteban.
+Te sujetas del marco de la ventana, cuentas hasta tres y saltas.
+
+#Sigues:17
+
+
+
+
+8#
+
+—No, no hay problema. Ya se callará —dices a Juana y estás en lo cierto. Poco después Esteban deja de hacer ruido y gritar. Todo está tranquilo, demasiado tranquilo—. ¿Esteban? —lo llamas y al no obtener respuesta, insistes—: ¡Esteban! Será mejor que suba a ver qué está haciendo.
+
+Juana te sigue. Al llegar a la escalera, oyes un extraño sonido: Plop. Plop-plop-plop... Chupchup.
+
+—¿De dónde viene ese olor horrible? —pregunta Juana.
+
+Hay un espantoso olor a huevos podridos, pegamento y...
+Juana y tú os detenéis. Algo comienza a caer por la escalera en forma de gotas grandes y densas. ¿Qué ha hecho Esteban?
+
+Hay algo que te aconseja no acercarte a la sustancia verde. ¿Deberías ir a buscar ayuda, o bien intentar llegar hasta Esteban?
+
+#Si sales a buscar ayuda:21
+#Si intentas llegar hasta Esteban:32
+
+
+11#
+El profesor Tomás es un científico que quizá pueda hacer algo para librarte del lodo verde. Lo encuentras en su laboratorio, en el sótano de la casa, observando algo con el microscopio.
+
+—Ven y mira —te propone—. Estos bichitos comen alquitrán, manchas de petróleo... lo que les eches.
+
+Parecen gambas en miniatura.
+
+—¿Comerían lodo? —preguntas.
+
+—Siempre que puedan nadar en un medio dado, lo comerán —contesta el profesor Tomás.
+
+Le explicas rápidamente la cuestión del lodo verde.
+
+—Esa sustancia verde y burbujeante se ha extendido por toda la casa. Mi primito Esteban ha quedado atrapado en el primer piso. Tengo miedo de que el lodo lo engulla. Profesor, ¿nos ayudará?
+
+#Sigues:45
+
+
+
+
+
+12#
+
+—Será mejor que vayamos a ver qué está tramando Esteban —replicas.
+
+Juana te sigue escaleras arriba hasta tu habitación. Esteban está de pie en una silla, junto a tu escritorio. Revuelve algo que hay en un plato. En el suelo ves probetas y un frasco de pegamento vacíos.
+
+—¿Qué estás haciendo? —gritas.
+
+—Preparando un pastel.
+
+Esteban te ofrece el plato, que contiene algo espeso, de color verde oscuro, y que huele muy mal.
+
+—¡Caramba! —exclamas—. Burbujea.
+
+#Si le dices a Esteban «debería zurrarte»:22
+#Si le pides a Juana que eche la sustancia en el lavabo:31
+
+
+
+
+14#
+
+Te acercas tanto como puedes al lodo verde. Viertes un poco de agua sobre la sustancia. Al parecer, no ocurre nada.
+
+—¡Vacía el cubo sobre el lodo! —grita Juana.
+
+Derramas toda el agua. El lodo hiervey sisea. ¡Y en ese momento comienza a fluir! Lo sigues a medida que se desparrama por la puerta principal, atraviesa la casa y sube la escalera.
+Nadando en la sustancia verde, observas animales muy pequeños parecidos a gambas.
+
+Sin embargo, son mucho más grandes que los que te mostró el profesor. Y a cada minuto que pasa se hacen... más y más grandes.
+—¡Oh, no! —exclamas.
+—¿Qué pasa ahora? —pregunta Juana.
+—Esto no me gusta nada —contestas.
+
+#Sigues:42
+
+
+17#
+Saltas desde la ventana y caes en un lugar del suelo no cubierto por la sustancia. ¡Pero cuando intentas saltar hacia la cama no puedes mover los pies!
+Miras hacia abajo. Ahora estás enganchada en el lodo verde. Otra ola de la misma sustancia avanza hacia ti. Tienes que buscar una solución en el acto.
+Te desatas a toda velocidad los cordones de las zapatillas y mueves los pies hasta dejarlos libres. Luego saltas descalza sobre la cama, junto a Esteban.
+El lodo verde se está comiendo tus zapatillas. «Plop. Psss». Parece que le agradan, sobre todo las suelas.
+Las suelas... las suelas son de goma. Súbitamente tienes una idea que tal vez te permita librarte del lodo.
+¿Dará resultado?
+El lodo cubre cada vez más el suelo de tu habitación. ¿Debes poner a prueba tu idea, o es mejor que Esteban y tú tratéis de salir antes de que sea demasiado tarde?
+
+#Si intentas salir:27
+#Si pones a prueba tu idea:35
+
+
+
+
+18#
+
+Cuando el repartidor llega a tu casa, le pides que acerque la furgoneta hasta situarla justo delante de la puerta. Juana trepa a la parte de atrás y comienza a abrir las bolsas de hielo.
+Coges una pala, al tiempo que abres la puerta de la casa, arrojas hielo en el interior para evitar que el lodo verde pueda salir. Vacías las doscientas noventa y cinco bolsas. La temperatura en el interior de la casa es ya de un grado bajo cero. Tu nariz y la de Juana están azules y ambas tembláis, pero habéis conseguido detener el fluir del lodo. Lo habéis congelado.
+
+El hielo, de color verde oscuro, cubre el suelo de tu casa. Esteban duerme en tu cama. Se ha perdido todo el espectáculo.
+
+—¿Qué piensas hacer con el lodo? —se interesa Juana. Piensas un instante y respondes:
+
+—¿Crees que hay alguien dispuesto a comprar helado de lodo?
+
+Fin
+
+
+
+
+
+21#
+ 
+Cada vez fluye más lodo verde escaleras abajo. Aunque lo intentaras, ya no podrías llegar hasta Esteban. En consecuencia, decides pedir ayuda.
+Juana y tú os apartáis de la escalera y salís de la casa.
+
+—¿Crees que esa cosa está... viva? —pregunta Juana. Parece estar realmente asustada. Tú tampoco las tienes todas contigo.
+
+—Viva o no, tenemos que encontrar el modo de detenerla. Tengo una idea que quizá dé resultado, pero debemos darnos prisa —añades al tiempo que corres.
+
+Juana te pisa los talones.
+
+—¿Adónde vamos? —pregunta.
+
+#Si respondes «al colmado»:4
+#Si respondes «a casa del profesor Tomás»:11
+
+
+
+
+
+22#
+
+Antes de darte cuenta de lo que ocurre, Esteban se lleva el plato a la boca. Se lo quitas, pero has llegado tarde. Esteban se ha tragado hasta la última gota de la sustancia verde.
+
+—¡Hmmm! —se relame.
+
+—¡Oh, no! —se lamenta Juana—. ¿Y si es venenosa?
+
+—¿Te sientes bien? —preguntas a Esteban.
+
+—Mejor que nunca —asegura Esteban. Al abrir la boca, de ésta escapa una enorme burbuja verde.
+
+Esteban no tendrá ningún problema, piensas, pero Juana dice:
+
+—Mira qué aspecto tan extraño está tomando.
+
+#Sigues:39
+
+
+24#
+
+Como por arte de magia, el lodo comienza a desaparecer y poco después la habitación queda limpia.
+Sin embargo, mientras trepabas al árbol derramaste mucha agua y ahora es demasiado tarde: no hay suficientes animalillos para devorar el lodo que baja por la escalera, atraviesa la sala y escapa por la puerta principal.
+Te asomas por la ventana y ves que alrededor de la casa vecina crece un lago de burbujeante sustancia verde. Te preguntas dónde está Juana.
+De los rociadores de los jardines de tu calle salen chorros de lodo. Un río de lodo fluye lentamente calle abajo.
+
+Primero tu calle, luego la siguiente, más adelante toda la ciudad... ¿quién puede saber cuándo o dónde se detendrá?
+Tienes que comunicar a todos que si oyen algo raro o perciben un olor desagradable, será mejor que se pongan en guardia... sobre todo si es verde.
+Fin
+
+
+
+
+27#
+
+¡Tienes que salir de tu habitación!
+
+En un extremo del dormitorio hay una ventana pequeña. Puedes llegar hasta ella subiéndote a la cómoda que se encuentra junto a tu cama. Elevas a Esteban hasta situarlo sobre la cómoda y luego saltas. A continuación abres la ventana de un empujón y te deslizas sobre el antepecho, con los pies hacia adelante.
+
+—Ven, Esteban —le dices—. Yo te cogeré.
+
+Esteban cierra los ojos y salta. Ahora el lodo verde burbujea alrededor de la cómoda. El pie izquierdo de Esteban toca la sustancia justo en el preciso momento en que lo coges
+
+#Sigues:28
+
+28#
+Afortunadamente, Esteban no tiene atados los cordones de los zapatos. Tiras tanto como puedes de sus brazos. «Psssl» Aunque el zapato queda atrapado, Esteban logra saltar y tú lo acomodas en la saliente del tejado, a tu lado.
+Miras cómo mana el lodo por las ventanas. 
+Burbujea a través de la puerta principal y por la de servicio. Estás atrapada en un lago de lodo verde burbujeante. 
+
+Esteban saca del bolsillo un pequeño frasco y lo agita enérgicamente.
+
+—¡Dame eso! —gritas—. ¿No te parece que has creado ya bastantes embrollos? —coges el frasco y echas la sustancia morada y efervescente sobre el borde del tejado.
+
+El lodo verde lanza un siseo y un «glup». 
+
+—Esteban, ¿qué es eso?
+
+—Preparé refresco de uvas —replica el chiquillo.
+
+El lodo se está secando.
+
+—¿Puedes preparar más? —interrogas a Esteban.
+
+—Tal vez.
+
+Al fin y al cabo, es posible que vivas hasta tu próximo cumpleaños. Estás segura de que hay dos cosas que no quieres como regalo de cumpleaños: un equipo de química... y a Esteban.
+Fin.
+
+
+31#
+Juana vierte la sustancia verde y viscosa en el mismo lavabo que Esteban atascó con pañuelos de papel.
+Luego baja a buscar una escoba y un recogedor para ayudarte a ordenar los frascos y polvos que Esteban desparramó por el suelo.
+Entretanto, una materia espesa y de color verde oscuro burbujea por el desagüe.
+
+El lavabo se desborda y el burbujeante lodo verde baja por el pasillo hasta tu habitación: «Plop. Plop-plop. Chup-chup».
+
+—Deja de hacer ruido —le pides a Esteban, que está cómodamente instalado en tu cama, desmontando tu reloj despertador.
+
+¿Qué es ese ruido? A cada segundo se oye más fuerte. Y el olor que percibes es semejante al de una ciénaga. Súbitamente, un río de materia verde cruza la puerta de tu dormitorio. A medida que avanza hacia la cama, donde Esteban está sentado, burbujea más ruidosamente y salta por los aires, casi como si... ¿quisiera atrapar a Esteban?
+
+#Sigues:49
+
+
+
+
+
+
+32#
+
+No puedes dejar solo a Esteban en medio del lodo verde. ¿Quién sabe lo que puede ocurrir? Tienes que ir a buscarlo ahora mismo.
+
+Mientras Juana vigila la materia verde que desciende por la escalera, trepas al roble que se alza junto a la ventana de tu dormitorio.
+
+Ves probetas vacías, un frasco de pegamento también vacío y un plato sobre tu escritorio. Una sustancia verde burbujea en el plato... como si quisiera salir!
+Te estiras y saltas hasta el alféizar de la ventana. Entonces ves que el suelo de tu habitación está cubierto por la sustancia verde y burbujeante. La materia parece correr hacia la cama e intentar alcanzar a...
+
+¡Esteban! Está de pie sobre la cama, llorando.
+
+—Aléjate tanto como puedas de la sustancia verde —gritas—. ¡Esteban, yo te salvaré!
+
+¿Podrás hacerlo? La cama está bastante lejos de la ventana. ¿Podrás llegar a Esteban desde donde te encuentras o deberías bajar del árbol y buscar una escalera?
+
+#Si crees que puedes llegar hasta Esteban sin escalera:6 
+#Si bajas a buscar una escalera:40
+
+
+35#
+Esperas que tu idea dé resultado porque no queda mucho tiempo. En un estante colgado encima de tu cama están las aletas y la máscara de goma. Las arrojas por la puerta en dirección al pasillo.
+¡Tenías razón! Al lodo le gusta la goma. La sustancia se aleja de la cama en dirección a las aletas y la máscara que has arrojado al pasillo.
+«Chup-chup. Psss. Plop». ¡Tiene hambre!
+Tu habitación ha quedado limpia. Corres a tu ropero y coges una balsa neumática, una pelota de baloncesto y otro par de zapatillas.
+
+—Quédate aquí —dices a Esteban. Caminas hasta la puerta de tu dormitorio y arrojas la pelota y las zapatillas escaleras abajo.
+
+El lodo fluye tras ella.
+
+#Sigues:46
+
+
+36#
+
+Decides arrojar el agua por la ventana del dormitorio.
+Junto a la casa hay un árbol. Subes a la primera rama y Juana te entrega el cubo.
+
+Es difícil trepar a un árbol sosteniendo en la mano un cubo lleno de agua. Al pasar de una rama a otra, derramas un poco de agua. Pierdes el equilibrio y se te cae otro chorro. Al llegar a la altura de la ventana de tu dormitorio, el cubo está prácticamente vacío.
+
+Ves a Esteban de pie sobre tu escritorio. El lodo verde ha cubierto tanto tu habitación que casi llega hasta la parte superior de la cama.
+
+No puedes perder un segundo. Aferras el cubo con ambas manos y lo arrojas por la ventana.
+
+#Sigues:24
+
+
+
+39#
+Indudablemente Esteban ha adquirido un aspecto extraño. ¿Se está poniendo verde?
+
+—Esperemos que tu tía no se dé cuenta—comenta Juana.
+
+Pero la tía se da cuenta. Cuando tía Isabel y tu mamá regresan, Esteban está completamente verde: la piel, el pelo, los dientes, hasta las pecas.
+A Esteban le chifla. Hace muecas ante el espejo y dice:
+
+—Soy el increíble Hulk.
+
+Tía Isabel está realmente muy enojada.
+
+—¡Fantástico! —exclama—. ¡Simplemente fantástico! ¡Primero varicela, luego sarampión y ahora esto!
+
+Se lleva a Esteban a casa con la esperanza de que el color desaparezca
+Y tú esperas que desaparezca antes de que llegue tu próximo cumpleaños. Tu madre ha guardado el regalo de cumpleaños de este año.
+
+—Creo que guardaré tu equipo de química hasta que tengas edad suficiente para usarlo —declara.
+
+¿Es justa esa decisión? Esteban lo utilizó bastante bien, a pesar de que sólo tiene cuatro años y medio de edad.
+Fin
+
+
+40#
+
+Bajas del árbol a buscar una escalera. La única que encuentras en el garaje es muy vieja y sólo tiene un peldaño.
+
+—¿De qué me servirá? —te preguntas en voz alta. Estás a punto de darte por vencida cuando se te aclaran las ideas y exclamas—: ¡Zancos!
+
+Sierras el peldaño por la mitad. Luego trepas al coche y te acomodas sobre los improvisados zancos.
+
+¡Qué altos son! Te balanceas hacia atrás y hacia adelante, pero estás convencida de que lo conseguirás. No ves a Juana por ningún lado y alrededor de la casa se ha formado una charca de lodo que aumenta cada minuto que pasa.
+
+Tendrás que caminar en medio de la sustancia verde.
+
+«Psss. Plop». Logras llegar hasta la ventana. Te apoyas contra la casa y respiras hondo.
+
+—Esteban, súbete a la cómoda y luego salta a través de la ventana —dices.
+
+—No, me caeré —se queja el pequeño.
+
+—Vamos, Esteban, aquí estaré y te cogeré en mis brazos —insistes—. Imagina que estás en el circo.
+
+—De acuerdo—te responde.
+
+#Sigues:51
+
+
+42#
+
+Subes corriendo la escalera hasta tu habitación. Esteban duerme a pierna suelta, pero tu habitación está ocupada por una inmensa gamba de color rosa claro. Su cola asoma por la ventana y menea amistosamente las antenas.
+
+—Mi madre no quiere animales en casa.
+
+—De acuerdo, pero es mejor una gamba que una casa llena de lodo verde —te consuela Juana.
+
+Asientes con la cabeza y añades:
+
+—Estoy segura de que este año ganaré el primer premio en el concurso de Ciencias.
+
+Fin
+
+
+45#
+El profesor Tomás saca un cubo de agua de un amplio depósito.
+
+—Aquí hay miles de criaturas y con ellas podrás arreglar cualquier desastre que hayas hecho.
+
+No hay tiempo que perder. Juana y tú cogéis el cubo y regresáis tan rápido como podéis a tu casa. Al llegar descubres que el lodo fluye por debajo de la puerta principal. ¿Debes verter el cubo de agua allí y esperar que los animalitos lleguen hasta tu habitación del primer piso, o deberías tratar de vaciar el cubo en tu dormitorio, arrojándolo por una de las ventanas?
+
+#Si lo echas en la puerta principal:14
+#Si decides trepar hasta la ventana de tu dormitorio:36
+
+
+
+46#
+
+—iCuidado abajo! —le gritas a Juana, que se encuentra en algún sitio de la planta baja.
+
+Esperas a que el lodo se concentre en las zapatillas al final de la escalera y entonces lanzas la balsa neumática por la puerta principal.
+En unos instantes, el lodo estará fuera de tu casa. Después de comerse la balsa, devora los neumáticos de la bicicleta de Juana... A continuación la manguera de goma del patio... Y luego los neumáticos del coche del vecino.
+El lago de lodo verde es cada vez más extenso. Se ha tornado más oscuro y maloliente que antes. «jChup-chup! ¡Chup-chup! ¡Gluglu!» ¡Tu idea funcionó! Echaste al lodo de tu casa.
+
+Juana, Esteban y tú estáis a salvo... De momento.
+Pero hay algo en lo que no pensaste: en la forma de detener para siempre al lodo verde.
+FIN
+
+
+
+
+49#
+
+—¡Esteban! —gritas—. Apártate de la sustancia verde. ¡Es peligrosa!
+
+Esteban estalla en sollozos.
+
+—Quiero irme a casa —grita.
+
+El suelo de tu habitación está ya prácticamente cubierto de lodo verde. La sustancia alcanza los dedos de los pies. Retrocedes hacia la ventana.
+Te das la vuelta deprisa, apoyas un pie en el alféizar de la ventana y coges el marco con ambas manos. De un solo movimiento te pones de pie en la ventana mientras un río de lodo gorgotea debajo de ti.
+
+—¡Esteban, aguanta! —gritas—. Enseguida te sacaré de aquí.
+
+#Sigues:6
+
+
+51#
+
+Finalmente, Esteban aparece por la ventana del dormitorio. Lo primero que ves es su cabeza. Después tu primo se sienta en el alféizar.
+
+—Haz lo que te digo —le pides—. Agárrate al marco de la ventana y apoya el pie en mi hombro. Muy bien... Ahora cógete de mi cabeza y pon el otro pie sobre mi otro hombro
+
+—Esteban se sienta en tus hombros. ¡De momento, todo ha salido bien!—. Quédate muy quieto —le aconsejas a Esteban.
+
+Te incorporas. Al principio te bamboleas un poco, pero, finalmente, comienzas a moverte en medio del lodo.
+
+#Sigues:52
+
+
+52#
+
+Esteban ríe y comenta:
+
+—Este juego me encanta.
+
+Una muchedumbre se ha reunido en torno al lago de lodo. Cuando llegas junto a la multitud, todos aplauden. Un fotógrafo os hace una foto a Juana, a Esteban y a ti.
+
+Eres una estrella. ¿Qué pasará con el lodo?
+
+Ves que la policía está montando barricadas en tu calle. Un helicóptero sobrevuela la zona. ¿Cuándo acabará todo?
+Fin
+

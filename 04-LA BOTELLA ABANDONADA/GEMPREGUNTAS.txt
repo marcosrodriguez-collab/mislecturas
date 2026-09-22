@@ -1,0 +1,81 @@
+1#
+Buscabas tortugas con tu perro Dusty a la orilla de la laguna del Pato.:V
+La botella encontrada en el tronco contenía un líquido de color verde.:F
+2#
+Te manchas el brazo al escapársete la botella de la mano.:V
+Al intentar lavarte en la laguna, notas que el tronco y las plantas son cada vez más pequeños.:F
+4#
+Dusty ignora por completo la botella apoyada en el tronco.:F
+Descubres que Dusty se ha encogido al ver un perrito negro diminuto que corre hacia ti.:V
+6#
+Un animal parecido a un lobo pero que resulta ser una rana te cierra el paso.:V
+La rana logra alcanzarte con su larga lengua y te atrapa.:F
+8#
+Los avispones que vuelan por encima de las margaritas parecen helicópteros.:V
+Al girar a la derecha te encuentras con un gato enorme de dientes afilados.:F
+11#
+Tu madre cree inmediatamente tus palabras sobre el encogimiento de Dusty.:F
+Salvas a Dusty de ser atrapado por las garras de un gato gris.:V
+12#
+Metes a Dusty en el bolsillo de tu camisa para llevarlo en el coche.:V
+La doctora Kemp le entrega a tu madre una caja de cartón para guardar al perro.:F
+14#
+Dusty hace volcar la botella y el líquido azul cae sobre ti haciéndote encoger.:V
+Tu casa se encuentra a cinco kilómetros de distancia del lugar donde estás.:F
+16#
+Logras llegar a la laguna y lavarte el brazo para dejar de encogerte.:V
+Te desplomas en la orilla sintiéndote lleno de energía y listo para correr.:F
+18#
+Decides no perder de vista a los avispones para agacharte si alguno vuela cerca.:V
+Los avispones te persiguen activamente hasta picarte varias veces.:F
+20#
+El profesor Riga usa un líquido verde para hacer que Dusty empiece a crecer.:V
+Dusty deja de crecer rápidamente cuando alcanza la altura de una silla.:F
+21#
+Calculas que debes medir unos ocho centímetros de estatura.:V
+Decides que en el futuro trabajarás en un circo como enanito.:F
+22#
+Tu voz suena tan fuerte como un maullido de gatito al intentar gritar.:V
+Dusty se ha convertido en un animal gigante tan grande como un elefante.:F
+24#
+El profesor Riga afirma que ha inventado un antídoto verde para que Dusty crezca.:V
+El profesor asegura que el antídoto es completamente seguro y sin ningún riesgo.:F
+26#
+Caes de bruces al meter la pierna derecha en una madriguera de ratón.:V
+En la cueva ves a una hormiga que te parece diminuta en comparación contigo.:F
+30#
+Un hombre de espeso cabello blanco y ojos azules llama a la puerta de tu casa.:V
+El profesor Riga admite haber perdido la botella a propósito.:F
+32#
+Te agarras al pelo de Dusty para intentar cabalgar en su lomo hasta tu casa.:V
+El mechón de pelo sigue siendo del mismo grosor a medida que avanzas.:F
+34#
+Te resguardas de las gotas de lluvia entrando a gatas en una botella de refresco vacía.:V
+La botella de refresco permanece en el suelo durante toda la tormenta.:F
+36#
+El profesor Riga te introduce en una casa dentro de la botella de refresco.:V
+Puedes comunicarte claramente con el profesor desde el interior del cristal.:F
+38#
+El profesor vierte una poción verde sobre ti para que crezcas dentro de la casa.:F
+Ves un petirrojo dedicado a buscar gusanos que te parece grande como un avestruz.:V
+40#
+Usas una hoja para navegar por la laguna en la madriguera del ratón.:V
+Caes dentro de un tazón lleno de leche y logras salir nadando fácilmente.:F
+42#
+El profesor vierte el líquido verde sobre tu cabeza y creces hasta superar los tejados.:V
+El profesor Riga logra detener tu crecimiento a tiempo.:F
+44#
+En la guarida del ratón sigues encogiéndote hasta ser más pequeño que una mota de polvo.:V
+Las bacterias que ves a tu alrededor se van haciendo cada vez más pequeñas.:F
+47#
+El profesor Riga disuelve el elixir juntando el contenido de las dos botellas.:V
+El profesorRiga te promete que tu perro volverá a la normalidad de inmediato.:F
+48#
+Rechazas que el profesor pruebe el líquido verde con tu perro Dusty.:V
+Muchas personas acuden a ver a Dusty porque cuesta creer lo pequeño que es.:V
+50#
+La madre petirrojo echa un gusano que cae directamente sobre tu cabeza.:V
+Decides quedarte a vivir permanentemente en el nido cuidando a los pajaritos.:F
+52#
+El líquido verde etiquetado como «Antídoto» te devuelve a tu estatura normal.:V
+Descubres que todo ocurrió porque la botella contenía una poción para encoger.:F

@@ -1,0 +1,490 @@
+﻿EL MONSTRUO DE LA LAGUNA
+
+1#
+
+Quizá fue el tiempo que hizo el invierno pasado: muy frío y luego de súbito caluroso.
+Tal vez el hielo y el deshielo removieron el barro del fondo de la laguna de Miller de un  modo no visto en muchos años.
+O acaso debía ocurrir...
+
+Es el primer día del verano; tú y Hal, tu mejor amigo, decidís ir a pescar. Con las cañas de pescar y algunos gusanos gordos os dirigís a la laguna de Miller en bicicleta.
+
+#Sigue:3
+
+
+3#
+
+Llegáis a vuestro lugar favorito, colocáis los cebos en los anzuelos y tiráis las cuerdas al agua.
+
+No ha trascurrido mucho tiempo cuando el corcho de tu caña se agita y se hunde. Tiras de la cuerda, pero no sigue.
+
+—Debe de haberse enganchado el anzuelo en una roca —comenta Hal—. Vadearé hasta él y lo soltaré.
+
+Hal está metido en el agua hasta las rodillas cuando tu cuerda se agita con tanta fuerza que la caña de pescar se te escapa de las manos.
+
+#Sigue:6
+
+
+
+
+5#
+
+Será mejor que salgáis de aquí mientras podáis hacerlo.
+
+Tú y Hal corréis hacia vuestras bicicletas, pero el monstruo os sigue: primero lentamente, luego más deprisa a medida que se acostumbra a andar por tierra firme.
+Pedaleáis con todas vuestras fuerzas, pero el monstruo os pisa los talones.
+
+—¡Vayamos a la calle Principal! —sugiere Hal.
+
+En la calle Principal habrá mucha gente para socorreros. Pero tu casa está mucho más cerca.
+
+#Si dices “Vayamos a mi casa”:8
+#Si dices “Dirijámonos a la calle Principal”:26
+
+
+
+6#
+
+—¡Dios mío! —exclama Hal.
+
+En el agua, frente a él, asoma una cabeza verdedorada, con una aleta en el centro y ojos saltones. La criatura escupe tu anzuelo y sale de la laguna. Las escamas de sus brazos y piernas brillan, y tiene el cuerpo cubierto con una concha verde.
+
+— ¡Corre! —grita Hal.
+
+Pero has ahorrado durante meses y meses para comprarte una caña de pescar. Los ojos del monstruo están fijos en Hal. ¿Deberías coger primero la caña de pescar y luego salir corriendo?
+
+#Si decides que es mejor huir:5
+#Si decides coger la caña de pescar:10
+
+
+
+
+8#
+
+Cuando llegáis a tu casa, tú y Hal saltáis de las bicicletas y entráis corriendo. Cerráis la puerta de golpe y luego con llave. Después miráis por la ventana. El monstruo se acerca por la verja principal., «Tiger», el viejo perro de Hal, empieza a ladrar.
+
+—¡Oh, no! —exclama Hal. 
+
+—Ese monstruo lo devorará.
+
+Pero parece que el bicho tiene miedo al perro. Araña la puerta y emite un curioso sonido, casi como si pidiera permiso para entrar en la casa.
+No vas a abrir la puerta. ¿O estás dispuesta a hacerlo? El monstruo no es mucho más alto que tú. Además, podrías correr más deprisa que él en caso necesario. Pero tiene un aspecto espantoso. Quizá deberías atraparlo y llamar al refugio de animales.
+
+El animalejo está moviendo el pomo de la puerta, hacia el cual tú adelantas la mano.
+
+#Si decides dejar entrar al monstruo en tu casa:20
+#Si resuelves atraparlo en el garaje:16
+
+
+
+10#
+
+Intentas asir la caña de pescar, pero el monstruo se dirige hacia ti. Te coge por la muñeca y te tira a la laguna. Tomas aire antes de que el agua te cubra la cabeza.
+El bicho te arrastra al fondo. Si no respiras pronto, te ahogarás.
+Súbitamente, tu cabeza se encuentra fuera del agua. El monstruo te empuja hacia un borde rocoso, luego se zambulle y se marcha. Te quedas sola en una cueva oscura.
+Al principio no logras ver nada. Pero después distingues algo que brilla en la oscuridad, parece una salamandra.
+¿Qué deberías hacer? Podrías sumergirte en el agua, antes de que regrese el bicho y tratar de nadar hasta la orilla. O bien usar la salamandra como luz para explorar la cueva y hallar otra salida.
+
+#Si te sumerges en el agua:13
+#Si decides explorar la cueva:34
+
+
+
+
+13#
+Tomas aire dos veces y te zambulles. Te hallas en medio de un remolino. El agua se agita con violencia a tu alrededor. La corriente es demasiado fuerte para que puedas nadar, Te parece que va a estallarte la cabeza y empiezas a ver una especie de manchas ante tus ojos.
+
+Al final el agua se calma. Pero es demasiado tarde. Estás cansada y tragas agua. Se te nubla la vista. Algo te aplasta las costillas. ¿Ha vuelto el monstruo? Te preparas para luchar. Pero cuando abres los ojos, te hallas de nuevo en la orilla de la laguna; Hal te saca del agua. Tu caña de pescar está a tu lado.
+
+—¿Te has lastimado? —pregunta Hal.
+
+¿Y el bicho? Nadie ha vuelto jamás a verlo.
+Fin
+
+
+
+
+
+15#
+
+Hal se te adelanta, corriendo, hacia el cuartel de los bomberos. Cuando, persiguiéndoos, el monstruo pasa ante su puerta, los bomberos ya están preparados: lanzan una gran red sobre el bicho y luego lo atan con cuerdas.
+De repente suena la alarma de fuego.
+
+— Aléjate de ese monstruo hasta que regresemos —te advierte el jefe de los bomberos—. Es un ser horrible: estaría mejor disecado.
+
+—Voy a ver dónde está el fuego —dice Hal.
+
+—Creo que no me moveré de aquí—añades.
+
+Ahora te has quedado sola con el bicho.
+
+—No te ocurrirá nada —le tranquilizas.
+
+¿Pero será así? Aquí está, completamente atado, ¿preparado para ser... disecado?
+Comienzas a deshacer las cuerdas que lo atan.
+
+—No te preocupes —le confiesas mientras le quitas la red y le acaricias la aleta—. Te ayudaré a escaparte.
+Fin
+
+
+
+16#
+
+Voy a encerrar a ese animalejo en el garaje. Llévate a «Tiger» —ordenas a Hal.
+Te diriges a la cocina; abres una lata de atún. Al monstruo debe gustarle el pescado. Cuando cesan los ladridos sales fuera por la puerta trasera.
+
+—¡Eh! —gritas—. ¡Comida!
+
+Corres al garaje, con la esperanza de que el bicho te siga. Pones el atún en el suelo del garaje y te escondes cerca de la ventana. Entonces, el monstruo entra y se agacha para comerse el atún.
+
+—¡Pronto! —gritas a Hal, que está en la entrada—. ¡Cierra la puerta del garaje!
+
+Sales por la ventana del garaje y la cierras. El bicho ha quedado atrapado. Pero, ¿deberías llamar al refugio de animales? ¿O tal vez telefonear al acuario? En realidad, ese animalejo ha salido de una laguna.
+
+#Si llamas al refugio de animales:28
+#Si llamas al acuario:49
+
+
+
+
+19#
+
+—¿Cómo sacaremos a ese bicho de aquí? —pregunta Hal—. ¿Qué ocurrirá si alguien nos ve con él?
+
+—Tengo una idea —contestas.
+
+Buscas en el armario del vestíbulo y sacas un viejo impermeable amarillo de tu padre y unos patos azules para los pies. Pones el impermeable al animalejo por la cabeza y los patos alrededor de sus tobillos: así le ocultan sus patas.
+
+—Ya está —dices a Hal; y añades, en voz alta—. Hasta luego, mamá.
+
+—¿Y ahora qué? —pregunta Hal mientras os dirigís hacia la puerta.
+
+Podríais llevarlo otra vez a la laguna de Miller. Esto sería lo más fácil. Pero quizá resultaría mejor conducirlo al lago Minnewonka, donde tendría más espacio. Pero para eso necesitaríais dinero.
+
+#Si preguntas “¿Tienes algún dinero?”:37
+#Si contestas “Devolvámoslo al lugar de donde vino”:44
+
+
+
+20#
+
+Decides permitir que el animalejo entre. Abres la puerta.
+
+—¿Te has vuelto loca? —grita Hal.
+
+Éste trata de cerrar la puerta, pero es demasiado tarde. El monstruo ya ha entrado, y se dirige hacia ti, pero sus membranosas patas se meten debajo de la alfombra y tropieza con ella. Alarga un brazo.
+
+—¡Ten cuidado! —grita Hal, y salta detrás de un sillón.
+
+#Sigue:54
+
+
+
+23#
+
+—Deprisa, metamos a ese bicho en mi habitación antes de que mi madre lo vea —dices a Hal.
+
+El animalejo os sigue por el vestíbulo hacia tu cuarto, pero en su avance derriba por el suelo un par de sillas y una lámpara.
+
+—¿Qué pasa ahí? —pregunta tu madre desde la puerta principal.
+
+—Nada: Hal y yo estábamos jugando—contestas.
+
+Cierras la puerta de tu habitación. El monstruo se queda en un rincón y te mira.
+A tu madre le habría dado un ataque si lo hubiera visto. Pero a ti te gustaría conservarlo. Nadie más tiene un monstruo como animal doméstico.
+
+#Si dices “Sería mejor que sacáramos a ese bicho de aquí”:19
+#Si decides conservar al bicho durante algún tiempo:24
+
+
+24#
+
+—Voy a quedarme con ese bicho —confías a Hal.
+
+—¿Quedarte con él? — Pregunta Hal, sorprendido— ¡Si tu madre ni siquiera te permite tener un hámster!
+
+—Por el momento Se puede quedar en mi cuarto —dices—. Quizá mi madre no se dará cuenta.
+
+#Sigue:31
+
+
+
+
+26#
+
+Tú y Hal pedaleáis hacia la calle Principal con todas vuestras fuerzas. El señor Wedgeworth, el barbero, está ante su establecimiento, tomando el sol.
+
+— ¿Qué os ocurre? —pregunta.
+
+— ¡Mire! —Hal señala al bicho que le persigue.
+
+—¡Agh! —chilla el señor Wedgeworth.
+
+Entra corriendo en su establecimiento y cierra la puerta de golpe. La gente se mete apresuradamente en las tiendas de la calle Principal para huir del monstruo.
+
+—No creo que logremos mucha ayuda aquí —comenta Hal, jadeante—. ¿Vamos al cuartel de los bomberos?
+
+Allá habrá gente dispuesta, con redes y cuerdas. También está el cine, al otro lado de la calle. Tal vez podáis zafaros del bicho allí.
+
+#Si dices  “Vayamos al cuartel de los bomberos”:15
+#Si dices  “Vayamos al cine”:47
+
+
+
+28#
+
+Llamas al refugio de animales:
+
+— Hay un bicho peligroso en mi garaje; ésta es mi dirección —avisas.
+
+Luego, tú y Hal salís fuera para esperarlos.
+
+Observas al monstruo a través de la ventana del garaje. Gime y araña las paredes.
+¿Cómo soportará estar encerrado en una jaula pequeña del refugio?
+
+—Vuelvo en seguida —explicas a Hal, pues de repente se te ha ocurrido una idea.
+
+El único pescado que hay en tu casa es un tarro de crema de anchoas. Te lo llevas al garaje, abres la puerta y alargas el tarro al bicho.
+
+—Esto te gustará mucho —dices.
+
+Ahora, el monstruo no se fía de ti, pero las anchoas huelen bien. El bicho te sigue hacia los arbustos. Sueltas un reguero de crema de anchoas por el suelo mientras caminas, en espera de que el animalejo se lo comerá lentamente. No quieres que los hombres del refugio de animales vean al monstruo.
+
+#Sigue:33
+
+
+
+31#
+
+Antes de meterte en la cama, abres bien la ventana para que el bicho tenga aire fresco. A la mañana siguiente temprano oyes la voz de Hal, que viene del exterior.
+
+—¡Eh! ¡Levántate!
+
+Abres los ojos y buscas al bicho. La colcha está abandonada en el suelo. Miras por la ventana.
+
+— ¡Hal! —gritas—. ¡El bicho se ha marchado!
+
+#Sigue:41
+
+
+33#
+
+Se cierra la puerta de un coche. Vuelves corriendo al garaje.
+
+— ¿Dónde está el bicho peligroso? —pregunta el hombre del refugio de animales.
+
+¿Qué le dirás? Hay tres grandes gatos vagando alrededor del garaje. Probablemente huelen el pescado.
+
+—Lo siento —contestas—. Me temo que sólo eran esos mininos.
+
+—Tienes mucha imaginación, chiquilla—replica el hombre.
+
+Éste regresa a su camioneta y se va. ¿Pero qué hacer con el bicho? Quizá lo mejor sería devolverlo a la laguna de Miller. ¿O antes deberías llamar a tu prima Maggie? Estudia biología marina en la universidad, y lo sabe todo acerca de ballenas y delfines. Tal vez Maggie pueda decirte qué es lo mejor para ese animalejo.
+
+#Si decides devolver el bicho a la laguna de Miller:50
+#Si llamas a tu prima Maggie:38
+
+
+
+
+34#
+
+Decides explorar la cueva. La salamandra serpentea ante ti y se precipita por una grieta de la pared. Una grieta... quizá es la salida. En tu avance apartas algunas rocas. Ahora te hallas en una cueva más pequeña, no tan obscura como la anterior, llena de rocas de diferentes tamaños. Pones la mano en una roca para apoyarte. Sólo que no se trata de una roca: es una cabeza verdedorada, con una aleta en medio. Y la «roca» próxima a ella es... otro bicho. ¡La cueva está llena de bichos!
+
+Tu única oportunidad es hacer creer a esos bichos que tú eres uno de ellos. Te agachas rápidamente junto a la pared de la caverna. ¿Quién sabe? Si permaneces aquí lo suficiente, quizá te saldrán escamas y una concha. Y tienes el presentimiento de que estarás aquí mucho tiempo, muchísimo.
+Fin
+
+
+37#
+
+—¿Para qué necesitas el dinero? —pregunta Hal.
+
+—Creo que deberíamos llevar a ese bicho al lago Minnewonka; allí tendrá más espacio —contestas—. Necesitamos dinero para los billetes del tren. Sólo tengo dos dólares.
+
+—¡Caramba!, ahora qué estaba ahorrando para una motocicleta —se lamenta Hal.
+
+Sin embargo, tu amigo va a su casa y vuelve con el dinero. Compráis dos billetes de ida y vuelta y uno de ida, para el lago Minnewonka. Cuando la capucha del impermeable está bajada, nadie puede ver la cara del bicho. El viaje en tren dura una hora. Luego el revisor grita:
+
+—Última parada: lago Minnewonka.
+
+La gente se dirige a la orilla con toallas y flotadores de goma. Cuando el bicho se pone a andar, le cae hacia atrás la capucha de su impermeable amarillo.
+
+—¡Es un monstruo! ¡Llamen a la policía!—empieza a gritar una mujer.
+
+#Sigue:42
+
+
+
+
+38#
+
+Cuando le cuentas a tu prima Maggie lo del monstruo, viene en seguida en su camioneta. Advierte que el monstruo parece a punto de salir de su concha.
+
+—Esto significa que está creciendo —afirma Maggie.
+
+Maggie quiere llevarse al bicho al laboratorio de la universidad para observar su crecimiento. Cree que el animalejo estará más seguro allí sin su concha que en la laguna de Miller.
+
+Ayudas a tu prima a meterlo en la parte trasera de la camioneta. Comprendes que es lo mejor que puede hacerse. Pero, ¿por qué estás tan triste?
+
+—¿Crees que nos quiere? —preguntas a Hal; y añades, dirigiéndote al bicho—: Te visitaré todas las semanas. Pronto te veré.
+
+Mientras Maggie se aleja en su camioneta, ves que el bicho saca una pata por la ventana, casi como si te estuviera diciendo adiós.
+Fin
+
+
+
+41#
+
+—Sé que el bicho se ha escapado —dice Hal—. Esto es lo que he venido a contarte.
+
+Anoche me despertaron los ladridos de «Tiger». La luna alumbraba mucho. Miré afuera y vi que el bicho estaba frente a tu casa. Pero eso no es todo. Distinguí algo que se movía en la sombra. Sea lo que fuere, era mayor que cualquier cosa que jamás haya visto.
+
+— Tuviste una pesadilla —comentas.
+
+—¿Qué me dices de esto? —observa Hal—. Apuesto que van en dirección a la laguna de Miller.
+
+Tu amigo señala el suelo: hay dos series de huellas. Una, más o menos del tamaño de los pies de Hal, corresponde a las patas membranosas del bicho. Las otras huellas tienen la misma forma, pero son, mínimo, ¡cuatro veces mayores!
+Fin
+
+
+
+
+
+42#
+
+Hal calma a todo el mundo.
+
+— ¿Qué clase de monstruo llevaría un impermeable amarillo? —pregunta.
+
+El bicho penetra en el lago hasta la altura de su cuello. Sus escamas brillan al sol mientras gira la cabeza para mirarte. Luego se sumerge. Los patos de goma todavía cuelgan de sus tobillos cuando desaparece dentro del agua.
+Tú y Hal contempláis el lago unos minutos, pero el impermeable amarillo es todo lo
+que queda del extraño ser.
+
+—Lástima que no tengamos las cañas de pescar —comentas.
+
+—No creo que me dedique a pescar durante mucho tiempo —dice Hal—. Nunca se sabe lo que puedes pescar.
+Fin
+
+
+
+44#
+
+Tú Hal empezáis a andar con el bicho hacia la laguna de Miller. Cuando llegáis al sendero del bosque, «Tiger», que os sigue, ladra y muerde las patas del animalejo.
+
+—¡No, «Tiger»! —grita Hal.
+
+Pero el bicho se mete corriendo en el bosque, y «Tiger» tras de él, pisándole los talones. Oyes al monstruo cruzar por los arbustos, y cada vez se aleja más. Luego reina el silencio.
+
+Encuentras el impermeable no lejos del sendero. «Tiger» regresa con la lengua fuera. Nunca más vuelves a ver al bicho. Algunos meses más tarde, un titular del periódico reza: «PAREJA ASUSTADA POR UN MONSTRUO MARINO». El artículo cuenta que un bicho que llevaba patos de goma, se comió el almuerzo de la pareja —incluida la cesta— antes de desaparecer en la bahía.
+
+La bahía está a ciento sesenta kilómetros de la laguna de Miller. ¿Pero cuántos bichos pueden llevar patos de goma?
+
+Sólo el tuyo.
+Fin
+
+
+47#
+
+La película ya ha empezado cuando llegáis al cine. La taquillera se ha ido, de modo que tú y Hal os escondéis en la taquilla. El bicho no os ve. Entra directamente en el cine por su puerta entreabierta. Oís chillidos y gritos que provienen de la sala.
+
+—El monstruo los estará atacando —supones.
+
+—¡Mira lo que están proyectando! —exclama Hal y señala un cartel. «GANDOR”, EL
+MONSTRUO DE LAS PROFUNDIDADES», reza el cartel.
+
+Entráis en el cine y halláis al bicho delante de la pantalla. «Gandor» ruge en la película y el bicho ruge a «Gandor». El público cree que el bicho forma parte del espectáculo.
+
+—¡Es terrorífico! —comenta un muchacho.
+
+Súbitamente, se encienden las luces.
+
+—¡Vosotros dos, detenedlo! —os ordena el director del cine.
+
+— Ahora mismo —asiente Hal.
+
+#Sigue:52
+
+
+49#
+
+El señor Gordon, del acuario, demuestra mucho interés cuando recibe tu llamada telefónica. Viene a tu casa para llevarse al bicho.
+
+—Lo atrapé yo misma —cuentas al señor Gordon.
+
+A continuación se lleva al bicho en un camión cisterna lleno de agua.
+
+—¿Lo atrapaste tú misma? —pregunta Hal.
+
+—Claro que lo atrapé yo —respondes.
+
+—¡Bien! —replica Hal—. Entonces no me necesitarás para esos animalejos.
+
+Dos monstruos más se están acercando a tu casa. Y parecen hambrientos. Pero Hal se ha ido antes de que puedas gritar:
+
+—¡Trae más pescado!
+Fin
+
+
+
+
+
+50#
+
+—Venga —dices a Hal—. Devolvamos a ese bicho a la laguna de Miller. Iremos por detrás.
+
+Todo marcha bien hasta que llegáis a la casa de la señora Brady. De pronto, el monstruo atraviesa la valla y se come todos los pececillos exóticos del estanque de la señora Brady. Luego se sumerge en la piscina de la casa.
+
+—Supongo que necesitaba volver al agua—comentas.
+
+Se abre una puerta.
+
+—¡Sale la señora Brady! —exclama Hal.
+
+Los dos corréis hacia la abertura de la valla. La señora Brady comienza a gritar.
+¡Matará al bicho del susto!
+
+—Vámonos de aquí —dice Hal.
+
+Pero tú corres hacia la piscina.
+
+—Tú... tú... tú —farfulla la señora Brady antes de que el monstruo la coja por el brazo y ambos den un buen salto en la piscina.
+
+Te das cuenta del lío en que estás metida. Pero merece la pena contemplar el ballet acuático de la señora Brady con el bicho.
+Fin
+
+
+
+
+
+52#
+
+—¿Es vuestro? —pregunta el director.
+
+—Bueno... —balbuceas—, más o menos.
+
+—¡Magnífico! Eso es exactamente lo que necesita mi cine. ¿Cuánto queréis por él?53
+
+— El bicho no es nuestro: nos ha seguido. Vive en la laguna de Miller.
+
+—No me importa donde viva —responde el director— mientras esté aquí para las dos sesiones de cine de terror del sábado.
+
+De este modo llegáis a un trato. Todos los sábados —por dos pases gratuitos y un dólar para cada uno— tú y Hal vais a la laguna de Miller, donde aguardáis a que el bicho os siga hasta la ciudad.
+
+El bicho pasa la tarde en el cine, rugiendo al monstruo de la película y comiendo palomitas de maíz. Después de la sesión lo lleváis de nuevo a la laguna, hasta el sábado siguiente, día en que vuelve a convertirse en una estrella del espectáculo.
+Fin
+
+
+
+
+54#
+
+Pero no te mueves.
+
+—No creo que nos haga daño.
+
+El bicho pone su membranosa pata en tu hombro.
+
+—¡Me quiere! —exclamas.
+
+—Esto es magnífico —dice Hal—. Me disgusta tener que decírtelo, pero creo que tu madre acaba de aparcar frente a la casa.
+
+#Sigue:23
