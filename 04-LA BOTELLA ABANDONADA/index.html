@@ -21,13 +21,24 @@
             box-shadow: 0 4px 10px rgba(0,0,0,0.08);
         }
 
-        #imagen-pagina {
+        /* AJUSTE PARA LAS IMÁGENES: Muestra el JPG completo sin recortar */
+        #contenedor-imagen {
             width: 100%;
-            height: auto;
-            max-height: 400px;
-            object-fit: cover;
-            border-radius: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             margin-bottom: 20px;
+            background-color: #f8fafc;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        #imagen-pagina {
+            max-width: 100%;
+            height: auto;
+            max-height: 500px; /* Límite razonable para que no ocupe toda la pantalla verticalmente */
+            object-fit: contain; /* NUNCA corta la imagen, la escala completa */
+            border-radius: 6px;
             display: block;
         }
 
@@ -119,7 +130,9 @@
 <body>
 
     <div id="contenedor-libro">
-        <img id="imagen-pagina" src="" alt="Ilustración de la página" style="display: none;">
+        <div id="contenedor-imagen">
+            <img id="imagen-pagina" src="" alt="Ilustración de la página" style="display: none;">
+        </div>
         <div id="texto-pagina">Cargando historia...</div>
         
         <div id="bloque-historial"></div>
@@ -135,6 +148,7 @@
         let paginasVisitadas = [1];
 
         const imagenEl = document.getElementById('imagen-pagina');
+        const contenedorImagen = document.getElementById('contenedor-imagen');
         const textoEl = document.getElementById('texto-pagina');
         const opcionesDiv = document.getElementById('opciones');
         const btnVolver = document.getElementById('btn-volver');
@@ -142,8 +156,10 @@
 
         async function cargarHistoria() {
             try {
-                const response = await fetch('./gemhistoria.txt');
-                if (!response.ok) throw new Error("No se pudo cargar el archivo gemhistoria.txt");
+                let response = await fetch('./GEMHISTORIA.TXT');
+                if (!response.ok) response = await fetch('./gemhistoria.txt');
+                
+                if (!response.ok) throw new Error("No se pudo cargar el archivo de historia");
                 const texto = await response.text();
                 parsearHistoria(texto);
                 mostrarPagina(1);
@@ -216,18 +232,23 @@
             }
 
             if (!datosPagina) {
-                textoEl.textContent = "Error: La página " + numero + " no existe en gemhistoria.txt.";
+                textoEl.textContent = "Error: La página " + numero + " no existe en la historia.";
                 opcionesDiv.innerHTML = '';
                 bloqueHistorial.innerHTML = '';
+                contenedorImagen.style.display = 'none';
                 return;
             }
 
+            // Cargar imagen de la página correspondiente
             const numFormateado = String(numero).padStart(3, '0');
             imagenEl.src = `./${numFormateado}.jpg`;
             imagenEl.style.display = 'block';
+            contenedorImagen.style.display = 'flex';
 
             imagenEl.onerror = () => {
+                // Si la imagen no existe, oculta el contenedor para que no deje espacio vacío
                 imagenEl.style.display = 'none';
+                contenedorImagen.style.display = 'none';
             };
 
             textoEl.textContent = datosPagina.texto;
@@ -271,10 +292,8 @@
         }
 
         function agregarOpcionesFinal() {
-            // Construimos la lista de páginas separada por comas
             const paginasCadena = paginasVisitadas.join(',');
 
-            // Botón Cuestionario: pasa la lista directamente por la URL
             const btnPreguntas = document.createElement('button');
             btnPreguntas.type = 'button';
             btnPreguntas.classList.add('opcion', 'btn-preguntas');
@@ -285,7 +304,6 @@
             };
             opcionesDiv.appendChild(btnPreguntas);
 
-            // Botón Reiniciar
             const btnReinicio = document.createElement('button');
             btnReinicio.type = 'button';
             btnReinicio.classList.add('opcion', 'btn-reinicio');
@@ -304,10 +322,7 @@
             e.preventDefault();
             if (historialPaginas.length > 0) {
                 const paginaAnterior = historialPaginas.pop();
-                
-                // Si la página de la que volvemos estaba en el historial, la quitamos del listado de visitadas
                 paginasVisitadas.pop();
-                
                 mostrarPagina(paginaAnterior);
             }
         });
