@@ -3,157 +3,316 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biblioteca de Libros Interactivos</title>
+    <title>Libro Interactivo</title>
     <style>
         body {
-            font-family: system-ui, -apple-system, sans-serif;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            margin: 20px auto;
+            max-width: 650px;
+            line-height: 1.6;
             background-color: #f4f7f6;
             color: #333;
-            margin: 0;
-            padding: 20px;
         }
 
-        header {
-            text-align: center;
-            padding: 25px;
-            background-color: #2c3e50;
-            color: white;
-            border-radius: 10px;
-            margin-bottom: 25px;
-        }
-
-        header h1 { margin: 0; }
-
-        .grid-libros {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-            gap: 25px;
-            max-width: 1000px;
-            margin: 0 auto;
-        }
-
-        .tarjeta {
+        #contenedor-libro {
             background: white;
-            padding: 20px;
             border-radius: 10px;
+            padding: 25px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        }
+
+        #imagen-pagina {
+            width: 100%;
+            height: auto;
+            max-height: 400px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: block;
+        }
+
+        #texto-pagina {
+            font-size: 1.1rem;
+            margin-bottom: 25px;
+            white-space: pre-line;
+        }
+
+        .opciones-container {
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
-            text-align: center;
-            transition: transform 0.2s, box-shadow 0.2s;
+            gap: 12px;
         }
 
-        .tarjeta:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 6px 15px rgba(0,0,0,0.12);
-        }
-
-        .tarjeta h2 {
-            margin: 0 0 15px 0;
-            color: #2c3e50;
-            font-size: 1.15rem;
-            min-height: 2.8em; /* Mantiene alineación si los títulos ocupan 2 líneas */
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        /* Contenedor adaptativo para las portadas */
-        .contenedor-portada {
-            width: 100%;
-            height: 300px;
-            background-color: #f8fafc;
-            border-radius: 6px;
-            overflow: hidden;
-            margin-bottom: 15px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border: 1px solid #e2e8f0;
-        }
-
-        .portada-img {
-            max-width: 100%;
-            max-height: 100%;
-            object-fit: contain; /* Adapta la portada completa sin recortarla */
-            border-radius: 4px;
-        }
-
-        .btn-jugar {
-            display: block;
-            background-color: #3498db;
+        .opcion {
+            background-color: #2c3e50;
             color: white;
-            text-decoration: none;
-            padding: 12px;
+            border: none;
+            padding: 12px 18px;
             border-radius: 6px;
-            font-weight: bold;
-            transition: background 0.2s;
+            cursor: pointer;
+            font-size: 1rem;
+            text-align: left;
+            transition: background-color 0.2s, transform 0.1s;
         }
 
-        .btn-jugar:hover {
-            background-color: #2980b9;
+        .opcion:hover {
+            background-color: #34495e;
+            transform: translateY(-2px);
+        }
+
+        .btn-preguntas {
+            background-color: #27ae60 !important;
+            font-weight: bold;
+            text-align: center !important;
+        }
+
+        .btn-preguntas:hover {
+            background-color: #219150 !important;
+        }
+
+        .btn-reinicio {
+            background-color: #7f8c8d !important;
+            text-align: center !important;
+        }
+
+        .btn-reinicio:hover {
+            background-color: #95a5a6 !important;
+        }
+
+        .btn-atras {
+            margin-top: 20px;
+            background-color: transparent;
+            color: #7f8c8d;
+            border: 1px solid #bdc3c7;
+            padding: 8px 14px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9rem;
+        }
+
+        .btn-atras:hover {
+            background-color: #ecf0f1;
+            color: #2c3e50;
+        }
+
+        .resumen-recorrido {
+            background-color: #eef2f5;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 0 6px 6px 0;
+        }
+
+        .resumen-recorrido h3 {
+            margin-top: 0;
+            color: #2c3e50;
+            font-size: 1rem;
+        }
+
+        .resumen-recorrido p {
+            margin-bottom: 0;
+            font-weight: bold;
+            color: #2980b9;
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1>📚 Mis Libros Interactivos</h1>
-    </header>
+    <div id="contenedor-libro">
+        <img id="imagen-pagina" src="" alt="Ilustración de la página" style="display: none;">
+        <div id="texto-pagina">Cargando historia...</div>
+        
+        <div id="bloque-historial"></div>
 
-    <main class="grid-libros" id="contenedor-libros">
-        <p>Cargando lista de libros...</p>
-    </main>
+        <div id="opciones" class="opciones-container"></div>
+        <button id="btn-volver" class="btn-atras" style="display: none;">⬅ Volver a la página anterior</button>
+    </div>
 
     <script>
-        async function cargarBiblioteca() {
-            const contenedor = document.getElementById('contenedor-libros');
-            
+        let historia = {};
+        let paginaActual = 1;
+        let historialPaginas = [];
+        let paginasVisitadas = [1];
+
+        const imagenEl = document.getElementById('imagen-pagina');
+        const textoEl = document.getElementById('texto-pagina');
+        const opcionesDiv = document.getElementById('opciones');
+        const btnVolver = document.getElementById('btn-volver');
+        const bloqueHistorial = document.getElementById('bloque-historial');
+
+        async function cargarHistoria() {
             try {
-                // Intenta cargar LIBROS.TXT o libros.txt
-                let respuesta = await fetch('./LIBROS.TXT');
-                if (!respuesta.ok) respuesta = await fetch('./libros.txt');
-                
-                if (!respuesta.ok) throw new Error("No se pudo encontrar el archivo LIBROS.TXT");
-                
-                const texto = await respuesta.text();
-                // Obtener nombres de libros/carpetas limpios
-                const carpetas = texto.split('\n').map(l => l.trim()).filter(l => l.length > 0);
-                
-                contenedor.innerHTML = ''; 
-
-                carpetas.forEach(carpeta => {
-                    // Título visual (se elimina el prefijo de número si se desea)
-                    let titulo = carpeta;
-                    if (carpeta.includes('-')) {
-                        titulo = carpeta.split('-').slice(1).join('-').trim();
-                    }
-
-                    // Construcción de la ruta exacta de la imagen JPG
-                    const rutaImagen = `./${carpeta}.JPG`;
-
-                    const tarjeta = document.createElement('article');
-                    tarjeta.className = 'tarjeta';
-                    tarjeta.innerHTML = `
-                        <h2>${titulo}</h2>
-                        <div class="contenedor-portada">
-                            <img src="${rutaImagen}" 
-                                 alt="Portada de ${titulo}" 
-                                 class="portada-img"
-                                 onerror="this.onerror=null; this.src='./${carpeta}.jpg'; this.onerror=function(){ this.parentNode.style.display='none'; }">
-                        </div>
-                        <a href="./${carpeta}/" class="btn-jugar">Leer Libro</a>
-                    `;
-                    contenedor.appendChild(tarjeta);
-                });
-
+                const response = await fetch('./gemhistoria.txt');
+                if (!response.ok) throw new Error("No se pudo cargar el archivo gemhistoria.txt");
+                const texto = await response.text();
+                parsearHistoria(texto);
+                mostrarPagina(1);
             } catch (error) {
-                contenedor.innerHTML = `<p style="color:red">Error: ${error.message}</p>`;
+                textoEl.textContent = "Error al cargar la historia: " + error.message;
             }
         }
 
-        cargarBiblioteca();
+        function parsearHistoria(texto) {
+            historia = {}; 
+            const lineas = texto.replace(/\r\n/g, '\n').split('\n');
+            let paginaNum = null;
+            let contenido = [];
+
+            lineas.forEach(linea => {
+                const lineaLimpia = linea.trim();
+                const matchPagina = lineaLimpia.match(/^(\d+)\s*#/);
+
+                if (matchPagina) {
+                    if (paginaNum !== null) {
+                        procesarBloquePagina(paginaNum, contenido);
+                    }
+                    paginaNum = parseInt(matchPagina[1]);
+                    contenido = [];
+                } else if (lineaLimpia !== '') {
+                    contenido.push(lineaLimpia);
+                }
+            });
+
+            if (paginaNum !== null) {
+                procesarBloquePagina(paginaNum, contenido);
+            }
+        }
+
+        function procesarBloquePagina(numero, lineas) {
+            let textoPagina = [];
+            let opciones = [];
+
+            lineas.forEach(linea => {
+                if (linea.startsWith('#') && linea.includes(':')) {
+                    const sinAlmohadilla = linea.substring(1);
+                    const ultimaPosicionColon = sinAlmohadilla.lastIndexOf(':');
+                    
+                    const textoOpcion = sinAlmohadilla.substring(0, ultimaPosicionColon).trim();
+                    const destinoPag = parseInt(sinAlmohadilla.substring(ultimaPosicionColon + 1).trim());
+
+                    if (textoOpcion && !isNaN(destinoPag)) {
+                        opciones.push({
+                            texto: textoOpcion,
+                            destino: destinoPag
+                        });
+                    }
+                } else {
+                    textoPagina.push(linea);
+                }
+            });
+
+            historia[numero] = {
+                texto: textoPagina.join('\n'),
+                opciones: opciones
+            };
+        }
+
+        function mostrarPagina(numero) {
+            paginaActual = numero;
+            const datosPagina = historia[numero];
+
+            if (!paginasVisitadas.includes(numero)) {
+                paginasVisitadas.push(numero);
+            }
+
+            if (!datosPagina) {
+                textoEl.textContent = "Error: La página " + numero + " no existe en gemhistoria.txt.";
+                opcionesDiv.innerHTML = '';
+                bloqueHistorial.innerHTML = '';
+                return;
+            }
+
+            const numFormateado = String(numero).padStart(3, '0');
+            imagenEl.src = `./${numFormateado}.jpg`;
+            imagenEl.style.display = 'block';
+
+            imagenEl.onerror = () => {
+                imagenEl.style.display = 'none';
+            };
+
+            textoEl.textContent = datosPagina.texto;
+            opcionesDiv.innerHTML = '';
+            bloqueHistorial.innerHTML = '';
+
+            if (datosPagina.opciones && datosPagina.opciones.length > 0) {
+                datosPagina.opciones.forEach(opc => {
+                    const btn = document.createElement('button');
+                    btn.type = 'button';
+                    btn.classList.add('opcion');
+                    btn.textContent = opc.texto;
+                    btn.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        historialPaginas.push(paginaActual);
+                        mostrarPagina(opc.destino);
+                    });
+                    opcionesDiv.appendChild(btn);
+                });
+            } else {
+                mostrarResumenFinal();
+                agregarOpcionesFinal();
+            }
+
+            if (historialPaginas.length > 0) {
+                btnVolver.style.display = 'inline-block';
+            } else {
+                btnVolver.style.display = 'none';
+            }
+
+            window.scrollTo(0, 0);
+        }
+
+        function mostrarResumenFinal() {
+            bloqueHistorial.innerHTML = `
+                <div class="resumen-recorrido">
+                    <h3>📌 Recorrido realizado:</h3>
+                    <p>Páginas visitadas: ${paginasVisitadas.join(' ➔ ')}</p>
+                </div>
+            `;
+        }
+
+        function agregarOpcionesFinal() {
+            // Construimos la lista de páginas separada por comas
+            const paginasCadena = paginasVisitadas.join(',');
+
+            // Botón Cuestionario: pasa la lista directamente por la URL
+            const btnPreguntas = document.createElement('button');
+            btnPreguntas.type = 'button';
+            btnPreguntas.classList.add('opcion', 'btn-preguntas');
+            btnPreguntas.textContent = '📝 Realizar las preguntas de comprensión';
+            btnPreguntas.onclick = function(e) {
+                e.preventDefault();
+                window.location.href = './questions.html?paginas=' + encodeURIComponent(paginasCadena);
+            };
+            opcionesDiv.appendChild(btnPreguntas);
+
+            // Botón Reiniciar
+            const btnReinicio = document.createElement('button');
+            btnReinicio.type = 'button';
+            btnReinicio.classList.add('opcion', 'btn-reinicio');
+            btnReinicio.textContent = '🔄 Volver a leer la historia';
+            btnReinicio.onclick = function(e) {
+                e.preventDefault();
+                paginaActual = 1;
+                historialPaginas = [];
+                paginasVisitadas = [1];
+                mostrarPagina(1);
+            };
+            opcionesDiv.appendChild(btnReinicio);
+        }
+
+        btnVolver.addEventListener('click', (e) => {
+            e.preventDefault();
+            if (historialPaginas.length > 0) {
+                const paginaAnterior = historialPaginas.pop();
+                
+                // Si la página de la que volvemos estaba en el historial, la quitamos del listado de visitadas
+                paginasVisitadas.pop();
+                
+                mostrarPagina(paginaAnterior);
+            }
+        });
+
+        cargarHistoria();
     </script>
 </body>
 </html>

@@ -1,0 +1,379 @@
+﻿1#
+
+—Por favor, abróchense los cinturones —indican por los altavoces—. El vuelo 216 en dirección hacia el Cairo está a punto de despegar.
+El avión se eleva sobre las nubes. Vuelves a pensar en lo afortunado que eres. Estás camino de Egipto con tu tía Dottie, que es arqueóloga —se dedica a estudiar civilizaciones antiguas—. Su especialidad son las momias.
+Dottie quiere encontrar un collar enterrado miles de años atrás en la tumba de un Faraón —un antiguo rey egipcio—. Te ha descrito el collar un montón de veces; es de oro y tiene un escarabajo de cristal en el centro. Un singular amuleto que llevaban los antiguos egipcios.
+Mientras voláis hacia Egipto, te cuenta el motivo por el que le interesa tanto encontrar el collar.
+
+#Sigue: 2
+
+
+2#
+
+—Ese escarabajo tiene poderes —te explica—. Unos poderes mágicos asombrosos.
+
+Dicen que es capaz de conceder deseos y de adivinar el futuro. ¡Incluso puede enviar a su propietario a través del tiempo!
+En ese instante adviertes que al otro lado del pasillo un hombre te está mirando fijamente. Cuando vuestras miradas se encuentran, aparta la suya rápidamente. ¿Lleva una pistola bajo la chaqueta o sólo lo parece?
+Se lo indicas a tu tía. Parece preocupada.
+
+—Es un miembro de la cuadrilla de Al-Fazi —te dice—. Son contrabandistas. También ellos quieren encontrar el collar.
+
+Cuando el avión aterriza, tu tía y tú esperáis vuestras maletas en el mostrador de equipajes. Al lado de un grupo de pasajeros ves al hombre del avión. Esta vez estás seguro de que no son imaginaciones. ¡Os está siguiendo!
+
+#Si despistáis al hombre en el desierto:5
+#Si antes os dirigís al hotel:6
+
+
+5#
+
+Salís corriendo del aeropuerto. Un taxi os lleva hasta el jeep de tu tía. Pero después marcháis a toda velocidad en dirección al desierto. Viajáis todo el día y al atardecer pasáis ante una pequeña aldea. Al poco rato llegáis ante una inmensa pirámide que hay frente a un rocoso peñasco.
+Tu tía saca un arrugado mapa de uno de sus bolsillos.
+
+—Si el mapa es correcto —dice—, la tumba que buscamos no estará en la pirámide, sino en el interior de ese peñasco —explica señalando hacia una abertura de la escabrosa pared.
+
+Aparece una brillante luna. Como es tan tarde, Dottie y tú decidís acampar y dormir un poco. Podéis comenzar a explorar a la mañana siguiente temprano.
+Os deslizáis en los sacos de dormir. Poco después Dottie está roncando suavemente. Pero tú no consigues dormirte. Al final, decides echar una mirada por tu cuenta al lugar de la tumba. Agarras tu linterna y te encaminas hacia el peñasco.
+
+#Sigue:9
+
+
+6#
+
+Tú y tu tía os alejáis del aeropuerto lo más rápidamente posible. Una vez en la calle, llamáis a un taxi y subís en él. Mientras avanzáis lentamente por las atestadas calles de El Cairo, Dottie mira in quieta por la ventana trasera del automóvil.
+
+—Parece que le hemos despistado —dices.
+
+—No estoy segura —te responde cuando el taxi se detiene ante el hotel—. Hay muchas probabilidades de que los hombres de Al-Fazi nos estén siguiendo. ¡Creo que será mejor que cambiemos inmediatamente nuestros planes!
+
+#Sigue:16
+
+
+9#
+
+Tardas poco rato en encontrar la abertura que hay en la rocosa pared. Entras e iluminas el interior con tu linterna. Te encuentras en un estrecho y oscuro pasadizo que desciende abruptamente.
+
+Sigues caminando hasta llegar a un túnel tan bajo que tu cabeza roza el techo. Finalmente el suelo se nivela y giras por una esquina. A tu derecha ves una puerta sobre la que hay un escarabajo pintado. Súbitamente se forma frente a la puerta una extraña cortina de fuego. Tu tía te ha dicho que la tumba de la momia está protegida por unos poderes mágicos. Las llamas son resplandecientes, ¡pero no despiden ningún calor! Te preguntas si deberías intentar atravesarlas.
+A tu izquierda hay otra puerta sobre la que ves un Faraón pintado. ¡Y lleva un collar con un escarabajo! Tienes la intuición de que ésa es la entrada a la tumba de la momia. Pero aguarda... eso que hay en la pared sobre la puerta, ¿es un escorpión?
+
+#Si intentas atravesar las llamas:12
+#Si pruebas suerte por la otra puerta:14
+
+
+10#
+
+El collar resplandece en la oscuridad. El escarabajo parece incandescente. De pronto deseas más que ninguna otra cosa ponerte el collar.
+Cuando alargas la mano para agarrarlo, el escarabajo centellea y luego se apaga. Si el collar es mágico, tal vez sea mejor que no te lo pongas. Podrías, simplemente, llevárselo a tu tía y enseñárselo. O dejarlo sobre la momia y volver a buscarlo en otro momento.
+
+#Si decides ponerte el collar:27
+#Si decides llevarle el collar a tu tía:21
+#Si decides dejar el collar sobre la momia:39
+
+
+11#
+
+Finalmente te detienes. No estás herido. Única mente jadeante y aturdido. Cuando encuentras a Dottie, está tendida en el suelo inmóvil. Tiene la pierna doblada formando un extraño ángulo.
+Recuerdas la aldea que atravesasteis en el camino. Tal vez debieras intentar encontrar una ruta para alejaros del peñasco. Así podrías buscar
+ayuda en la aldea. Pero acaso sea más seguro permanecer donde estáis hasta la mañana siguiente.
+
+#Si intentas encontrar un camino para alejaros:30
+#Si te quedas junto a tu tía hasta que amanezca:24
+
+
+
+12#
+
+Atraviesas las llamas corriendo. ¡No queman nada! Cuando llegas a la puerta, la empujas con todas tus fuerzas. La puerta se abre lentamente.
+Avanzas hacia el interior.
+Enciendes la linterna. Lo primero que ves, sobre una plataforma, es el gigantesco sarcófago de una momia. A ambos lados del sarcófago hay dos leones de oro, de feroz aspecto. Tras los leones hay muchas estatuas de oro cubiertas de relucientes joyas.
+Te acercas a la plataforma. ¡Tienes que descubrir si la momia que hay en el interior del sarcófago lleva el collar mágico!
+
+#Sigue:20
+
+
+14#
+
+Tiras de la puerta. ¡Está cerrada! En ese instante algo cae sobre tu brazo. Das un salto hacia atrás, pero es demasiado tarde. Sientes una aguda picadura. Una intensa sensación de frío se extiende por todo tu cuerpo y caes al suelo.
+
+#Sigue:54
+
+
+15#
+Intentas regresar junto a tu tía. Pero debes haber errado el camino.
+¿Qué camino deberías tomar? Prendes una cerilla y miras a tu alrededor. Lo primero que ves es un escarabajo pintado sobre una pared cercana
+Tal vez estés cerca de la cámara funeraria de la momia. Decides averiguarlo.
+
+#Sigue:42 
+
+
+16#
+
+Tu tía y tú decidís poneros inmediatamente en camino hacia la tumba. Esa misma noche, ya tarde, salís del hotel y partís en su jeep. Viajáis durante horas por el silencioso desierto. Justo cuando llegáis a la tumba estalla una cegadora tormenta de arena. Prácticamente no podéis ver nada. De pronto aparece ante vosotros una inmensa silueta oscura.
+
+—Creo que es el peñasco que estábamos buscando, el que contiene la tumba —grita Dottie para que puedas oírle a pesar del aullante viento—. ¡Corramos hacia él!
+
+Os dirigís corriendo hacia el peñasco y, a tientas, buscáis una entrada.
+Tu tía se tambalea y cae al suelo.
+
+—¡Tía Dottie! —gritas. Pero no contesta. En ese instante oyes un grito... ¡y un golpe! De pronto te encuentras deslizándote por un oscuro pasadizo.
+
+#Sigue:11
+
+
+18#
+
+¡Te vuelves y echas a correr lo más rápidamente posible! Primero subes las escaleras y luego desciendes por un largo pasadizo. Atraviesas una cámara flanqueada por dos hileras de ceñudas estatuas con cabezas de animales. Finalmente te escabulles por una puerta.
+Estás en una habitación abarrotada de tesoros
+Te encuentras rodeado de inmensos sarcófagos de momias, estatuas de oro y piedras preciosas.
+Parece que has encontrado la cámara funeraria del Faraón.
+¡Ahora sólo te resta encontrar a tu tía!
+Fin
+
+
+20#
+
+Pero al tocar la tapa del sarcófago escuchas una voz baja y misteriosa.
+
+—¡Cuidado! —suspira la voz—. Una maldición eterna caerá sobre el que abra el sarcófago de la momia.
+
+¿Qué has de hacer? Te gustaría mucho saber si has encontrado el collar mágico. Pero la maldición de la momia podría ser funesta.
+
+#Si ignoras la amenaza y abres el sarcófago:47
+#Si para evitar la amenaza sacas otros tesoros de la cámara:51
+
+
+21#
+
+Te metes el collar en el bolsillo y utilizas la cuerda para trepar por el pozo. Estás caminando por el túnel cuando, al tropezar con una roca, se te cae la linterna. Se apaga.
+La buscas a tientas en la oscuridad, pero no la encuentras. De repente el suelo comienza a temblar bajo tus pies. Te caes, resbalas y aterrizas en un estanque de agua.
+Sofocado y jadeante consigues incorporarte y miras a tu alrededor. En ese instante los ves... ¡Cocodrilos!
+
+#Sigue:48
+
+
+22# 
+
+Utilizas tu cuerda de escalada para dejarte caer por el pozo. Cuando llegas al suelo, no ves más que una pared de piedras y cascajos. ¿Has llegado a un lugar sin salida?
+Tal vez no. Al mirar más atentamente la pared, ves una pequeña abertura. Escarbas con las manos hasta que la abertura es lo suficientemente grande como para poder deslizarte por ella.
+Enciendes la linterna y miras a tu alrededor. No puedes creer lo que ven tus ojos. ¡Estás rodeado de tesoros! Hay cuencos, copas, estatuas e incluso sillas. Todo ello de oro. Y en el centro de la habitación, también de oro, ¡ves el sarcófago de una momia!
+En el interior del sarcófago hay una momia cubierta con una máscara de oro. Alrededor de su cuello lleva un collar hecho de cuentas de oro,
+con un escarabajo de cristal en el centro.
+¡Has encontrado el collar mágico!
+
+#Sigue:10
+
+
+24#
+
+Te sientas al lado de tu tía y aguardas a que amanezca. De pronto ves una luz titilando sobre tu cabeza. Mientras la observas, por la abertura del pozo aparece una cuerda. Unos segundos después un hombre se desliza por la cuerda y aterriza a pocos metros de donde tú te encuentras.
+Al reconocerlo, contienes la respiración. ¡Es el hombre que os estaba siguiendo en el aeropuerto esta misma mañana!
+El hombre saca un pedazo de papel. No puedes verlo muy bien, pero parece un mapa. Luego se dirige hacia la boca de un estrecho túnel.
+Te quedas ahí sentado, preguntándote qué hacer, ¡cuando de pronto oyes un grito terrible!
+
+#Sigue:26
+
+
+27#
+
+Te es imposible contenerte. Le sacas el collar a la momia y te lo pones. Pesa muchísimo. Un instante después, te ocurre lo mismo a ti. Comienzas
+a sentir un hormigueo por todo el cuerpo y te vas debilitando. Tus ojos se cierran y caes al suelo.
+Al despertar, oyes voces a lo lejos. Pero algo va mal... No puedes ver ni tampoco moverte. ¡Estás envuelto en pedazos de tela desde la cabeza hasta los pies!
+
+—Mira este sarcófago, Junior —dice una voz de mujer—. Imagínate, ¡hay una verdadera momia en su interior! ¡Probablemente tiene miles de años!
+
+—Mamá, estoy cansado de este museo —responde otra voz—. ¡Vámonos! ¡Quiero un helado!
+
+Las voces se alejan mientras tú permaneces en el mismo lugar.
+¡El collar mágico te ha convertido en una momia!
+Fin
+
+
+28#
+
+Echas a correr por el estrecho túnel y oyes otro grito. Te detienes... justo a tiempo. Estás al borde de un profundo hoyo. En el fondo, de pie sobre una estatua caída, está el hombre. Cientos de sinuosas serpientes reptan en dirección a él.
+Su mirada está inundada de terror. Al verte, grita de nuevo. No entiendes sus palabras, pero sabes que te está pidiendo ayuda.
+Podrías arrojarle un cabo de tu cuerda de escalar. Pero ves que tiene un largo y reluciente cuchillo. ¡Y es muy probable que lo utilizara contra ti!
+
+#Si ayudas al hombre:36
+#Si corres de vuelta junto a tu tía:15
+
+
+30#
+
+Decides buscar una forma de salir. Tomas tu cuerda de escalar y tu linterna, y comienzas a andar por un escarpado sendero. Al final del mismo ves dos puertas esculpidas sobre las paredes de piedra.
+Al principio parecen exactamente iguales. Pero cuando te acercas, ves que sobre una de ellas hay un chacal pintado. Sobre la otra hay una cobra.
+¿Cuál deberías elegir?
+
+#Si eliges la puerta sobre la que hay pintado un chacal:40
+#Si eliges la puerta sobre la que hay pintada una cobra:34
+
+
+33#
+
+Saltas sobre el cocodrilo y aterrizas frente a una pequeña abertura. Los cocodrilos abren y cierran sus bocas, hambrientos, pero no pueden alcanzarte.
+
+Con un suspiro de alivio, te apoyas sobre la pared. ¡De pronto comienza a moverse! ¡Debes haberte apoyado sobre una puerta secreta!
+Cuando finalmente la pared deja de moverse, estás solo en la oscuridad. Pero ves en la lejanía un pequeño rayo de luz. Te arrastras hacia la luz.
+Se hace cada vez más intensa, hasta que encuentras una abertura en la pared del túnel por la que puedes deslizarte. ¡Estás en el exterior!
+Lo primero que ves es el jeep de Dottie rodeado por un numeroso grupo de curiosos aldeanos. Te ayudan a rescatar a tu tía.
+
+—Por lo que parece, durante un tiempo no vamos a poder buscar el collar del Faraón —dice Dottie con tristeza. 
+
+Tiene la pierna rota. Deberá llevar un yeso durante varias semanas. Le sonríes.
+
+—¡Tengo una sorpresa para ti! —le dices.
+Fin
+
+
+34#
+
+Tras la puerta sobre la que hay una cobra, descubres un túnel largo y estrecho. Al final del túnel encuentras una entrada abierta en el sucio suelo. Tiene el aspecto de un pozo.
+
+Tu tía te ha dicho que, con frecuencia, enterraban a los faraones en pequeñas cámaras ocultas bajo el suelo. Dispones de tu cuerda de escalar y de tu linterna. ¡Si desciendes por el pozo es posible que encuentres la tumba de la momia!
+
+Pero te es imposible distinguir el final del pozo, o qué hayen el fondo. Tal vez no debieras descender solo.
+
+#Si desciendes por el pozo:22
+#Si decides volver a salir por la puerta:40
+
+
+36#
+
+Le lanzas al hombre tu cuerda. Consigue trepar y salir del hoyo. Te entrega el mapa y desaparece rápidamente.
+Sigues las instrucciones del mapa hasta llegar a una pequeña puerta de piedra. Tras atravesarla, lo primero que ves es el gigantesco sarcófago de oro de la momia. Está abierto. ¡Ésta debe ser la tumba del Faraón!
+Miras en el interior del sarcófago. Allí, como si estuviera esperándote, está la momia del Faraón... ¡Lleva el collar del escarabajo!
+
+Tomas el collar y se lo llevas-a tu tía. Está despierta y muy contenta de verte.
+
+Tu tía lee la antigua escritura grabada sobre el collar:
+
+—Utiliza la fuerza para encontrar el collar, y su maldición caerá sobre ti. Utiliza el bien para encontrarlo, y sus bendiciones serán tuyas
+Para siempre.
+Fin
+
+
+39#
+
+
+Te alejas lentamente del collar.
+
+—Pertenece a este lugar —piensas—. A la momia.
+
+Estás a punto de marcharte de la cámara funeraria cuando, cerca de la entrada, adviertes un bello sillón de oro. Sostienes el dorado cetro que hay sobre el sillón y luego te sientas en él.
+
+—Me pregunto si esto no sería el trono del Faraón —piensas mientras te acomodas.
+
+Sientes una sensación de adormecimiento. Tus ojos se cierran y te quedas dormido. Cuando te despiertas, te sientes como si hubieras dormido durante varios años. Te desperezas y miras a tu alrededor.
+Estás tendido sobre una inmensa cama con un dosel. Estás rodeado de sonrientes y morenos sirvientes. Uno de ellos te pregunta qué deseas para comer y beber.
+
+Te incorporas estupefacto. ¡Estás en el antiguo Egipto! Y, por la forma en que todos se están comportando, debes ser alguien muy importante.
+Descubres lo importante que eres cuando uno de los sirvientes coloca una corona sobre tu cabeza. ¡Te has convertido en el Faraón!
+Fin
+
+
+40#
+
+Tras la puerta sobre la que hay un chacal, ves una empinada escalera de piedra. Hacia abajo, la escalera serpentea. Cuanto más bajas, más oscuro está.
+
+Oyes débiles sonidos. ¿Serán susurros? ¿Suspiros? No estás seguro. Te preguntas adónde te estarás dirigiendo.
+
+Entonces oyes ruidos aún más extraños. Suenan como a... ¡Eso es! ¡Escomo un repicar de huesos!
+
+#Si decides seguir adelante:44
+#Si decides dar la vuelta:24
+
+
+42#
+
+Bajo el signo del escarabajo hay una abertura en la pared. Escarbando con tus manos consigues agrandar el agujero. Poco después logras deslizarte al otro lado.
+Lo primero que ves, sobre una plataforma, es el sarcófago de oro de una momia. Pero cuando te dispones a tocar la tapa sientes como una vibración. El ruido va creciendo en intensidad.
+
+Comienzan a caer polvo y rocas. No sabes cómo, pero se ha iniciado un desprendimiento de piedras. La pared de la cámara se está viniendo abajo. ¡Estás atrapado!
+
+En ese instante oyes otro ruido: un extraño chirrido. Te vuelves rápidamente. La tapa del sarcófago de la momia se va abriendo lentamente ante tus ojos. Lo siguiente que ves es un brazo envuelto en unos raídos vendajes:
+
+Es la momia. ¡Y alarga su brazo en dirección a ti!
+Fin
+
+
+44#
+
+Cuando acaba la escalera, te encuentras en una inmensa cámara de piedra. Es lóbrega y sombría. En el otro extremo ves un trono en el que hay alguien sentado. ¡Es un hombre con cabeza de chacal!
+
+—¿Por qué has venido al Reino de los Muertos? —te chilla. Echas un vistazo a tu alrededor. La sala está llena de esqueletos.
+
+¡De pronto todos los esqueletos vienen hacia ti! 
+
+#Sigue:18
+
+
+47#
+
+Abres la tapa del sarcófago de la momia. Ahí está la momia, envuelta en unos mohosos pedazos de ropa. Alrededor del cuello lleva el bello collar con el escarabajo de cristal en el centro. ¡Has encontrado el collar mágico!
+De pronto la tapa del sarcófago se cierra bruscamente. ¡Se cierra dando un fuerte golpe, como si alguien o algo la hubiera empujado!
+En ese instante oyes un suave susurro.
+
+—¡Vas a sufrir la maldición de la momia! —sisea alguien.
+
+De repente te sientes débil. La cabeza te da vueltas. Caes al suelo.
+
+Cuando abres los ojos, estás en el exterior, bajo el ardiente sol. Oyes el violento estallido de un látigo y los quejidos de los que te rodean.
+
+Miras hacia arriba. Sobre ti se alza una inmensa pirámide inacabada.
+Es ahora cuando comprendes la maldición de la momia. Has sido enviado como esclavo al antiguo Egipto. ¡Pasarás el resto de tus días construyendo una pirámide!
+Fin
+
+
+48#
+
+Los cocodrilos se dirigen hacia ti con los ojos brillantes. Tienes que salir de aquí inmediatamente.
+Ves una pequeña abertura en una de las paredes de piedra que rodean el estanque. Podrías probar por ahí. Pero para alcanzarla tendrías que saltar sobre el lomo de uno de los cocodrilos.
+Al otro lado del estanque ves un pilar de piedra.
+Si actúas con rapidez, podrías enlazar con tu cuerda el mojón de piedra y deslizarte hacia el otro extremo del estanque.
+
+#Si saltas para llegar hasta la abertura de la pared:33
+#Si utilizas tu cuerda como lazo:52
+
+
+51#
+
+Decides que es mejor no arriesgarte a que la maldición de la momia caiga sobre ti. En lugar de ello eliges una pequeña estatua de oro que representa a un gato, para mostrársela a tu tía. Sales de la cámara y te diriges de nuevo a la entrada del peñasco. Poco después estás despertando a Dottie.
+
+Le enseñas el gato. Sus ojos se abren de par en par. Sonríe y se pone en pie de un salto.
+
+—Este gato es la única prueba que necesito —dice—. Hemos venido al lugar correcto —tras recoger rápidamente sus cosas, comienza a correr hacia el peñasco.
+
+—¡Apresúrate! —te grita volviendo la cabeza—. Regresemos ahora mismo a la tumba. ¡Ya dormiremos en cualquier otro momento!
+Fin
+
+
+52#
+
+Los cocodrilos se deslizan hacia ti, pero tu puntería es buena. Enlazas el mojón y logras salir del estanque justo a tiempo. 
+Ante ti se extienden varios pasadizos, oscuros y sinuosos. ¿Cuál de ellos te llevará de nuevo hasta donde está tu tía? Desearías saberlo.
+De pronto recuerdas el collar. Tal vez su magia te ayude. Lo sostienes con ambas manos, cierras los ojos y piensas: «Llévame junto a mi tía».
+
+¡Funciona! Cuando abres los ojos de nuevo, estás una vez más con tía Dottie.
+
+La sacudes ligeramente hasta que despierta. Al intentar incorporarse, hace una mueca de dolor.
+
+—¡Mi pierna! —exclama entrecortadamente— Debí golpeármela al caer. ¿Estás bien?
+
+—Estoy perfectamente —le respondes. En el preciso instante en que empiezas a mostrarle el collar, oís unas voces. Por detrás del pozo aparece un grupo de aldeanos. En pocos minutos os ayudan a tu tía y a ti a poneros a salvo.
+
+Tú eres el único que conoce el poder del collar del escarabajo.
+¿Vas a contárselo al mundo? ¿O será tu secreto para siempre?
+Fin
+
+
+54#
+
+Cuando despiertas, ves a tu tía inclinada sobre ti. Su rostro tiene una expresión preocupada.
+¡Adviertes que estás tendido sobre la cama de un hospital!
+
+—¡Por suerte te encontré a tiempo! —dice—. ¡La picadura de escorpión puede ser mortal!
+
+—Pero ¿qué pasó con la tumba? ¿Y con el collar? —le preguntas.
+
+—Demasiado peligroso... al menos para ti —dice tía Dottie—. ¡Voy a llevarte de regreso a casa tan pronto como puedas caminar!
+Fin
+
