@@ -1,0 +1,300 @@
+1#
+El protagonista viaja en tren por los Cárpatos para visitar a su tío Andrés:V
+El objetivo principal de la expedición es demostrar de manera científica la existencia de los vampiros:V
+2#
+La señora West lleva una joya de color azul brillante alrededor de su cuello:F
+Nina y la señora West viajan en el mismo compartimiento que el protagonista:V
+La señora West sale corriendo hacia el vagón de equipajes porque siente que el cuadro la está llamando:V
+4#
+El vagón de equipajes se encuentra limpio, iluminado y bien ventilado:F
+Nina encuentra la caja de madera de extraño aspecto entre el desorden del vagón:V
+5#
+Las figuras talladas en la caja son flores, paisajes y estrellas:F
+La caja de madera con tallas fue regalada a Nina por su tío abuelo:V
+Nina sugiere consultar a los gitanos antes de intentar abrir la caja:V
+6#
+El tío Andrés logra abrir el portón y sacar el cuadro de la caja durante la madrugada:V
+La mujer que está en la escalera de la torre lleva puesta la joya de la señora West:V
+El turno de guardia finaliza exactamente a medianoche:V
+7#
+El inspector de tren ofrece ayuda activa para registrar todo el tren y buscar a la señora West:F
+El coche particular del conde Zoltan y la condesa Carmilla está libre para cualquier visitante:F
+Nina sugiere pedir ayuda a otros pasajeros o intentar entrar en el coche del conde Zoltan:V
+8#
+Para abrir la caja, Nina debe tocar las distintas figuras talladas en la madera:V
+La pintura muestra el retrato de una pareja anciana vistiendo ropas modernas:F
+Al abrirse la caja, la pintura parece moverse por sí sola hacia adelante:V
+10#
+Nina utiliza una llave de metal común para abrir la caja del cuadro:F
+Al abrirse la caja, Carmilla ataca directamente sujetando el cuello del protagonista:V
+Tanto Zoltan como Carmilla se disuelven hasta quedar convertidos en manchas de aceite:V
+11#
+Dentro del dormitorio de la mujer hay una cama convencional para descansar:F
+La señora West se encontraba atada y amordazada dentro del armario:V
+Nina y el profesor Hartz acompañan al protagonista dentro de la habitación:V
+12#
+Phaino está jugando un solitario utilizando un mazo de cartas de juego tradicional:F
+El profesor Hartz está concentrado leyendo un libro titulado Secretos del Ocultismo:V
+13#
+Phaino logra hacer desaparecer las cartas y muestra un gran disco de oro con inscripciones:V
+El profesor Hartz está ansioso por demostrar que los vampiros sí existen:F
+El tío Andrés invitó tanto al profesor Hartz como a Phaino a unirse a su expedición:V
+14#
+El protagonista arroja una lámpara de querosén a los pies de los vampiros para iniciar un incendio:V
+El profesor Hartz ayuda a propagar el fuego pateando la estufa de leña:V
+Los vampiros logran atravesar las llamas para perseguir al grupo:F
+16#
+El profesor Hartz acepta ayudar en el plan haciéndose pasar por un inspector de policía:V
+Nina y el protagonista se dirigen al techo del tren como parte de su estrategia:V
+17#
+Bela habla de una técnica de magia conocida como "enviar" usando un libro de brujería:V
+Bela afirma que nunca antes ha intentado "enviar" a seres humanos:V
+18#
+Al golpear la puerta del conde Zoltan, atiende un hombre gordo y de aspecto desagradable:V
+El hombre que abre la puerta recibe a Nina y al protagonista con amabilidad y calidez:F
+19#
+El grupo termina transportado mágicamente a la playa de una isla tropical:V
+El tío Andrés aparece en la isla saliendo de las aguas del lago con ropa de invierno:V
+Al liberarse la señora West, el profesor Hartz reconoce inmediatamente que fue un acto de brujería:V
+20#
+Phaino inventó una trampa para vampiros que utiliza espejos y rayos láser de colores:V
+La señora West aparece pidiendo ayuda porque dice que la persiguen los vampiros:V
+22#
+El tío Andrés se reúne con el grupo en la estación de tren viajando a pie:F
+Durante el trayecto a caballo por el valle, son acechados por una jauría de lobos:V
+23#
+Lyuba explica que el cuadro muestra a Zoltan y Carmilla tal como eran cuando eran mortales:V
+El grupo decide abrir el cuadro inmediatamente dentro del tren para destruir a los vampiros:F
+24#
+A los vampiros les molesta tanto la luz de los rayos láser que intentan huir del vagón:F
+El protagonista queda paralizado tras sostener la mirada fija del conde Zoltan:V
+25#
+El vagón del conde Zoltan es desenganchado y destruido por una gran explosión:V
+El profesor Hartz queda convencido al final de que Zoltan y Carmilla eran verdaderos vampiros:F
+26#
+El protagonista le sugiere a Nina ir a la locomotora para pedir ayuda:V
+Nina se niega a dejar el cuadro porque siente que la está llamando nuevamente:V
+27#
+Nanosh es un príncipe gitano que viste una camisa verde de mangas holgadas:V
+Los gitanos muestran gran desinterés al escuchar mencionar el nombre del tío Andrés:F
+Lyuba advierte que el ambiente del tren está cargado de presencia maligna y vampiros:V
+28#
+La condesa Carmilla lleva puesta la Piedra Sanguínea alrededor del cuello:V
+La joya es lo único que protege a los vampiros de la influencia del cuadro:V
+El cuadro emite descargas eléctricas de distintos colores al ser sujetado con fuerza:V
+30#
+Carmilla afirma que el protagonista es el primer mortal en sobrevivir al Corredor de la Muerte:V
+El protagonista decide aceptar la cena que le ofrecen Zoltan y Carmilla:F
+Al final, el protagonista aparece en su casa viendo televisión sin un recuerdo claro del castillo:V
+31#
+El resto del tren después del compartimiento de la señora West luce muy viejo y gastado:V
+En uno de los compartimientos viajan dos gitanos, un joven apuesto y una mujer sumamente vieja:V
+El inspector responde con amabilidad y preocupación a las preguntas de Nina sobre su tía:F
+32#
+Al golpear el portón del castillo con la Estrella de Luluvo, este emite una nota pura y hermosa y se abre:V
+Al sacar el cuadro de la caja, la pintura permanece completamente inerte sin mostrar reacción:F
+El túnel por el que avanzan desciende hacia las profundidades de la montaña:V
+34#
+El habitáculo vecino tiene una apariencia limpia, espaciosa y ordenada como la de un hotel:F
+En el piso se escucha un fonógrafo de cuerda reproduciendo ruidos desgarradores de animales:V
+El hombrecito rechoncho confirma que la señora West está atada en la habitación vecina:V
+35#
+El protagonista logra ahuyentar a los lobos arrojándoles latas de su alforja:V
+Nina resulta ilesa sin ningún tipo de rasguño tras bajar del árbol:F
+Nina decide detener la búsqueda para regresar inmediatamente a la ciudad a ser atendida por un médico:F
+36#
+Nina nota que el cuadro dentro de la caja de madera parece intentar decirle algo:V
+Phaino utiliza trucos de magia para entretener a los jóvenes mientras esperan a los vampiros:V
+La condesa Carmilla aparece sorpresivamente y se transforma momentáneamente en un murciélago:V
+38#
+La señora West se muestra profundamente agradecida con Nina inmediatamente al ser rescatada:F
+El cuadro y la caja desaparecen inexplicablemente de las manos de Nina al finalizar el enfrentamiento:V
+Phaino afirma con orgullo que su artefacto de control funcionó para librarse de los vampiros:V
+39#
+Lyuba afirma que el cuadro dentro de la caja tiene la capacidad de destruir a los vampiros:V
+El profesor Hartz coincide en que dejar el tren e ir al campamento gitano es la mejor decisión:F
+40#
+Los lobos logran acorralar por completo al tío Andrés antes de que pueda huir:F
+El caballo de Nina pasa corriendo sin su jinete al lado del grupo:V
+Una niebla espesa y misteriosa cubre el bosque impidiendo ver el entorno:V
+42#
+Los protagonistas se turnan para vigilar dentro del dormitorio durante toda la noche:V
+Al revisar el ataúd de Carmilla a la mañana siguiente, lo encuentran completamente vacío:V
+El profesor Hartz admite al final de la travesía que el conde y la condesa eran verdaderos vampiros:F
+43#
+El hechizo de Bela transporta al grupo a un desierto arenoso bajo un sol sofocante:V
+El hombre gigante de Hom les exige que le entreguen diamantes para poder beber o comer:V
+La señora West no fue transportada junto con el grupo al territorio de Hom:F
+44#
+El tío Andrés confirma que la señora West ha fallecido por causa de los vampiros:F
+Al sacar el cuadro de la caja, este emite una luz tan intensa que apaga el fulgor de la joya:V
+Los cuerpos de los vampiros se encogen y envejecen hasta desaparecer por completo:V
+45#
+El hombrecillo ataca y derriba al protagonista y a Nina en el corredor:V
+El conde llega trayendo al profesor Hartz al hombro como si fuera una bolsa de papas:V
+La condesa rechaza colocarse la Piedra Sanguínea alrededor del cuello:F
+46#
+Lyuba arroja la piedra carmesí al fuego, generando nubes de humo rojo y un trueno:V
+Los gitanos proponen ofrecer el cuadro a los vampiros a cambio de recuperar a la señora West:V
+Nina se niega rotundamente a entregar el cuadro a los vampiros para rescatar a su tía:F
+48#
+El joven que entra en el vagón de equipajes viste una camisa verde chillón y se presenta como Nanosh:V
+Nanosh revela que le debe la vida al tío Andrés:V
+Nanosh asegura que el hombre y la mujer del retrato no tienen ninguna relación con los vampiros del tren:F
+49#
+Carmilla demuestra que su mano no se refleja en los espejos de la trampa de Phaino:V
+Nina reacciona con calma y pasividad al escuchar hablar a la condesa sobre su tía:F
+50#
+La linterna del protagonista es destruida al ser arrojada con fuerza contra la pared:V
+En la oscuridad del corredor se divisan tres pares de ojos rojos que siguen al protagonista:V
+La escalera en espiral cuenta con un sólido muro exterior que evita cualquier peligro de caída:F
+52#
+El protagonista nota que Phaino intenta hipnotizar a Nina y decide sacarla del compartimiento:V
+El profesor Hartz propone que la desaparición de la señora West fue obra de ladrones interesados en su joya:V
+54#
+El protagonista decide abandonar la búsqueda de Nina para seguir al tío Andrés:F
+Los lobos rodean un árbol mientras saltan y ladran hacia las ramas más bajas:V
+55#
+Lyuba es una anciana gitana que lleva flores azules en su cabello blanco:V
+Nanosh y Lyuba desconocían por completo la existencia del cuadro tallado:F
+56#
+En el vagón de equipajes se observa a una persona huyendo hacia el techo con una caja de madera:V
+El profesor Hartz se niega rotundamente a subir al techo del tren en movimiento:F
+57#
+El conde Zoltan revela que los habitantes de la ciudad fueron convertidos en zombies vivientes por rebelarse:V
+Los habitantes de la ciudad ayudan amablemente al grupo a escapar del tren:F
+58#
+Al empujar la puerta, el grupo escucha ruidos aterradores semejantes a animales de la jungla aullando:V
+El grupo confía en que la primera puerta es la única opción segura y avanzan sin dudar:F
+59#
+Nina logra arrebatarle la joya a Carmilla al acordarse de la melodía de La Pantera Rosa:V
+El profesor logra destruir a los vampiros lanzándoles agua bendita:F
+Los protagonistas logran desenganchar el coche en llamas para salvar el resto del tren:V
+61#
+El conde ofrece ponche de fruta roja hecho por su esposa durante la merienda:V
+Las galletitas ofrecidas por el conde resultan tener un sabor delicioso y fresco:F
+El conde bloquea la salida mostrando dientes afilados como dagas:V
+62#
+Al avanzar por la torre, el grupo encuentra rápidamente a la señora West descansando:F
+Las paredes de la habitación se cierran verticalmente amenazando con aplastarlos en pocos minutos:V
+63#
+El cuadro absorbe la luz del sol al amanecer, neutralizando el poder de la joya:V
+Los vampiros logran escapar con éxito al interior de la torre antes de ser destruidos:F
+De la destrucción de los vampiros sólo queda un humo fulguroso en el aire:V
+64#
+Nanosh paga a un joven de la aldea con una moneda de plata para enviar un mensaje al campamento:V
+El tren producía una sensación reconfortante y acogedora en los viajeros:F
+66#
+El mago afirma con total calma que hay vampiros cerca:V
+Phaino utiliza un disco dorado centelleante para intentar hipnotizar a los presentes:V
+Nina permanece despierta y alerta mientras habla con Phaino:F
+67#
+Carmilla sugiere que la señora West revelará la ubicación de la joya de manera persuasiva:V
+Carmilla se retira del lugar alejándose lentamente a pie:F
+Phaino insiste en que seguir su plan es la única esperanza para salvar a la señora West:V
+69#
+El grupo llega a un castillo en ruinas donde solo una de las torres originales se mantiene en pie:V
+El portón del castillo se encuentra completamente abierto al momento de llegar:F
+Andrés y Nanosh le aconsejan al protagonista trepar de inmediato el muro esa misma noche:F
+70#
+El protagonista intenta dejar inconsciente a Carmilla usando uno de los proyectores láser de Phaino:V
+El conde Zoltan logra atrapar a Nina rápidamente debido a su gran agilidad en el vagón:F
+Phaino actúa de inmediato activando su trampa para detener a los vampiros:F
+71#
+Nina y el protagonista llevan abrigos de plumas mientras el profesor viste un sobretodo:V
+El profesor Hartz encuentra rápidamente varias pistas útiles examinando el suelo:F
+Nina decide investigar el último vagón tras encontrar un pañuelo de su tía con una W:V
+72#
+Subir al techo del tren resulta una tarea helada y peligrosa debido al viento y la nieve:V
+El hombre al que siguen camina con mucha dificultad y tropieza constantemente en el techo:F
+En el techo del vagón particular del conde Zoltan el grupo descubre dos escotillones:V
+74#
+Phaino le pide a Nina que ataque con más fuerza a Carmilla:F
+Carmilla termina en el suelo debido al repentino ataque de Nina:V
+El conde Zoltan ayuda cariñosamente a levantarse a su esposa tras la caída:V
+75#
+La señora West aparece pálida y con la mirada vidriosa caminando con dificultad:V
+La Piedra Sanguínea emite un fulgor rojo que impide a los presentes moverse o desviar la mirada:V
+El conde les promete liberarlos inmediatamente en la estación más cercana sin llevarlos a ningún lugar:F
+76#
+El primer dormitorio pertenece al conde Zoltan:F
+La señora West es encontrada dentro del armario atada a una silla y amordazada:V
+Al ser liberada, la señora West demuestra su enojo pateando el piso:V
+77#
+Nina le pide a Bela volver a casa junto con su tía:V
+El profesor Hartz muestra un gran entusiasmo e interés por los hechizos de Bela:F
+79#
+Nanosh les pide a los jóvenes que canten mientras el círculo se acerca al fuego:V
+El cuadro se incendia provocando una doble explosión que deja a todos inconscientes:V
+El tío Andrés llega a la mañana siguiente tras ser contactado por un mensajero gitano:V
+80#
+La señora West es encontrada durmiendo en una cama dentro del castillo:F
+Nina se reúne con el grupo y explica que logró escapar de los lobos subiendo a un árbol:V
+El tío Andrés toma fotografías del grupo para guardarlas en sus archivos:V
+81#
+El conde afirma que la señora West descansaba en el dormitorio de su esposa:V
+Bela saca a los jóvenes del salón y les pide que huyan hacia el cuadro para salvar sus vidas:V
+Bela aconseja a los jóvenes unirse a los vampiros para obtener la vida eterna:F
+82#
+Nina propone ir por el techo hacia la plataforma de observación para recuperar el cuadro:V
+La señora West sugiere atacar inmediatamente a los vampiros sin esperar a la mañana:F
+El profesor Hartz expresa abiertamente su plan a todos los presentes:F
+83#
+El grupo debe agacharse al descender a la cripta debido al techo bajo:V
+El piso de la cripta está hecho de mármol limpio y seco:F
+Nina rompe en llanto al tocar la cara de su tía y pensar que está muerta:V
+84#
+El protagonista utiliza la Estrella de Luluvo para quitarle fuerza a la Piedra Sanguínea:V
+Una serpiente de luz dorada surge del cuadro y consume a los vampiros en fuego:V
+El tío Andrés llega a tiempo para liderar la batalla final contra los vampiros:F
+85#
+El salón está iluminado con luz eléctrica y lámparas LED:F
+El protagonista contempla iniciar un incendio o mandar una señal en código a Nina para recuperar la joya:V
+86#
+Nanosh aconseja llevar el cuadro al campamento gitano para consultar a los Ancianos:V
+El grupo está completamente seguro de cómo usar los poderes del cuadro desde el principio:F
+87#
+Los jóvenes huyen por la plataforma de observación y suben al techo del tren:V
+El conde Zoltan salta del tren detrás de Nina y el protagonista:F
+Tras saltar a un banco de nieve, los jóvenes encuentran refugio en la cabaña de un leñador:V
+88#
+El maquinista atiende de inmediato las advertencias de los jóvenes sobre los vampiros:F
+Los vampiros desenganchan la locomotora del resto del tren:V
+La locomotora se descarrila en la montaña y cae al abismo:V
+90#
+El grupo cocina un plato de salchichas, porotos y pan horneado antes de dormir:V
+El protagonista hace la primera guardia y descubre a un hombrecito feo entre las ruinas:V
+92#
+El cuadro de la caja muestra un retrato de Zoltan y Carmilla pintado siglos atrás:V
+El protagonista silba la melodía de La Pantera Rosa como señal para Nina:V
+Nina comprende de inmediato la señal en código y recupera la joya sin problemas:F
+93#
+El protagonista despierta en el compartimiento descubriendo que Nina y su tía descansan a su lado:V
+La señora West lleva puesta la joya roja en su cuello al despertar:V
+95#
+Escalar el muro del castillo resulta fácil y seguro de principio a fin:F
+Al llegar a la cima del muro, miles de arañas negras gigantes atacan al protagonista provocando su caída:V
+96#
+La señora West relata que fue secuestrada por el conde Zoltan y la condesa Carmilla:V
+El profesor Hartz cree fervientemente desde el primer momento en la historia de los vampiros:F
+97#
+El salón del vagón privado está iluminado con velas y lámparas de petróleo:V
+Carmilla menciona amablemente que Bela se encontraba asando polillas en la vela del armario:V
+98#
+Para entrar al salón, el protagonista rompe el vidrio de una ventana con el codo para destrabar la puerta:V
+Al entrar al salón no hay nadie presente durante toda la estadía de los jóvenes:F
+100#
+Lyuba le entrega al protagonista un cristal llamado la Estrella de Luluvo:V
+Nanosh señala que la Aguja del Gitano es un lugar sagrado donde se podría esperar a los vampiros:V
+102#
+El castillo de los vampiros se encuentra completamente restaurado y en perfecto estado:F
+El tío Andrés sugiere que la torre del castillo puede tener túneles y estancias subterráneas:V
+103#
+El vagón del conde Zoltan es moderno y está decorado con materiales de plástico:F
+Bela trae un carrito repleto de aperitivos, galletitas y chocolate caliente para los invitados:V
+104#
+Bela se presenta como un hombrecito de voz chirriante que los guía por el vagón:V
+La joya de la señora West cuelga del cuello de la condesa Carmilla al momento de conocerla:V
+106#
+El conde Zoltan huye cargando a la señora West sobre sus hombros:V
+El protagonista despierta convertido en vampiro junto a Nina, la señora West y Phaino:V
