@@ -1,0 +1,124 @@
+1#
+La tía Dottie es especialista en estudiar la historia de los antiguos griegos.:F
+El collar que busca tu tía es de oro y tiene un escarabajo de cristal en el centro.:V
+El avión en el que viajas se dirige hacia El Cairo.:V
+2#
+El escarabajo del collar tiene el poder de enviar a su dueño a través del tiempo.:V
+El hombre del pasillo trabaja como médico en un hospital de la ciudad.:F
+En el mostrador de equipajes ves de nuevo al hombre que os estaba siguiendo.:V
+5#
+Viajáis en el jeep durante todo el día hasta llegar cerca de una gran pirámide.:V
+Decidís explorar el peñasco esa misma noche sin esperar a que amanezca.:F
+Llevas una linterna contigo al encaminarte en solitario hacia el peñasco.:V
+6#
+Lográis escapar del aeropuerto tomando un autobús público.:F
+Tu tía cree que es muy probable que los hombres de Al-Fazi os estén siguiendo.:V
+Dottie decide que deben mantener los planes exactamente iguales sin cambiarlos.:F
+9#
+El pasadizo al que entras es muy ancho y con un techo extremadamente alto.:F
+La cortina de fuego que aparece ante la puerta derecha no despide ningún calor.:V
+Sobre la puerta de la izquierda hay un Faraón pintado con un collar.:V
+10#
+El escarabajo del collar brilla e incandese antes de apagarse.:V
+Decides ponerte el collar de inmediato sin pensarlo dos veces.:F
+Puedes elegir entre llevarle el collar a tu tía o dejarlo sobre la momia.:V
+11#
+Tu tía Dottie se encuentra en perfecto estado y caminando sin problemas.:F
+Dottie tiene la pierna doblada formando un ángulo extraño.:V
+Recordando la aldea, piensas si buscar ayuda o quedarte hasta que amanezca.:V
+12#
+Las llamas que atraviesas te provocan quemaduras graves en los brazos.:F
+A los lados del sarcófago hay dos leones de oro de aspecto feroz.:V
+Tras los leones encuentras muchas estatuas de oro cubiertas de joyas.:V
+14#
+La puerta a la que te diriges se abre fácilmente al primer intento.:F
+Sientes una picadura aguda en el brazo tras caer algo sobre ti.:V
+Una intensa sensación de frío se extiende por tu cuerpo antes de caer al suelo.:V
+15#
+Decides prender una cerilla para poder mirar a tu alrededor.:V
+En la pared cercana ves pintado el dibujo de un enorme escorpión.:F
+Crees que puedes estar cerca de la cámara funeraria de la momia.:V
+16#
+Una estalla cegadora tormenta de arena justo cuando llegáis a la tumba.:V
+Tu tía Dottie te responde con claridad tras caer al suelo.:F
+Sientes que te deslizas por un oscuro pasadizo tras oír un golpe.:V
+18#
+Echas a correr subiendo escaleras y bajando por un largo pasadizo.:V
+La habitación a la que llegas está completamente vacía y sin ningún objeto.:F
+Te encuentras rodeado de sarcófagos de momias, estatuas de oro y joyas.:V
+20#
+Una voz misteriosa te advierte sobre una maldición si abres el sarcófago.:V
+Decides inmediatamente salir corriendo sin tocar absolutamente nada.:F
+Puedes ignorar la amenaza o decidir sacar otros tesoros de la cámara.:V
+21#
+Guardas el collar en tu bolsillo antes de trepar por el pozo.:V
+Al tropezar con una roca logras encender una segunda linterna.:F
+Caes en un estanque rodeado de peligrosos cocodrilos.:V
+22#
+Al llegar al fondo del pozo encuentras una pequeña abertura en la pared.:V
+En el centro de la habitación encuentras un sarcófago hecho de madera.:F
+La momia tiene una máscara de oro y lleva el collar con el escarabajo.:V
+24#
+Un hombre se desliza por una cuerda desde la abertura del pozo.:V
+El hombre que aparece es el mismo que os estaba siguiendo en el aeropuerto.:V
+El hombre saca un mapa y se dirige hacia un túnel ancho y bien iluminado.:F
+27#
+El collar del escarabajo te resulta muy ligero al ponértelo.:F
+Te despiertas envuelto en vendas de la cabeza a los pies.:V
+Escuchas a unos visitantes de un museo hablar sobre la momia.:V
+28#
+El hombre del hoyo se encuentra rodeado de cientos de serpientes.:V
+El hombre te pide ayuda amablemente en tu mismo idioma.:F
+Puedes lanzarle tu cuerda de escalar o regresar corriendo junto a tu tía.:V
+30#
+Para intentar salir del lugar tomas tu cuerda de escalar y tu linterna.:V
+Las dos puertas esculpidas tienen dibujado un sol resplandeciente.:F
+Debes elegir entre la puerta del chacal y la puerta de la cobra.:V
+33#
+Saltas sobre el lomo de un cocodrilo para llegar a una abertura.:V
+La pared sobre la que te apoyas resulta ser una puerta secreta.:V
+Al salir al exterior descubres que tía Dottie ya ha sido rescatada por la policía.:F
+34#
+El túnel tras la puerta de la cobra conduce a un pozo en el suelo.:V
+Decides bajar al pozo con la certeza de que tu tía te está esperando abajo.:F
+Puedes descender por el pozo o decidir volver a salir por la otra puerta.:V
+36#
+El hombre te entrega su mapa antes de desaparecer rápidamente.:V
+En el interior de la tumba encuentras el sarcófago del Faraón cerrado.:F
+Tu tía Dottie lee una inscripción grabada sobre el collar del escarabajo.:V
+39#
+Decides no llevarte el collar porque consideras que pertenece a la momia.:V
+Te sientas en un bello sillón de oro sosteniendo un cetro dorado.:V
+Al despertar te encuentras en un hospital moderno rodeado de médicos.:F
+40#
+Tras la puerta del chacal encuentras una escalera de piedra que sube.:F
+A medida que desciendes comienzas a escuchar un repicar de huesos.:V
+Tienes la opción de seguir adelante o dar la vuelta hacia el pozo.:V
+42#
+Agrandas el agujero con la mano para poder deslizarte al otro lado.:V
+Un desprendimiento de rocas y polvo deja la salida totalmente despejada.:F
+La tapa del sarcófago se abre y la momia extiende su brazo hacia ti.:V
+44#
+En el extremo de la gran cámara ves sentado a un hombre con cabeza de chacal.:V
+La sala está repleta de estatuas de leones dorados.:F
+Todos los esqueletos de la sala comienzan a avanzar hacia ti.:V
+47#
+El collar de la momia tiene un escarabajo de cristal en el centro.:V
+Al cerrarse el sarcófago escuchas una voz que te augura buena suerte.:F
+Te despiertas trabajando como esclavo en la construcción de una pirámide.:V
+48#
+Para huir de los cocodrilos puedes saltar a una pared o usar tu cuerda.:V
+El mojón de piedra se encuentra en el mismo lado del estanque en el que estás.:F
+Puedes intentar alcanzar la abertura saltando sobre el lomo de un cocodrilo.:V
+51#
+Decides llevarte una pequeña estatua de oro con forma de gato.:V
+Tu tía Dottie se pone triste al ver la estatua que encontraste.:F
+Dottie decide que deben regresar a la tumba inmediatamente sin dormir.:V
+52#
+Logras enlazar el mojón de piedra y salir del estanque a tiempo.:V
+Utilizas la magia del collar pensando en que te lleve junto a tu tía.:V
+Un grupo de aldeanos aparece por detrás del pozo para ayudaros.:V
+54#
+Te despiertas en la cama de un hospital con tu tía a tu lado.:V
+Tía Dottie te explica que la picadura de escorpión no era peligrosa.:F
+Tu tía decide llevarte de regreso a casa tan pronto como puedas caminar.:V
