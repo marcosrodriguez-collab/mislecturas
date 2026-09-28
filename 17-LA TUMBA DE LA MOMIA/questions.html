@@ -254,14 +254,15 @@
             preguntasFiltradas.forEach((p, idxPregunta) => {
                 const bloque = document.createElement('div');
                 bloque.classList.add('bloque-pregunta');
+                bloque.setAttribute('data-pregunta', idxPregunta);
 
                 bloque.innerHTML = `
                     <div class="pregunta-titulo">${idxPregunta + 1}. "${p.enunciado}"</div>
                     <div class="opciones-grupo">
-                        <label class="opcion-label" id="label-p${idxPregunta}-V">
+                        <label class="opcion-label">
                             <input type="radio" name="pregunta_${idxPregunta}" value="V"> Verdadero
                         </label>
-                        <label class="opcion-label" id="label-p${idxPregunta}-F">
+                        <label class="opcion-label">
                             <input type="radio" name="pregunta_${idxPregunta}" value="F"> Falso
                         </label>
                     </div>
@@ -271,50 +272,66 @@
             });
         }
 
-        // 5. Validar respuestas sin revelar datos prematuros
+        // 5. Validar respuestas de forma estricta
         btnComprobar.addEventListener('click', () => {
+            // PASO 1: Comprobar respuestas seleccionadas sin tocar el estilo ni el DOM
             let respondidas = 0;
-
-            // Paso 1: Comprobar que todas están respondidas antes de aplicar estilos
-            preguntasFiltradas.forEach((p, idxPregunta) => {
-                const seleccion = document.querySelector(`input[name="pregunta_${idxPregunta}"]:checked`);
+            for (let i = 0; i < preguntasFiltradas.length; i++) {
+                const seleccion = document.querySelector(`input[name="pregunta_${i}"]:checked`);
                 if (seleccion) {
                     respondidas++;
                 }
-            });
-
-            if (respondidas < preguntasFiltradas.length) {
-                alert(`Por favor, responde a todas las preguntas (${respondidas}/${preguntasFiltradas.length} respondidas).`);
-                return; // Corta la ejecución aquí sin modificar la interfaz
             }
 
-            // Paso 2: Evaluar y marcar respuestas únicamente tras verificar el 100% de finalización
+            // Si falta alguna por responder, mostramos alerta y BLOQUEAMOS la ejecución
+            if (respondidas < preguntasFiltradas.length) {
+                alert(`Por favor, responde a todas las preguntas (${respondidas}/${preguntasFiltradas.length} respondidas).`);
+                return; // Corta en seco: no hay cambios visuales
+            }
+
+            // PASO 2: Si todas están respondidas, procedemos a evaluar y colorear
             let aciertos = 0;
 
             preguntasFiltradas.forEach((p, idxPregunta) => {
-                const seleccion = document.querySelector(`input[name="pregunta_${idxPregunta}"]:checked`);
-                
-                ['V', 'F'].forEach(v => {
-                    const label = document.getElementById(`label-p${idxPregunta}-${v}`);
-                    if (label) label.classList.remove('correcta', 'incorrecta');
+                const bloque = document.querySelector(`.bloque-pregunta[data-pregunta="${idxPregunta}"]`);
+                const seleccion = bloque.querySelector(`input[name="pregunta_${idxPregunta}"]:checked`);
+                const valorElegido = seleccion.value;
+
+                // Deshabilitar inputs para que no puedan cambiar sus respuestas tras corregir
+                const inputs = bloque.querySelectorAll('input[type="radio"]');
+                inputs.forEach(input => input.disabled = true);
+
+                // Colorear respuestas
+                const labels = bloque.querySelectorAll('.opcion-label');
+                labels.forEach(label => {
+                    const input = label.querySelector('input');
+                    label.classList.remove('correcta', 'incorrecta');
+
+                    // Marcar en verde la respuesta correcta
+                    if (input.value === p.correcta) {
+                        label.classList.add('correcta');
+                    }
+                    
+                    // Marcar en rojo si seleccionó esta opción y era incorrecta
+                    if (input.value === valorElegido && valorElegido !== p.correcta) {
+                        label.classList.add('incorrecta');
+                    }
                 });
 
-                const labelCorrecta = document.getElementById(`label-p${idxPregunta}-${p.correcta}`);
-                if (labelCorrecta) labelCorrecta.classList.add('correcta');
-
-                const valorElegido = seleccion.value;
                 if (valorElegido === p.correcta) {
                     aciertos++;
-                } else {
-                    const labelElegida = document.getElementById(`label-p${idxPregunta}-${valorElegido}`);
-                    if (labelElegida) labelElegida.classList.add('incorrecta');
                 }
             });
 
+            // PASO 3: Mostrar puntuación y deshabilitar botón de comprobar
             const porcentaje = Math.round((aciertos / preguntasFiltradas.length) * 100);
             resultadoDiv.style.display = 'block';
             resultadoDiv.className = porcentaje >= 50 ? 'resultado-exito' : 'resultado-regular';
             resultadoDiv.innerHTML = `Has acertado ${aciertos} de ${preguntasFiltradas.length} preguntas (${porcentaje}%).`;
+
+            btnComprobar.disabled = true;
+            btnComprobar.style.opacity = '0.5';
+            btnComprobar.style.cursor = 'not-allowed';
 
             window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
         });
