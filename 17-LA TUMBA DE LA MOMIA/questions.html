@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preguntas de Comprensión</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            margin: 20px auto;
+            max-width: 700px;
+            line-height: 1.6;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+
+        #contenedor-preguntas {
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        }
+
+        h1 {
+            color: #2c3e50;
+            margin-top: 0;
+            font-size: 1.5rem;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 10px;
+        }
+
+        .info-ruta {
+            background-color: #e8f4f8;
+            border-left: 4px solid #3498db;
+            padding: 10px 15px;
+            margin-bottom: 20px;
+            border-radius: 0 5px 5px 0;
+            font-size: 0.95rem;
+        }
+
+        .bloque-pregunta {
+            background: #fff;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 18px;
+            margin-bottom: 20px;
+        }
+
+        .pregunta-titulo {
+            font-weight: bold;
+            font-size: 1.05rem;
+            color: #2d3748;
+            margin-bottom: 12px;
+        }
+
+        .opciones-grupo {
+            display: flex;
+            gap: 12px;
+        }
+
+        .opcion-label {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 12px;
+            background-color: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            font-weight: 500;
+        }
+
+        .opcion-label:hover {
+            background-color: #f1f5f9;
+        }
+
+        .opcion-label input {
+            margin-right: 8px;
+        }
+
+        .correcta {
+            background-color: #d1fae5 !important;
+            border-color: #10b981 !important;
+            color: #065f46;
+            font-weight: bold;
+        }
+
+        .incorrecta {
+            background-color: #fee2e2 !important;
+            border-color: #ef4444 !important;
+            color: #991b1b;
+        }
+
+        .btn-accion {
+            width: 100%;
+            background-color: #27ae60;
+            color: white;
+            border: none;
+            padding: 14px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: bold;
+            margin-top: 10px;
+            transition: background-color 0.2s;
+        }
+
+        .btn-accion:hover {
+            background-color: #219150;
+        }
+
+        .btn-volver {
+            background-color: #7f8c8d;
+            margin-top: 10px;
+        }
+
+        .btn-volver:hover {
+            background-color: #95a5a6;
+        }
+
+        #resultado {
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 6px;
+            display: none;
+        }
+
+        .resultado-exito {
+            background-color: #d1fae5;
+            color: #065f46;
+        }
+
+        .resultado-regular {
+            background-color: #fef3c7;
+            color: #92400e;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="contenedor-preguntas">
+        <h1>📝 Preguntas de Comprensión</h1>
+        
+        <div id="info-ruta" class="info-ruta">
+            Cargando ruta leída...
+        </div>
+
+        <form id="form-preguntas" onsubmit="return false;">
+            <div id="lista-preguntas"></div>
+            <button type="button" id="btn-comprobar" class="btn-accion">Comprobar Respuestas</button>
+            <button type="button" id="btn-reiniciar" class="btn-accion btn-volver">⬅ Volver al Inicio del Libro</button>
+        </form>
+
+        <div id="resultado"></div>
+    </div>
+
+    <script>
+        let paginasVisitadas = [];
+        let preguntasTotales = [];
+        let preguntasFiltradas = [];
+
+        const infoRutaEl = document.getElementById('info-ruta');
+        const listaPreguntasDiv = document.getElementById('lista-preguntas');
+        const btnComprobar = document.getElementById('btn-comprobar');
+        const btnReiniciar = document.getElementById('btn-reiniciar');
+        const resultadoDiv = document.getElementById('resultado');
+
+        // 1. Obtener páginas desde la URL
+        function obtenerPaginasVisitadasURL() {
+            const params = new URLSearchParams(window.location.search);
+            const paginasParam = params.get('paginas');
+
+            if (paginasParam) {
+                paginasVisitadas = paginasParam.split(',').map(n => parseInt(n.trim())).filter(n => !isNaN(n));
+                infoRutaEl.innerHTML = `<strong>Historia:</strong> ${paginasVisitadas.join(',')}`;
+            } else {
+                infoRutaEl.innerHTML = `⚠️ No se detectó un recorrido específico. Se mostrarán preguntas generales.`;
+                paginasVisitadas = [];
+            }
+        }
+
+        // 2. Cargar archivo de preguntas
+        async function cargarPreguntas() {
+            try {
+                let response = await fetch('./GEMPREGUNTAS.TXT');
+                if (!response.ok) response = await fetch('./gempreguntas.txt');
+                if (!response.ok) response = await fetch('./questions.txt');
+                
+                if (!response.ok) throw new Error("No se pudo encontrar el archivo de preguntas.");
+                
+                const texto = await response.text();
+                parsearPreguntasVF(texto);
+                filtrarYMostrarPreguntas();
+            } catch (error) {
+                listaPreguntasDiv.innerHTML = `<p style="color:red;">Error: ${error.message}</p>`;
+                btnComprobar.style.display = 'none';
+            }
+        }
+
+        // 3. Parser para formato :V y :F
+        function parsearPreguntasVF(texto) {
+            preguntasTotales = [];
+            const lineas = texto.replace(/\r\n/g, '\n').split('\n');
+            let paginaActual = null;
+
+            lineas.forEach(linea => {
+                const lineaLimpia = linea.trim();
+                if (!lineaLimpia) return;
+
+                const matchPagina = lineaLimpia.match(/^(\d+)\s*#/);
+                if (matchPagina) {
+                    paginaActual = parseInt(matchPagina[1]);
+                    return;
+                }
+
+                const esVerdadero = lineaLimpia.endsWith(':V') || lineaLimpia.endsWith(':v');
+                const esFalso = lineaLimpia.endsWith(':F') || lineaLimpia.endsWith(':f');
+
+                if (esVerdadero || esFalso) {
+                    const enunciado = lineaLimpia.substring(0, lineaLimpia.length - 2).trim();
+
+                    preguntasTotales.push({
+                        pagina: paginaActual || 1,
+                        enunciado: enunciado,
+                        correcta: esVerdadero ? 'V' : 'F'
+                    });
+                }
+            });
+        }
+
+        // 4. Filtrar y renderizar las preguntas
+        function filtrarYMostrarPreguntas() {
+            if (paginasVisitadas.length > 0) {
+                preguntasFiltradas = preguntasTotales.filter(p => paginasVisitadas.includes(p.pagina));
+            } else {
+                preguntasFiltradas = preguntasTotales;
+            }
+
+            listaPreguntasDiv.innerHTML = '';
+
+            if (preguntasFiltradas.length === 0) {
+                listaPreguntasDiv.innerHTML = '<p>No hay preguntas disponibles asociadas a las páginas de tu recorrido.</p>';
+                btnComprobar.style.display = 'none';
+                return;
+            }
+
+            btnComprobar.style.display = 'block';
+
+            preguntasFiltradas.forEach((p, idxPregunta) => {
+                const bloque = document.createElement('div');
+                bloque.classList.add('bloque-pregunta');
+
+                bloque.innerHTML = `
+                    <div class="pregunta-titulo">${idxPregunta + 1}. "${p.enunciado}"</div>
+                    <div class="opciones-grupo">
+                        <label class="opcion-label" id="label-p${idxPregunta}-V">
+                            <input type="radio" name="pregunta_${idxPregunta}" value="V"> Verdadero
+                        </label>
+                        <label class="opcion-label" id="label-p${idxPregunta}-F">
+                            <input type="radio" name="pregunta_${idxPregunta}" value="F"> Falso
+                        </label>
+                    </div>
+                `;
+
+                listaPreguntasDiv.appendChild(bloque);
+            });
+        }
+
+        // 5. Validar respuestas
+        btnComprobar.addEventListener('click', () => {
+            let aciertos = 0;
+            let respondidas = 0;
+
+            preguntasFiltradas.forEach((p, idxPregunta) => {
+                const seleccion = document.querySelector(`input[name="pregunta_${idxPregunta}"]:checked`);
+                
+                ['V', 'F'].forEach(v => {
+                    const label = document.getElementById(`label-p${idxPregunta}-${v}`);
+                    if (label) label.classList.remove('correcta', 'incorrecta');
+                });
+
+                const labelCorrecta = document.getElementById(`label-p${idxPregunta}-${p.correcta}`);
+                if (labelCorrecta) labelCorrecta.classList.add('correcta');
+
+                if (seleccion) {
+                    respondidas++;
+                    const valorElegido = seleccion.value;
+                    if (valorElegido === p.correcta) {
+                        aciertos++;
+                    } else {
+                        const labelElegida = document.getElementById(`label-p${idxPregunta}-${valorElegido}`);
+                        if (labelElegida) labelElegida.classList.add('incorrecta');
+                    }
+                }
+            });
+
+            if (respondidas < preguntasFiltradas.length) {
+                alert(`Por favor, responde a todas las preguntas (${respondidas}/${preguntasFiltradas.length} respondidas).`);
+                return;
+            }
+
+            const porcentaje = Math.round((aciertos / preguntasFiltradas.length) * 100);
+            resultadoDiv.style.display = 'block';
+            resultadoDiv.className = porcentaje >= 50 ? 'resultado-exito' : 'resultado-regular';
+            resultadoDiv.innerHTML = `Has acertado ${aciertos} de ${preguntasFiltradas.length} preguntas (${porcentaje}%).`;
+
+            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+        });
+
+        btnReiniciar.addEventListener('click', () => {
+            window.location.href = './index.html';
+        });
+
+        // Inicio
+        obtenerPaginasVisitadasURL();
+        cargarPreguntas();
+    </script>
+</body>
+</html>
