@@ -271,10 +271,25 @@
             });
         }
 
-        // 5. Validar respuestas
+        // 5. Validar respuestas sin revelar datos prematuros
         btnComprobar.addEventListener('click', () => {
-            let aciertos = 0;
             let respondidas = 0;
+
+            // Paso 1: Comprobar que todas están respondidas antes de aplicar estilos
+            preguntasFiltradas.forEach((p, idxPregunta) => {
+                const seleccion = document.querySelector(`input[name="pregunta_${idxPregunta}"]:checked`);
+                if (seleccion) {
+                    respondidas++;
+                }
+            });
+
+            if (respondidas < preguntasFiltradas.length) {
+                alert(`Por favor, responde a todas las preguntas (${respondidas}/${preguntasFiltradas.length} respondidas).`);
+                return; // Corta la ejecución aquí sin modificar la interfaz
+            }
+
+            // Paso 2: Evaluar y marcar respuestas únicamente tras verificar el 100% de finalización
+            let aciertos = 0;
 
             preguntasFiltradas.forEach((p, idxPregunta) => {
                 const seleccion = document.querySelector(`input[name="pregunta_${idxPregunta}"]:checked`);
@@ -287,22 +302,14 @@
                 const labelCorrecta = document.getElementById(`label-p${idxPregunta}-${p.correcta}`);
                 if (labelCorrecta) labelCorrecta.classList.add('correcta');
 
-                if (seleccion) {
-                    respondidas++;
-                    const valorElegido = seleccion.value;
-                    if (valorElegido === p.correcta) {
-                        aciertos++;
-                    } else {
-                        const labelElegida = document.getElementById(`label-p${idxPregunta}-${valorElegido}`);
-                        if (labelElegida) labelElegida.classList.add('incorrecta');
-                    }
+                const valorElegido = seleccion.value;
+                if (valorElegido === p.correcta) {
+                    aciertos++;
+                } else {
+                    const labelElegida = document.getElementById(`label-p${idxPregunta}-${valorElegido}`);
+                    if (labelElegida) labelElegida.classList.add('incorrecta');
                 }
             });
-
-            if (respondidas < preguntasFiltradas.length) {
-                alert(`Por favor, responde a todas las preguntas (${respondidas}/${preguntasFiltradas.length} respondidas).`);
-                return;
-            }
 
             const porcentaje = Math.round((aciertos / preguntasFiltradas.length) * 100);
             resultadoDiv.style.display = 'block';
