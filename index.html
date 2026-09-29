@@ -132,9 +132,11 @@
                 if (!respuesta.ok) throw new Error("No se pudo encontrar el archivo LIBROS.TXT");
                 
                 const texto = await respuesta.text();
-                const lineas = texto.split('\n').map(l => l.trim()).filter(l => l.length > 0);
                 
-                // Categorías de libros
+                // Limpieza de caracteres invisibles \r (saltos de línea Windows)
+                const textoLimpio = texto.replace(/\r/g, '');
+                const lineas = textoLimpio.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+                
                 const libros34 = [];
                 const libros56 = [];
                 const librosOtros = [];
@@ -143,11 +145,14 @@
                     let codigoNivel = '';
                     let nombreCarpeta = linea;
 
-                    // Detectar si la línea contiene #
-                    if (linea.includes('#')) {
-                        const partes = linea.split('#');
-                        nombreCarpeta = partes[0].trim();
-                        codigoNivel = partes[1].trim();
+                    // Si empieza por #, detectamos el código de nivel
+                    if (linea.startsWith('#')) {
+                        // Regex para capturar el código entre # al inicio (ej: #34#)
+                        const coincide = linea.match(/^#(\d+)#(.*)/);
+                        if (coincide) {
+                            codigoNivel = coincide[1].trim(); // Guarda "34" o "56"
+                            nombreCarpeta = coincide[2].trim(); // Guarda el resto: "08-EL LODO VERDE"
+                        }
                     }
 
                     const objetoLibro = {
@@ -176,7 +181,7 @@
                     renderizarSeccion('📗 Libros para 5.º y 6.º de Primaria', libros56);
                 }
 
-                // Renderizar Sección General (si hay libros sin #)
+                // Renderizar Sección General (libros sin etiqueta)
                 if (librosOtros.length > 0) {
                     renderizarSeccion('📙 Otras Lecturas', librosOtros);
                 }
