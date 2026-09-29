@@ -1,4 +1,4 @@
-1#
+﻿1#
 
 Estás en un tren que viaja por los Cárpatos, la cadena montañosa de Rumania, con el propósito de ir a visitar a tu tío Andrés. En todo el mundo no hay un lugar que esté más vinculado con los vampiros que esa región, y no hay nadie que sepa más de ellos que tu tío. 
 Ahora que eres bastante grande, tu tío comprende que estás listo para participar con él en una de sus expediciones. Tu meta: probar científicamente —y de una vez por todas— que los vampiros existen. 
@@ -1236,7 +1236,6 @@ El cuadro vuelve a gritar. Es un grito de infinito dolor. En respuesta, del fond
 La única lamparita del vagón de los equipajes se hace añicos. Los rayos láser fracasan. Pero la oscuridad dura sólo unos segundos. Después aparece una nueva luz... un fulgor de un rojo sanguíneo que proviene de abajo de una pila de cajas. El fulgor brilla y late como impulsado por un corazón.
 —¡Ahhh sí! —exclama Zoltan, levantando su capa por encima de la cabeza—. De modo que fue ahí donde la vieja escondió nuestra joya, nuestra preciosa Piedra Sanguínea. Por fin nos ha sido devuelta después de muchos siglos. Por este inapreciable regalo les daremos a ustedes, mortales, un presente a cambio. Les permitiremos unirse a las filas de los no-muertos.
 Fin
-
 
 
 
