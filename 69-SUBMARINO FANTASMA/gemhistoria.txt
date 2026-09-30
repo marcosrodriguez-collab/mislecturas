@@ -1,0 +1,953 @@
+1#
+Es la última hora de la tarde, precisamente aquélla en que tu padre suele llegar a casa después de su trabajo. Sentada en el cuarto de estar lees un libro y, de pronto, las páginas empiezan a parecerte borrosas. Te zumba la Cabeza. Extrañas imágenes empiezan a girar precipitadamente ante tus ojos. Se diría que dos objetos grandes chocan ante ti. No consigues determinar exactamente qué son, pero podrían ser coches. Entonces, esas imágenes se desvanecen y las páginas de tu libro vuelven a ser claras.
+De súbito se oye el chirriar de unos frenos frente a tu casa y entonces ¡un fuerte golpe! Un coche se ha precipitado contra el guardabarros del coche de tu padre, justo cuando entraba en la calle. Tu padre no está herido. De alguna manera, ya sabías que no lo estaría.
+#Sigue:4
+
+
+2#
+
+En tu mente se forma la imagen de un objeto volador. Unos segundos más tarde, oyes un helicóptero que vuela hacia tu casa. Pasa muy bajo por encima de tu tejado y aterriza en un solar cercano. Llaman a la puerta delantera. Oyes hablar durante mucho rato y después a tu madre que sube las escaleras.
+—El profesor Conroy y otros señores están aquí para verte —te dice.
+Cuando bajas, encuentras al profesor sentado en el sofá. Junto a él, y en actitud rígida, hay dos hombres de pie. Tienen en sus gestos algo de militar, acaso del FBI. Uno de esos hombres avanza un paso y dice:
+—Sentimos molestarte pero estamos aquí por un asunto urgente. Trabajamos para un organismo especial del gobierno. Hace algún tiempo avisamos a todos los investigadores de percepción extrasensorial que buscaran individuos especialmente dotados. Hay alguna posibilidad de que seas tú la persona que pueda ayudarnos en una misión muy especial. Te agradeceríamos que vinieras con nosotros durante un par de días para someterte a algunas pruebas.
+—¿Te parece bien que vaya? —preguntas a tu madre.
+—Puedes ir, si realmente lo deseas —responde—. Pero piénsatelo cuidadosamente. Mi impresión personal es que detrás de esto hay mucho más de lo que estos señores nos están diciendo.
+#Si te sometes a las pruebas:5
+#Si decides no someterte a las pruebas:10
+
+
+4#
+Varios días después, mientras bajas por una de las escaleras de la escuela, tu cabeza empieza a zumbar de nuevo. Ves la imagen de alguien que cae. Te imaginas lo que es.
+—¡Cuidado! —gritas, pero el estudiante ya está cayendo.
+Aquella noche, a la hora de cenar, cuentas a tus padres estas experiencias.
+—He oído decir que precisamente uno de los profesores de la universidad se propone efectuar un estudio científico de este tipo de cosas —comenta tu padre—. Creo que ese profesor se llama Conroy. Mañana lo llamaré por teléfono, y tal vez puedas ir a conocerlo.
+Pocos días más tarde, te hallas sentada en el despacho del profesor Conroy.
+—Este fenómeno lo denominamos PES —explica el profesor—, siglas que significan percepción extrasensorial. Es una habilidad muy insólita. Algunas personas con PES pueden prever el futuro, mientras que otras son capaces de mover o doblar objetos con la mente. Parece que tú sabes cuándo va a ocurrir algo.
+Han pasado tres semanas desde que hablaste con el profesor. Estás sentada en tu cuarto cuando vuelves a tener aquella sensación de que algo está a punto de ocurrir.
+#Sigue:2
+
+
+5#
+—Creo que debería ir —confías a tu madre—. ¡Por lo menos podré descubrir qué ocurre!
+Unas horas más tarde, el helicóptero en que viajas junto con el profesor Conroy y los otros dos hombres aterriza en el centro de un amplio complejo de edificios fuertemente custodiado, en las cercanías de Washington, D. C.
+Te sale al encuentro una mujer atractiva y bien vestida, de pelo corto.
+—Permíteme que te presente a la doctora Thursen, Greta Thursen —dice el profesor Conroy—. Greta fue mi ayudante de investigación. Ahora trabaja para el gobierno. Te dejo en sus manos. Tengo que volver a mis estudiantes. ¡Buena suerte!
+#Sigue:6
+
+6#
+La doctora Thursen te lleva a su despacho, que está allí cerca.
+—Me gustaría, ante todo, que trataras de adivinar los números de la parte posterior de estas cartas especiales.
+Cierras los ojos y te concentras.
+—Déjeme pensar. Esta de aquí es un cinco. La otra es un diez...
+Tras haber analizado todo el montón, la doctora Thursen parece decepcionada.
+—Has sacado un poco más del cincuenta por ciento, pero eso cae dentro del margen normal de error. Tus potenciales de PES no parecen especialmente fuertes. Espera aquí mientras voy a discutir esto con mis ayudantes.
+Mientras la doctora Thursen habla, tienes otra vez la sensación de que algo está a punto de suceder. Tienes la impresión de que hay un gran peligro allí mismo, fuera del despacho.
+—¡Doctora Thursen, deténgase! —exclamas—. ¡No salga por esa puerta!
+#Sigue:8
+
+
+
+8#
+
+¡Se ove un fortísimo choque!
+—¿Está todo el mundo bien ahi dentro?
+La doctora Thursen tira cuidadosamente de la puerta para abrirla, que se ha salido un poco de los goznes. La parte trasera de un enorme camión
+ha quedado empotrada contra el edificio.
+—Me fallaron los frenos justamente cuando estaba dando marcha atrás —se justifica el conductor.
+La doctora Thursen se vuelve hacia ti.
+—Tienes algunas habilidades muy notables, sin embargo. Probablemente me has salvado la vida. Creo que eres exactamente el tipo de persona que hemos estado buscando.
+Los dos hombres que se desplazaron contigo en el helicóptero llegan sin aliento. La doctora Thursen les cuenta lo sucedido. Ahora todos te miran fijamente.
+— Me parece que ya sabemos lo que necesitábamos saber —concluye la doctora Thursen—. ¿Qué te parecería desempeñar el papel de especialista
+en PES en un submarino de investigación?
+Te quedas sorprendida, petrificada.
+—No veo qué tiene que ver la PES con un submarino —dices, por fin
+—Éste no es un submarino ordinario —comenta uno de los hombres—. Está diseñado de forma que pueda usarse la PES como un modo especial de señalar peligros. Habíamos preparado un amplio programa de adiestramiento en tierra firme, pero ahora el tiempo nos apremia. Tendrás que aprenderlo sobre la marcha. ¡En el mar!
+#Sigue:9
+
+
+
+9#
+—Aguarde un momento —dices—. Mi familia espera que vuelva a casa dentro de un par de días.
+—Lo sé —contesta el hombre—. Hablaremos con tus padres y les explicaremos que lo que estás haciendo es vital para la seguridad de la nación.
+—¿Para la seguridad de la nación? —excíamas—.
+¿De verdad?
+—No te lo hubiéramos dicho hasta que hubieses aceptado ayudarnos. Pero como puede influir sobre tu decisión, te lo diremos ahora. Por todo el mundo desaparecen barcos sin dejar rastro alguno. En un momento dado están ahí, y un segundo después han desaparecido. Especialmente submarinos. No sabemos por qué. Los rusos pierden tantos como nosotros. Esta misión es muy peligrosa, de modo que tienes el privilegio de rehusar, si quieres.
+#Si aceptas embarcar en seguida para tomar parte en esta misión:13
+#Si les dices que necesitas más tiempo para pensártelo:19
+
+
+
+10#
+
+Cabe que tu madre tenga razón. Podría haber algo más de lo que se ve a simple vista.
+—No creo que quiera participar en esto ahora mismo —confiesas.
+—¿Pero esto puede ser vital para tu país y... rehúsas ayudarnos? —replica uno de los hombres y enrojece de ira.
+—Creo que ha llegado el momento de que se marchen, caballeros —tercia tu madre.
+De pronto, el hombre de la cara enrojecida se adelanta y te coge por un brazo.
+—¡Si no quieres venir con nosotros voluntariamente, tendremos que obligarte!
+#Sigue:21
+
+
+
+12#
+
+—Estamos cruzando un paso subterráneo —explica Hornbolt—. Este túnel es amplio y pasa por debajo del agua; ha sido abierto en la roca viva. Nos conduce a Puget Sound, una ría a pocas millas de aquí, que desemboca en el Pacífico. Quienquiera que sea, o lo que sea, que está atacando a nuestros barcos parece estar observando de cerca nuestros puertos y astilleros. Muchos barcos nuevos han desaparecido sólo unas pocas millas después de haber sido botados al mar. Ésta es la razón de que vayamos con tanto cuidado esta vez.
+—Todavía no entiendo cuál es mi papel en esto —comentas.
+—Este buque cuenta con el equipo electrónico más avanzado que existe —continúa el capitán—, pero ni así es suficiente. Por lo que parece, los sensores electrónicos de los otros barcos fallaron. Dependemos de ti para que, con tus potenciales de PES, nos proporciones una advertencia especial de peligro. Además, te verás obligada a tomar algunas decisiones cruciales que pueden depender de tu especial habilidad psíquica. Incluso cabe que llegue el caso de que tengas que asumir el control del Manta, si fallaran nuestros sistemas electrónicos.
+—Me parece que esperan mucho de mí —confiesas—. No sé realmente si sabré hacerlo.
+—No te preocupes por eso —dice el capitán—. En cuanto alcancemos el mar libre empezarás tu adiestramiento.
+#Sigue:16
+
+
+
+13#
+
+La misteriosa desaparición de los barcos te intriga y decides acceder a ayudarles.
+Pocas horas más tarde, estás a bordo de un reactor militar transcontinental que te lleva a unos astilleros de la costa Oeste. La doctora Greta Thursen y el capitán Hornbolt vienen contigo.
+—El capitán Hornbolt —dice Thursen, que ha estado hablando casi todo el rato— es un navegante muy experimentado y estará al mando del submarino. Éste se llama Manta. La tripulación, por su parte, consta de unas ciento cincuenta personas.
+#Sigue:14
+
+
+
+14#
+
+Después de aterrizar, el capitán te guía hacia la entrada de un edificio de tres pisos. Luego cogéis el ascensor, que desciende varios pisos subterráneos y finalmente se detiene.
+La puerta se abre frente a un largo corredor. Lo sigues hasta llegar a otra puerta que da a un balcón metálico. La escena es sobrecogedora. Te hallas en lo alto de una caverna construida por el hombre. Luces de alta intensidad están situadas espaciadamente entre las altísimas paredes de roca. Mucho más abajo se ven figuras pequeñas que hormiguean por encima de un enorme barco redondeado, que flota en un lago artificial en el centro del suelo de la caverna. No se parece a ninguno de los barcos o submarinos que hayas podido ver. Tiene un frente curvo y amplio, como un ala, con una popa larga y cónica en forma de cola. Se parece a una enorme raya manta.
+—Creo que, por lo que puedes ver —dice el capitán—, comprenderás por qué hemos bautizado a este barco con el nombre de Manta. Los operarios están realizando las últimas pruebas. Por desgracia, no haremos una botadura oficial.
+#Sigue:17
+
+
+
+
+
+
+
+16#
+
+Poco después ya estás allí. Greta Thursen llega al cuarto de control y te muestra una cabina especial de concentración. Te sientas dentro, en un sillón confortable y móvil. Aunque la cabina es pequeña, te rodean centenares de botones, pantallas de control e interruptores eléctricos.   —¡Vaya! ¡Qué aspecto tan complicado tiene todo esto! —comentas—. Me siento como si estuviera dentro de una cápsula espacial.   
+—Olvida todos estos aparatitos —te aconseja la doctora Thursen—. Esta cabina estará totalmente a oscuras y a prueba de sonidos cuando te estés concentrando. Eso deberá favorecer que te concentres en tu subconsciente. Ahora bien, lo que nos está quitando los barcos podría estar en cualquier sitio del océano, en cualquier lugar del mundo. Concéntrate y si tienes alguna sensación de dónde podría estar, nos dirigiremos hacia allí.   Cierras los ojos y tratas de sentir dónde se halla esa fuerza misteriosa que apresa barcos.   
+#Si tu PES te indica que vayas al norte en dirección al Ártico:42   
+#Si tu PES te indica que vayas al sur hacia el Pacífico meridional:20
+
+
+
+17#
+
+Otro ascensor te conduce abajo, al nivel donde se llevan a cabo las operaciones, y allí te embarcas. El capitán Hornbolt, con orgullo, te enseña las habitaciones de la tripulación, la cocina, el comedor, la sala de máquinas y la sala de los torpedos.   
+—Además de los torpedos, disponemos asimismo de lanzamisiles. Sus cabezas de choque, aunque no son nucleares, son muy potentes. También tenemos una pequeña nave de exploración submarina, situada en un compartimiento especial, que se puede inundar y abrir hacia el exterior, mientras el Manta permanece sumergido.   
+Al final llegáis a la sala de control, grande, circular y débilmente iluminada.   
+De pronto, varios zumbidos y señales sonoras empiezan a oírse por todo el buque. Las puertas de la sala de control se cierran con un suave chasquido mientras quedan asegurados los compartimentos estancos del buque. El suelo se mueve ligeramente bajo tus pies.   
+El Manta se hunde verticalmente en el lago artificial durante un minuto, aproximadamente, y entonces se lanza hacia adelante.   
+#Sigue:12
+
+
+19#
+
+—No creo que pueda decidir tan rápidamente una cosa tan importante —respondes.   
+La doctora Thursen dispone que el helicóptero te devuelva a tu casa.  
+—Intenta decidirte pronto —pide—. Todos nuestros planes dependen de tu respuesta.   
+Al volver a tu casa, te cuesta conciliar el sueño. Cuando lo logras, te afligen pesadillas sobre barcos que desaparecen y acerca de la gente inocente que desaparece con ellos.   
+Sin embargo, a la noche siguiente, tienes un sueño muy claro, en que te ves a ti misma atrapada en un submarino inutilizado y hundido. Te estás quedando rápidamente sin oxígeno. A pesar de que sea un sueño, sabes que éste sería tu destino si siguieras adelante con esto.   
+A la mañana siguiente llamas a la doctora Thursen.   
+—Realmente creo que necesito más tiempo para desarrollar adecuadamente mi PES —manifiestas, aunque esta excusa no tenga visos de ser muy cierta.   
+La doctora Thursen no parece tan decepcionada como pensabas que podía estar. En cualquier caso, tienes el presentimiento de que algún día decidirás usar tus poderes psíquicos para el bien de la humanidad. Pero no precisamente ahora.   
+Fin   
+
+
+20#
+
+—Algo me dice que vayamos hacia el sur —sugieres—. Pero recuerde que ésta es la primera vez que hago algo así.   
+—¿Puedes decirme lo que sentiste cuando lo decidiste? —pregunta la doctora Thursen.   
+—No estoy muy segura —contestas—, pero me pareció tener una sensación de calor, y vi algunas formas que se cimbreaban. ¿Palmeras?   
+—Pronto lo dominarás —vaticina la doctora Thursen—. Ésta es tu primera misión. Necesitarás más tiempo para acostumbrarte a utilizar tu PES.  
+#Sigue:22
+
+
+21#
+
+El profesor Conroy y el otro hombre intervienen rápidamente, y lo separan.   
+—Sentimos mucho lo ocurrido —se excusa el profesor Conroy—. Hemos estado todos sometidos a fuertes tensiones, hasta el punto que algunos de nosotros no han estallado de puro milagro. Si cambias de opinión sobre las pruebas, ponte en contacto conmigo en la universidad.   
+El profesor Conroy y los dos hombres suben al helicóptero y despegan. Siempre te preguntarás qué querían realmente de ti.   
+Fin
+
+
+22#
+
+En las semanas siguientes, mientras el Manta avanza silenciosamente por debajo del agua en dirección sur, aprendes a «conectar» con tu subconsciente. También te familiarizas con las numerosas pantallas y sensores electrónicos que hay en tu cabina. Aprendes a usar los circuitos que hay en las paredes, diseñados para recoger y amplificar tus ondas cerebrales capaces de activar controles especiales que maniobrarían el buque en caso de emergencia. Constantemente estás observando la pantalla biorreactivadora, adiestrando tu mente para producir distintos tipos de ondas cerebrales, cada una de las cuales está programada para dar cierta orden específica al buque.   
+Precisamente mientras practicas con estos controles, pronto sientes una amenaza cercana al submarino. Fuera, en el mar, hay algo oscuro y malo.   #Sigue:24  
+
+
+24#
+
+Los sistemas de alarma tradicionales del Manta no logran recoger nada, pero tu subconsciente se llena de pronto de un inexplicable sentimiento de terror.   
+Apenas tienes tiempo de advertir al capitán cuando súbitamente se apagan los circuitos de energía y de control del Manta. El submarino se queda inmóvil. Hay confusión en todo el barco mientras la tripulación trata en vano de restablecer la energía. Tienes la sensación de que el barco se halla rodeado por determinado número de submarinos pequeños —puedes verlos en tu mente— que se están acercando como un grupo de tiburones. Sabes que se disponen a atacar. Éste es el momento para el que te ha preparado tu adiestramiento. Tienes que hacer algo, rápidamente. Por fortuna, puedes controlar el barco con tus ondas cerebrales. Inmediatamente activas los controles de emergencia.   
+#Si llevas rápidamente el submarino a la superficie:69
+#Si lo sumerges a la mayor velocidad posible:27
+
+
+
+
+27#
+
+Tu mente forma con rapidez los tipos de ondas mentales necesarios para que el Manta se lance a las profundidades a la mayor velocidad. El submarino se mueve con rapidez, con mucha rapidez.   
+—Me parece que lo logramos —comentas—. Ya no siento la presencia de los submarinos atacantes.   
+—Así que era eso —murmura Hornbolt—. Me alegro de que escapáramos. Pero, ¿qué ocurre ahora? Parece que damos vueltas en espiral.   
+—Parece como un gigantesco remolino subacuático —añades—. Nos está sorbiendo hacia el fondo. ¡Y no puedo detenerlo!   
+Se oye un choque que pone de punta los nervios de todos cuando el buque da contra el fondo.   
+—A toda la tripulación, ¡comprueben los daños! —ordena el capitán.   
+Después de unos pocos minutos de tensión, Hornbolt repasa los informes de los daños sufridos a medida que llegan a la sala de control.   
+—No parece haber muchos desperfectos en la estructura interior —dice—. Sólo algunas bombillas rotas y unas cuantas tuberías retorcidas y fuera de lugar. Será más difícil saber qué ha ocurrido en el exterior. ¿Qué te parecería ir a darle una ojeada en la nave de exploración?   
+#Si sacas al exterior la nave de exploración:30
+#Si crees que sería mejor elevar el submarino del fondo del océano:76 
+
+
+
+28#
+
+—Creo que deberíamos seguir rastreando el fondo del mar —propones—. Una corriente fuerte podría haber liberado al Manta y habérselo llevado a alguna otra parte.   
+Hornbolt y tú lleváis a cabo una investigación cuidadosa. Vigilas los indicadores que señalan cuánto combustible y oxígeno quedan, sin apartar la vista de ellos.   
+—Creo que es hora de que volvamos a la superficie —dices—. La cabeza me zumba, y no me gusta nada lo que oigo.   
+A mitad de camino hacia la superficie, se os agotan el combustible y el oxígeno. A partir de aquel momento, una nave exploradora sin vida va de un lado a otro empujada por las corrientes submarinas.  
+Fin   
+
+
+
+29#
+
+La caverna conduce a un enorme anfiteatro submarino. El agua es transparente como el cristal, y el aire otro tanto. Una luz suave ilumina toda la caverna, de varios kilómetros de diámetro. Corales multicolores, de todo tipo, cubren el suelo.   
+En el centro de la caverna, que se halla todavía a bastante distancia, se levanta una inmensa estructura rectangular de aspecto curioso. Por un momento podrías pensar que se trata de un gran bloque sólido, pero entonces observas que presenta pequeñas aberturas redondas cerca de su fondo.   
+—Fíjate —exclama Hornbolt—. Nuestro manómetro indica sólo unas pocas atmósferas de presión del agua. ¿Será posible? Debemos estar, por lo menos, a seiscientos metros de profundidad. Si esta presión es correcta, significa que nos bastará con las máscaras faciales y unos depósitos de oxígeno pequeños para explorar esa estructura. ¿Adviertes si hay algún peligro por aquí?   
+#Si tu PES te indica que no hay peligro en explorar la estructura:32 
+#Si notas que pudiera ser demasiado peligroso:74  
+
+
+
+30#
+
+—Creo que, ante todo, deberíamos echar un vistazo al casco exterior —manifiestas.   
+Hornbolt y tú subís a la nave exploradora, navecilla en forma de disco con una cabina central de grandes dimensiones, como la de un helicóptero. Dos chorros de agua idénticos la impulsan por las regiones submarinas. La navecilla sale en dirección a este mundo extraño, mientras sus focos delanteros atraviesan la oscuridad de las profundidades marinas.   
+Hornbolt hace girar la nave, de modo que vuestros focos de luz iluminen el exterior del Manta. Dais una vuelta alrededor del submarino y observáis que su cola se ha hundido en el fondo del océano.   
+—Mira eso —exclama Hornbolt—. ¡Paredes empinadas de roca a cada lado! Parece como si hubiésemos caído dentro de un cañón submarino con rocas colgantes encima de nosotros.   
+#Sigue:34
+
+
+32#
+
+—Explorémoslo. No advierto ningún peligro.   
+—Entonces te enseñaré a ponerte el equipo de inmersión que guardamos en la nave de exploración —dice Hornbolt.   
+Salís de la nave por un pequeño compartimento estanco que hay en su parte posterior, y os dirigís hacia una de las aberturas redondas. En realidad es un corto túnel, brillantemente iluminado. Entráis en el túnel y pronto llegáis frente a una ventana traslúcida. Hornbolt da varios golpecitos a la ventana, que se desliza y abre. Entráis nadando a través de la abertura.   
+Más allá de la ventana hay un enorme espacio abierto, cuyo fondo está lleno de barcos de todas clases: galeras antiguas, barcos de vela con todo su velamen dispuesto, modernos buques de carga, incluso transatlánticos... y submarinos, desde los más primitivos a los modelos atómicos más adelantados.   
+—¡Vaya! Esto parece un museo —comentas—. Quienquiera que los haya traído aquí tiene que haber sido el causante de todas esas desapariciones.   
+—Esto me aterra, sea lo que fuere —dice el capitán—. Creo que deberíamos marcharnos.   
+—Espere un momento —propones—. Mire por allí. Ésas son las naves más extrañas que he visto en mi vida. Vamos a observarlas más de cerca.   
+—¿Estás absolutamente segura de que seguimos estando seguros aquí abajo? —pregunta Hornbolt.   
+#Si empiezas a notar la sensación de peligro:109  
+#Si estás segura de que continúa sin haber peligro:83 
+
+
+
+34#
+Mientras exploráis las paredes laterales del cañón, divisáis la entrada a una caverna submarina. Permanecéis flotando ante la entrada.   
+—¿Me estarán los ojos jugando una mala pasada? ¿O se ve un resplandor luminoso en esa cueva? —preguntas.   
+—Podría ser algún ser marino fosforescente —aventura Hornbolt—, u otra cosa... Me gustaría darle una ojeada.   
+Cuanto más os adentráis en la cueva, más brillante resulta aquella luz.   
+—No hay ningún animal marino que sea capaz de producir una luz tan brillante —comenta Hornbolt.   
+#Sigue:29   
+
+
+
+35#
+
+No tarda en veniros a visitar una delegación de los cautivos de la ciudad submarina. Están tramando un intento de fuga. Descubres que siempre intentan llevar a cabo planes de fuga. Jamás logran que ninguno tenga éxito. Pero, por lo menos, les sirven de pasatiempo.   
+Fin
+
+
+
+
+36#
+
+La luz en cuestión empieza a crecer y extenderse, y acaba tomando la figura de una catedral de hielo. Tiene forma de media luna, con la curva posterior elevada hacia lo alto, donde los elevados bloques luminosos de hielo se mezclan y entrecruzan con los colores ambientales de la aurora boreal ártica.   
+#Sigue:106
+
+
+38#
+
+Te embarga la horrible sensación de que el Manta está a punto de pasar a engrosar las filas de los buques de aquel museo submarino.   
+—Puedo disparar nuestros torpedos —explica Hornbolt—, si crees que eso puede servir de algo.   
+Te concentras con todas tus fuerzas.   
+#Si tu subconsciente te dice que lanzar los torpedos puede ser útil:70
+#Si tienes la sensación de que es mejor esperar:40 
+
+
+
+
+
+39#
+
+
+—Todo está en contra de nosotros —dices—. Tengo la sensación de que pueden aniquilarnos en cualquier momento que lo deseen.   
+Tu nave va a situarse junto al muelle, dentro del submarino gigantesco. El capitán, el navegante, la doctora Thursen y tú bajáis a la ancha superficie del muelle.   
+—Continúen caminando en línea recta —ordena una voz— y crucen la puerta que tienen delante.   
+Se distingue un rectángulo pequeño y brillante de luz verdeamarillenta en el lejano extremo del muelle. Os encamináis hacia allí.   
+Al otro lado de la puerta, os encontráis en un espacioso corredor alfombrado. Una ventana sin principio ni fin, de cristal verde, del tipo de los que hay en los acuarios, corre a ambos lados del corredor.   
+—Debe haber agua a la otra parte del cristal —explicas—. Veo figuras confusas que, nadando, avanzan y retroceden. Algunas de esas criaturas nos están mirando.   
+—Tienes razón —admite la doctora Thursen—. Tengo la incómoda impresión de que somos nosotros los peces metidos en una pecera esta vez.   
+#Sigue:45
+
+
+40#
+
+—Decididamente, capitán Hornbolt, creo que deberíamos esperar.   
+Pocos minutos más tarde, caes en la cuenta de que algo enorme se ha tragado al Manta. Sea lo que fuere, os rodea por todas partes. Hay luces submarinas situadas más arriba, que te muestran una vasta extensión de agua, clara como el cristal en todas direcciones, pero que acaba ante unas sólidas paredes metálicas.   
+—¿Dónde piensas que estamos? —pregunta la doctora Thursen.   
+—Dentro de algún ingenio submarino de grandes dimensiones —contestas.   
+—No hay submarino alguno que pueda ser tan grande —comenta Hornbolt.   
+De pronto, una voz potente y sobrecogedora reverbera por todo el Manta y os ordena:
+—Elevad vuestro barco y preparaos a llevarlo a puerto. El capitán de vuestro barco y sus oficiales desembarcarán primero. La tripulación lo hará seguidamente. Todas las armas deberán quedar en el buque. Cualquier desobediencia será castigada duramente.   
+—Voy a hacer subir el barco —dice Hornbolt a través de los altavoces del Manta.   
+El Manta, al ascender, rompe la superficie de un ancho lago dentro del ingenio submarino fantasma. Algo se apodera de vuestra nave y la impulsa rápidamente hacia un muelle.   
+—¿Nos entregaremos sin luchar? —inquiere la doctora Thursen.   
+#Si tu PES te sugiere que obedezcáis las órdenes de la voz:39   
+#Si tu PES te sugiere que debéis luchar:86
+
+
+42#
+
+—Creo que deberíamos dirigirnos hacia el norte. Mientras me concentraba, aparecieron formas extrañas y quebradas ante mis ojos. No pude llegar a enfocarlas bien. Eran blancas, sin duda alguna. Sentí una sensación de frío. Esas formas podrían ser icebergs.   
+En los días siguientes, te dedicas a desarrollar tu PES, y especialmente tu habilidad de controlar el barco con tu mente. El Manta continúa dirigiéndose hacia el norte.   
+—¿Hasta cuándo deberemos seguir la ruta del norte? —inquiere Hornbolt.   
+—No estoy completamente segura de hasta cuándo —contestas—, pero estoy convencida de que vamos en la dirección acertada.   
+—Unos pocos días más —añade Hornbolt— y estaremos en el estrecho de Bering, dirigiéndonos hacia el polo Norte. Iré tan al norte como sea posible, y luego regresaremos.   
+#Sigue:46   
+
+
+
+43#
+
+—Sigo pensando que sería más seguro investigar primero por medio de la nave exploradora —manifiestas.   
+Hornbolt y tú pilotáis la navecilla a través del túnel abierto por la explosión de los torpedos. Os decepciona descubrir que se abre ante otra zona más ancha todavía, rodeada de hielo. Pero hay algo muy raro en ella. Una luz azulverdosa ilumina este vasto espacio. Además, tus instrumentos indican que la temperatura del agua es veinte grados más alta que la que debería tener.   
+—Probablemente haya algún tipo de actividad volcánica en el fondo del mar —conjetura Hornbolt.   
+—Podría ser eso, pero mi sexto sentido me dice que el motivo es aún más extraño que ése.   Durante un segundo, Hornbolt te mira con sorna, pero de pronto ve algo que le deja boquiabierto.   
+#Sigue:49
+
+
+45#
+
+Una docena de extraños y pequeños seres de piel grisverdosa y con patas y manos membranosas aparecen en el corredor. Se cubren la cabeza con cascos transparentes, llenos de agua. Llevan un arma larga, acabada en un tridente.   
+Os conducen a una sala enorme, con una cúpula de cristal. En el centro de la estancia, una criatura, mucho mayor que las demás, tocada con casco, se sienta en un gran trono.   
+—Así que nos han enviado otro barco a contaminar nuestros mares sagrados —exclama—. Nosotros somos tan sólo uno de los muchos pueblos marinos que hemos vivido pacíficamente en los océanos durante millones de años. Mientras vuestra especie evolucionaba en la tierra, por encima de las aguas, se dedicó gradualmente a contaminar los mares. Hemos tenido paciencia, pero ahora estáis vertiendo desechos radiactivos en el océano. Debemos encontrar un modo de acabar con ello, o nos aniquilaréis. Vosotros cuatro tenéis talento y pensamos utilizaros. Pedimos que os unáis a nosotros, para el bien de vuestro propio pueblo, así como el del nuestro. Tal vez conjuntamente logremos hallar una solución.   
+La doctora Thursen, el capitán y el piloto se vuelven hacia ti y te miran. Esperan que sepas qué hay que hacer.   
+#Si decides hacer causa común con el pueblo del mar:80
+#Si necesitas más tiempo para decidirte:94   
+
+
+
+
+
+46#
+
+Al salir del estrecho de Bering, el submarino no tarda en meterse debajo del casquete de hielo polar. El ancho mar de Chukchi resulta cada vez menos profundo, y el hielo de la superficie se vuelve más y más espeso. 
+—Tenemos veinte metros de hielo sobre nosotros —explica el capitán Hornbolt—, y únicamente diez metros entre el agua y el fondo del mar. Eso nos permite sólo unos pocos palmos para maniobrar. Creo que es hora de que salgamos de aquí antes de que quedemos encallados. 
+—Tiene razón —confirmas. 
+Pero una fuerza indefinible pero poderosa te sigue impulsando hacia el polo Norte. 
+El Manta describe un arco muy ancho hacia el estrecho. 
+—Algo va mal —comunica Higby, el piloto—. Los instrumentos señalan que el espacio entre el hielo y el fondo del mar se estrecha cada vez más, a pesar de que estamos regresando al punto de donde partimos. 
+La orden «Paren todas las máquinas» retumba por todo el barco. 
+#Sigue:48
+
+
+
+
+
+48#
+
+El Manta flota a la deriva hasta que se detiene ante una pared sólida de hielo submarino. 
+—¡Estamos atrapados! —exclama Higby—. A nuestro alrededor sólo hay hielo. 
+—Todavía nos quedan algunas cartas en la manga —arguye Hornbolt—. Podemos intentar abrirnos paso rompiendo el hielo con nuestros torpedos, o bien taladrar un túnel de escape a través del hielo hasta la superficie. Ambos recursos son peligrosos. Tendremos que dejarlo en manos de nuestra experta para que decida. 
+—No atino a comprender en qué puedo ayudar a solucionar esto —dices—, pero lo haré lo mejor posible. 
+#Si tu PES te recomienda romper el hielo con los torpedos:50
+#Si tu PES te indica abrir un agujero hasta la superficie:92
+
+
+
+
+
+49#
+—¡Miren esto! —exclama Hornbolt—. ¡Un buque de vela del siglo pasado completamente equipado y con todas las velas aún colocadas! ¡Qué maravillosamente se conserva! Las velas se mueven en estas corrientes submarinas de tal modo que parece que todavía navega al viento. 
+#Sigue:52
+
+
+
+
+50#
+
+—Abrámonos camino a través del hielo con torpedos —propones. 
+—De acuerdo. Apartaré el Manta todo lo que pueda de la pared de hielo y después soltaré un par de torpedos —dice Hornbolt. 
+Aunque el submarino se coloca casi a una milla de distancia del hielo, las explosiones lo sacuden al compás de las olas de choque que van y vienen con toda fuerza. El impacto de los torpedos abre un ancho orificio en el hielo. 
+—Parece haber agua libre detrás de ese orificio —conjetura Higby—. La abertura es lo suficientemente ancha para que el Manta pueda avanzar por ella, aunque muy justo. 
+—¿Cree que deberíamos ampliarlo con otro torpedo? —pregunta la doctora Thursen. 
+—No —responde Hornbolt—. Con la misma facilidad podría volverse a cerrar la abertura. Atravesémosla cuanto antes. Quizá ésta sea nuestra última oportunidad de escapar, y tal vez no nos quede mucho tiempo. 
+—Me parece que deberíamos examinar la abertura y lo que hay detrás antes de arriesgarnos con el Manta —propones. 
+—Pienso que deberíamos cruzarla mientras aún podemos hacerlo —sugiere Hornbolt. 
+#Si insistes en salir primero con la nave exploradora:43
+#Si crees que el Manta debería atravesar el orificio ahora mismo:100
+
+
+
+52#
+
+—Parece despedir algún tipo de energía. Puedo sentirla. Y sale una luz tenue por las escotillas y las portezuelas. Creo que deberíamos investigar el interior del buque —propones. 
+La nave exploradora desciende y se sitúa sobre la cubierta, junto a la escotilla delantera. Sorprende que la luz que sale de debajo de la cubierta sea tan brillante. 
+—¿Qué piensa que puede producir esta luz? —preguntas. 
+—Sólo hay un modo de descubrirlo —responde Hornbolt—. Tenemos a bordo trajes contra el frío y equipamiento para la exploración en la zona del Ártico. Además, esa agua está a una temperatura más cálida de lo que es habitual en el Ártico. 
+—No pretenderá que yo baje sola al interior del barco, ¿verdad? —inquieres. 
+—Creo que sería más prudente que uno de nosotros se quedara vigilando en la entrada de la escotilla —comenta Hornbolt—, pero es mejor que lo decidas tú. 
+#Si piensas que deberíais bajar los dos juntos:98  
+#Si estás de acuerdo con Hornbolt, y decides bajar sola:55 
+
+
+
+
+53#
+
+Expones a Hornbolt tu plan, que consiste en lanzar el Manta contra la pared de hielo. 
+—Ya sé que parece una locura —concluyes—, pero estoy segura de que saldrá bien. 
+—Bueno, tendremos que intentar algo —aventura Hornbolt—. En estos últimos minutos, la temperatura del agua de mar ha descendido de repente por debajo de su punto de congelación. 
+El Manta se dirige hacia el muro de hielo. Crees en lo que ha dicho el patrón, pero te preparas para un choque. Sin embargo, el barco se desliza a través del hielo como si sólo fuera una niebla espesa. 
+—¡Que me aspen si lo entiendo! —exclama Hornbolt. 
+—Me alegro de que haya salido bien —añades. 
+—Lo supuse —dice el piloto—. Ahora nos dirigiremos al sur durante otras treinta y cinco millas y nos habremos librado de esta prisión ártica. 
+El Manta se encamina de regreso hacia Alaska. 
+Cuando pasáis frente a la isla de Nunivak, el sonar del barco capta algunas señales extrañas. Al mismo tiempo, empiezas a oír zumbidos en tu cabeza. Suena la alarma en tu subconsciente. 
+#Sigue:56
+
+
+
+55#
+
+
+Piensas que probablemente el capitán tiene razón. Si bajaseis los dos a la vez y algo os ocurriera a ambos allá abajo, vuestra suerte estaría definitivamente echada. 
+Dejas a Hornbolt a la entrada de la escotilla y te diriges hacia abajo, medio convencida de encontrarte con una tripulación de esqueletos. Pero lo que ves resulta aún más sorprendente. 
+Sigues por un corto pasillo y entras en una cabina de grandes dimensiones, que, sin duda, correspondía al capitán del buque. Allí, detrás de una mesa, distingues la luminosa figura del propio capitán. No estás muy segura, pero tienes la impresión de que puedes ver a través de su cuerpo. 
+—¡Vaya! Os ha costado cien años encontrarme —exclama la figura—. ¿Y qué noticias hay de mi tripulación? ¿Lograron regresar con vida? 
+Te quedas allí perpleja, incapaz de articular nada por un momento. 
+—Yo... lo siento, no tengo ninguna noticia —logras decir—. Acabamos de encontrar su barco cuando intentábamos hallar la salida de este laberinto de hielo. 
+—Ah, sí —continúa la figura—, este maldito hielo. Se tragó mi buque y lo mandó al fondo. La tripulación huyó, pero yo me entretuve demasiado. Parece que he estado encerrado en esta tumba helada durante una eternidad. Pero también esto tiene su lado bueno. Sé todos sus intríngulis y todos sus detalles, ya lo creo. 
+#Sigue:57
+
+
+
+56#
+
+—Tengo la sensación de que está a punto de ocurrirnos algo malo —confías al patrón. 
+—Claro, yo también. Son esos malos bichos. Nos los encontraríamos de nuevo, maldita sea mi suerte. Lo mejor es que paréis el barco y nos quedemos quietos como una rata, y confiar que pasen de largo. 
+Expones tus preocupaciones a Hornbolt. 
+—El buque es rápido. Tal vez podamos dejarlos atrás —aventura Hornbolt. 
+#Si tu PES te indica que es mejor agazaparte y esperar:110 
+#Si tu PES te aconseja que trates de dejar atrás el peligro:58
+
+
+ 
+57#
+
+—No eres el primer ser que pasa por aquí —cuenta la figura—. No hace mucho tiempo —medio año, calculo— vino otro barco subacuático, uno enorme. Lo tripulaban unas criaturas extrañas, eran unos bichos malvados. 
+—Me parece que eso es lo que andamos buscando —aclaras. 
+—Bueno, pues si vais buscando tipos como ésos, entonces que el Señor acoja vuestras almas. 
+—No, quiero decir que estamos intentando detenerlos —respondes—. Ahora le agradeceré que me indique cómo podemos sacar nuestro barco de aquí. 
+—No, a menos que me llevéis con vosotros —propone el capitán del barco—. Debo informarme sobre mi tripulación. Se dirigieron hacia Sitka, en Alaska, hace ya mucho tiempo. 
+—De acuerdo —admites—. Vayámonos, capitán. 
+—Llámame simplemente patrón, si no te importa —añade. 
+Juntos subís a la cubierta superior del antiguo barco. 
+—Quiero que conozca a mi amigo, el patrón —le dices a Hornbolt cuando llegáis a la nave exploradora. 
+—¿A quién quieres que conozca? —pregunta Hornbolt—. ¡Pero si no veo a nadie más que a ti! 
+—El patrón es... ¿Seguro que no lo ve? —inquieres. 
+#Sigue:59
+
+
+58
+—Tiene razón —manifiestas a Hornbolt—. Creo que deberíamos intentar escapar. 
+El capitán da la orden de avanzar a toda marcha. 
+Todo va bien durante una hora, pero después las señales de alarma cruzan el Manta de proa a popa. Las escalerillas y pasillos se llenan súbitamente de una especie de bruma azulada. Todo cuanto hay en el submarino empieza a desprender un leve resplandor, como si tuviera un calor interno, pero las superficies de todas las cosas están frías al tacto. Las paredes del submarino se disuelven a ojos vistas. Se puede ver directamente a través de ellas. El casco de la nave se vuelve transparente. Se distinguen los peces que nadan en el agua que lo rodea. Pero ésta no se precipita al interior de la nave. 
+La doctora Thursen y Hornbolt se quedan sin poder articular palabra en el centro de la sala de control. Tú y el patrón, que sigue siendo invisible para todos salvo para ti, estáis junto a ellos. Una niebla azul os envuelve a los cuatro. Cuando se desvanece, os halláis de pie en lo que parece ser una enorme caverna de piedra. Hornbolt se dispone a decir algo cuando un rayo de luz lo alcanza desde arriba. Se vuelve transparente y desaparece, dejando una leve columna de humo azulado. A continuación, la doctora Thursen desaparece del mismo modo. Ahora te toca a ti. Tienes el tiempo justo de mirarte una mano y verla desvanecerse antes de perder los sentidos. 
+#Sigue:73
+
+
+59#
+
+—Hay gente que puede verme y gente que no —te susurra el patrón al oído. 
+—¿Estás segura de que te encuentras bien? —pregunta Hornbolt. 
+—Oh, sin duda —respondes—. Sólo estaba bromeando. 
+Hornbolt y tú y, por supuesto, el patrón, regresáis al Manta. La doctora Thursen y Higby tienen muchas preguntas que hacer, pero logras evitar dar respuestas. 
+—Necesito estar unos minutos sola —pides. 
+A solas con el patrón, le preguntas qué hay que hacer ahora. 
+—Muy bien, basta con navegar a toda vela hacia el este y luego cambiar el rumbo hacia el sur. 
+—Pero si hay una sólida pared de hielo en esa dirección —protestas. 
+—Te figuras que esa pared existe. 
+—No puedo creer lo contrario. Todos nuestros instrumentos nos demuestran que eso es sólido. 
+—No me importan vuestros fantásticos instrumentos. Sé que lo que digo es cierto. 
+—Tendré que concentrarme a fondo en eso antes de hacer nada —manifiestas. 
+#Si aconsejes ir contra la pared de hielo:53 
+#Si tu PES te dice que no te dirijas contra la pared de hielo:101 
+
+
+
+
+60#
+
+—No sé si lo conseguiré —dices al patrón—, pero lo intentaré una vez más. 
+Luchas por subir a la última colina. Antes de llegar a la cumbre, te ves obligada a arrastrarte sobre las manos y las rodillas, donde las rocas abren sangrantes heridas. 
+Al lado está el Manta, anclado en una caleta libre de hielos. Ahora ya no te resulta difícil llegar hasta el barco. El hecho de ver el Manta te hace olvidar lo muy cansada que estás. 
+#Sigue:84
+
+
+61#
+
+—Me parece que iré a Erbolt —manifiestas—. Todo me parece mejor que trabajar en una mina bajo el polo Norte. 
+—Es una elección juiciosa —comenta Boron—. Ahora, si quieres, sitúate aquí y pondré en orden los controles. 
+—Es más juicioso por tu parte de lo que se figura ese bicho —te dice la voz del patrón—. Creo que ya he descubierto cuál es su diabólico plan. He hecho algunos arreglos por mi cuenta. Cuando entres en el rayo de luz que te manden, cierra los ojos firmemente. 
+Boron te da un empujón hacia el rayo de luz y entras en él a trompicones. En ese momento, aprieta una combinación de botones que hay en un cuadro de mandos. 
+De pronto, a pesar de tener los párpados cerrados, adviertes una terrible explosión luminosa que brilla con fuerza. 
+#Sigue:66
+
+
+
+63#
+
+Tratas de apuntalarte bien, en espera de que el Manta se caiga por el borde de este extraño foso en el océano. En lugar de esto, oyes un choque repentino, como si el submarino hubiese topado con un enorme barco invisible. Sales disparada y caes sobre la cubierta. Levantas la mirada y ves a cientos de criaturas altas, de aspecto humanoide, que parecen salir de la nada y que invaden la cubierta como un enjambre. Cada una de esas figuras sostiene un palo corto que despide unos rayos paralizadores. La tripulación se ve dominada al momento. 
+Tratas de atrapar a un atacante, pero te alcanza uno de los rayos. Te quedas helada en una posición desfavorable, inclinada hacia delante y con los brazos intentando coger algo en el aire. De pronto, sabes cómo se sentiría una estatua, si las estatuas pudieran sentir. 
+#Sigue:75
+
+
+64#
+
+
+—Mi nombre es Boron —se presenta el extraño ser situado en el centro de la habitación—. Soy del planeta Erbolt. Tengo a mi cargo el destacamento erboltiano, aquí, en vuestro miserable planeta. Sabemos usaros, a vosotros, los terrestres, para muchas cosas. Nos divierte dejaros escoger vuestra suerte. Os podemos enviar a Erbolt, donde usamos a los terrestres como —¿cómo podría decirlo?— como «animales domésticos», como diríais vosotros. Salvo lo estático de la transmisión, deberíais llegar allí en condiciones suficientemente buenas. Por otra parte, podéis permanecer en este planeta y trabajar en nuestras minas de titanio, bajo el polo Norte. 
+#Si eliges ser un «animal doméstico» en Erbolt:61 
+#Si prefieres quedarte en la Tierra trabajando en las minas:102 
+
+
+
+
+65#
+
+No puedes seguir. No te das cuenta de que tu fatiga es uno de los síntomas de la congelación mortal que te aqueja. El fantasma del patrón se ha ido hacia adelante. Cuando regresa, ya estás demasiado afectada. 
+—Bueno, me parece que tú y yo vamos a ser buenos amigos durante mucho tiempo —dice el patrón. 
+Te has convertido en otro fantasma del Ártico. 
+Fin
+
+
+66#
+
+Se apaga algo esa luz tan cegadora, y abres los ojos sólo lo justo para poder ver qué ocurre. Los erboltianos corren a ciegas por toda la sala y chocando unos con otros. Cuando chocan, se desvanecen en medio de una bocanada de humo azul. 
+—¡Cielos de fuego! —grita el patrón—. He logrado que su ingenio malvado reventara en sus propios hocicos malvados, ya lo creo que lo he conseguido. Y mientras van tropezando por ahí y desapareciendo, nos escaparemos por ese túnel que he descubierto. 
+Bajáis corriendo por un largo pasillo excavado en la roca. Casi sin aliento, alcanzáis finalmente la salida. Aparecéis en un lugar altísimo de una elevación rocosa. Muy abajo está el océano, cubierto de hielos flotantes en toda la extensión que alcanza tu mirada. 
+—Por lo que hablaban —dice el patrón—, he colegido que vuestro barco debe estar por aquí, en algún lugar, en alguna de esas caletas que hay aquí abajo, me imagino. Tal vez si nos llegáramos hasta esa loma rocosa podríamos verlo. 
+#Sigue:68
+
+
+68
+Un aire glacial sopla desde el mar. El patrón, con su jersey de cuello de tortuga, no parece sentir el frío, pero tú, desde luego, lo notas. Después de escalar unas cuantas lomas más en busca del Manta, te sientes congelada hasta la inmovilidad. Ya no tienes sensación alguna ni en los brazos ni en las piernas, y estás cansada, ¡muy cansada! 
+—No puedo seguir adelante ni un paso más —exclamas—. Ya no puedo más. 
+—Una loma más, anda. Puedes conseguirlo. 
+—Una más, una más. Siempre es una más. Tengo que pararme a descansar, y luego seguiré —objetas. 
+—Me parece que será mejor seguir andando —advierte el patrón. 
+#Si te detienes a descansar y le dices al patrón que siga adelante:65
+#Si haces un último esfuerzo para subir una loma más:60
+
+
+ 
+69#
+
+Activas los controles que hacen inclinar el Manta fuertemente hacia arriba. El arco que describe el buque rompe la superficie del océano. 
+Junto con la doctora Thursen y Hornbolt pasáis por un punto de emergencia situado en la escotilla delantera y alcanzáis la cubierta. No hay otros barcos alrededor. El mar vacío se extiende en todas direcciones. 
+Entonces, la doctora Thursen señala hacia la parte posterior del buque, con una expresión de alarma en el rostro. 
+—¿Qué es eso de allí? —pregunta. 
+De entrada, no ves lo que ella está señalando; luego te das cuenta. 
+—Parece una enorme depresión en el océano —comentas— y da la impresión de que avanza hacia nosotros. 
+—Podría ser algún tipo de remolino —apunta Hornbolt. 
+—De serlo —comentas— sería el primer remolino rectangular que vería en mi vida. 
+—Sea lo que fuere —tercia la doctora Thursen— lo sabremos dentro de pocos segundos. ¡Viene directamente hacia nosotros! 
+#Sigue:63
+
+
+
+70#
+
+—¡Fuego! 
+El ojo de tu mente sigue a los torpedos que se precipitan al exterior para alcanzar el submarino fantasma. Entonces, de repente, prevés tu propia perdición. Sabes que te resulta imposible escapar. 
+Sólo puedes permanecer en estado de trance mientras los torpedos dan la vuelta y regresan directamente contra el Manta. Desesperadamente, tratas de apartarlos con el poder de tus ondas cerebrales. No lo logras. Pero, en realidad, ya sabes cuál es el fin. Hay una tremenda explosión cuando el torpedo estalla. Luego explosiona el otro. 
+El Manta se parte en dos, y te ves arrastrada a las profundidades del océano. 
+Fin
+
+
+
+71#
+
+—¿Bienvenidos? ¡Vaya bienvenida! —exclama Hornbolt—. Así que éste es el modo cómo habéis estado apoderándoos de nuestros barcos. Tarde o temprano os descubrirán y aniquilarán. 
+—Parece más probable que vosotros, los que habitáis en la tierra, os aniquiléis a vosotros mismos primero. Lo que nosotros tememos es que también nos aniquiléis en ese proceso. 
+—No creo que se arreglen las cosas robando nuestros barcos y secuestrando a nuestra gente —interviene la doctora Thursen. 
+—Todos los que han sido capturados están a salvo y serán liberados pronto —dice la voz—. Mientras tanto, hemos de estudiar a vuestra gente de cerca. Debemos encontrar la base de vuestra naturaleza autodestructiva. También tenemos que descubrir entre vosotros a los que quieran trabajar con nosotros para ayudar a detener esta destrucción sin sentido del mundo que compartimos. 
+—¡Intentar encontrar traidores a la humanidad, eso es lo que queréis decir! —grita Hornbolt. 
+—No parecen tan peligrosos —dices en voz baja a la doctora Thursen—. Quizá deberíamos darles una oportunidad de decirnos cómo podemos colaborar. 
+#Si crees que deberíais dar a esos seres una oportunidad:96 
+#Si crees que ayudarlos significaría traicionar a la humanidad:108
+
+
+
+73#
+
+Cuando vuelves en ti, ya no eres transparente, y estás en un lugar insólito. Te hallas en el centro de un círculo formado por cajas bajas, con aspecto de pupitres. Detrás de cada una de ellas hay una criatura extraña y rechoncha. Sus ojos te miran fijamente desde el extremo de largas extremidades que sobresalen de lo alto de sus cabezas. Se parecen mucho a langostas gigantes. No sabes qué les ha ocurrido a la doctora Thursen ni a Hornbolt, pero el patrón está situado junto a ti. 
+—¿Pueden verte? —preguntas al patrón en un susurro no más fuerte que tu respiración. 
+—Esos bichos fangosos no me pueden ver ni oír, a Dios gracias. Pienso que he descubierto el modo cómo llevan a cabo sus fechorías. Entreténlos haciéndolos hablar, y veré qué fechoría puedo hacerles yo. 
+—Así, pues, hombre terrestre —dice de pronto una de esas criaturas—, nos estabais buscando, y ahora nos habéis encontrado. O, por lo que parece, somos nosotros quienes os hemos encontrado. 
+Estas frases van seguidas de un sonido entrecortado y muy agudo que procede de todos esos seres, y que supones que se trata de risotadas. 
+Entretanto, el patrón ha desaparecido. 
+#Sigue:64
+
+
+
+74#
+
+—Este lugar parece seguro, desde luego, pero hay algo que no marcha. Mi PES me advierte de algo, aunque no estoy segura de qué —confiesas. 
+—Bueno, esta caverna no se va a marchar de aquí —bromea Hornbolt—. Creo que la tripulación del Manta debería saber qué estamos haciendo. 
+Maniobráis para que la nave exploradora dé media vuelta y os dirigís de nuevo hacia el barco. Pero el Manta no está allí. Vuestra luz recorre las paredes del cañón y el fondo del océano. En éste, veis la huella del lugar donde la quilla del barco se había clavado. Pero no hay rastro del Manta en parte alguna. 
+—No estoy seguro de que debamos gastar el resto de nuestro combustible y del oxígeno buscando al Manta —opina Hornbolt—, sería mejor dirigirnos a la superficie mientras podemos hacerlo. Además, el buque no puede haber ido muy lejos. 
+#Si debes seguir explorando el cañón en busca del Manta:28 
+#Si debes alcanzar la superficie tan rápido como sea posible:78 
+
+
+
+
+75#
+
+
+No puedes moverte ni hablar, pero todavía respiras y mueves los ojos. Varios de esos seres te recogen y te llevan hacia el foso. Caminan por encima de él, en medio del vacío, como si lo hicieran sobre una superficie invisible. Entonces, giran por completo a la izquierda y te encuentras dentro de un corredor que puedes ver. ¡Así que esto es lo que ocurre! Estáis en un buque que es invisible desde fuera, pero visible desde su interior. 
+Esos seres te llevan por un largo corredor descendente y te abandonan en una cámara circular pequeña. La doctora Thursen y Hornbolt ya están allí, también congelados en sus últimos movimientos. Vuelve la sensibilidad a vuestros cuerpos lentamente. Empezáis a frotaros los brazos y las piernas para devolverles la circulación. 
+Entonces se oye una voz profunda que procede de algún lugar inconcreto:
+—Bienvenidos a bordo del barco de las gentes del mar. 
+#Sigue:71
+
+
+
+76#
+
+—Creo que, ante todo, deberíamos levantar al Manta del fondo del mar —comunicas a Hornbolt. 
+Un extremo del submarino está profundamente clavado en el suelo del océano. No parece que el Manta se mueva, a pesar de que Hornbolt ha puesto los motores del buque a toda potencia. 
+De pronto, el submarino se libera y sale disparado hacia arriba, en diagonal. 
+Tu PES te avisa, pero es demasiado tarde. 
+—¡Paren! —gritas sin poder hacer nada—. ¡Hagan girar los motores en sentido inverso, muévanse! 
+El Manta choca con todas sus fuerzas contra la roca superior de un cañón submarino y se parte en dos. Cuando el agua se precipita a su interior, tratas de aguantar la respiración todo lo que puedes, unos dos minutos. 
+Fin
+
+
+
+78#
+—Algo me dice que deberíamos dirigirnos directamente hacia la superficie —adviertes. 
+Hornbolt está de acuerdo. 
+—Cabe que el Manta se haya librado por sí mismo y Higby puede haberlo hecho subir —explica. 
+Cuando alcanzáis la superficie del mar, la brillante bola roja del sol se eleva por el este. 
+—Allí abajo, en la profundidad del mar, había perdido la sensación del día y la noche —comentas. 
+Tratáis de entrar, sin éxito, en contacto con el Manta por radio. 
+—Mira por allá, en el horizonte. Aquello parece una isla —dice Hornbolt. 
+—Sí, a mí también me lo parece —respondes—, pero mi cabeza está llena de señales de alarma. 
+—Tal vez tengamos que desembarcar en la isla para sobrevivir —opina Hornbolt—, aunque también podríamos dejar que nos fuéramos apartando de ella a la deriva y probar suerte a ver si nos recoge algún buque que pase por aquí. ¿Qué deberíamos hacer? 
+#Si decides apartarte de la isla:87
+#Si decides ir a explorar la isla:82 
+
+
+
+80#
+
+—Si lo que dicen es verdad, no veo cómo podemos negarnos a colaborar —sentencias. 
+—De acuerdo, les daremos una oportunidad —admite Hornbolt—, pero si intentan alguna mala jugarreta, tendrán que pagar las consecuencias. 
+—Entrad en la cámara que hay en la parte posterior de esta sala —ordena el ser marino— y empezaremos. 
+Al punto que entráis en la cámara, un gas anestésico os deja a todos inconscientes. Cuando despertáis, os dais cuenta de que tú y tus amigos habéis sufrido una operación: os han implantado branquias para que podáis respirar debajo del agua. También advertís que os han puesto unos collares metálicos fijos, sin fisuras, alrededor del cuello. Según parece, tu PES ha desaparecido. 
+—Ahora formáis parte de nuestra organización —explica el ser marino—. Los collares que lleváis puestos contienen cargas explosivas, que se pueden activar por control remoto, si fuera menester. 
+—¿Qué clase de chantaje es éste? —pregunta irritado Hornbolt—. No nos dijisteis nada acerca de esos collares, ¡son símbolos de esclavitud! 
+—En absoluto —responde el ser marino—. Son símbolos de libertad. Ahora podemos confiar completamente en vosotros, y podéis ir por donde queráis en nuestro reino submarino. Ya no tendremos que preocuparnos por vuestra lealtad, ni por vuestra obediencia. 
+Con el tiempo, encontraréis un modo de quitaros el collar y de regresar a la superficie de la Tierra, pero eso todavía está muy lejano, pertenece al futuro. 
+Fin
+
+
+82#
+
+Esa isla te inspira profunda desconfianza, pero te das cuenta de que debes correr el riesgo. 
+—Creo que tenemos el suficiente combustible para alcanzar la orilla —dice Hornbolt— y si nos falta poco llegaremos a ella a nado. 
+Os dirigís hacia la isla. 
+De pronto, una enorme forma oscura se presenta amenazadoramente ante vosotros. A medida que se acerca más os dais cuenta de que es un gran buque de guerra, tal vez una fragata de misiles o un crucero. 
+Alguien os habla a través de un megáfono desde el puente de mando del buque: 
+—¡Identifíquense! —ordena la voz. 
+#Sigue:85
+
+
+
+
+
+
+
+83#
+
+Opinas que no existe peligro alguno en acercarse a nado hacia uno de esos extraños barcos. 
+—¿Qué supone que es esto? —preguntas a Hornbolt. 
+—No parece, en absoluto, un ingenio de fabricación terrestre —responde—. Más bien parece una nave espacial de otro planeta. 
+—Tratemos de entrar en ella y veamos qué aspecto tiene —propones—. Esa puerta podría conducirnos a una cámara de aire de algún tipo. 
+Hornbolt y tú entráis en el extraño aparato. Después de atravesar la cámara de aire, descubrís que podéis respirar sin necesidad de vuestro equipo de inmersión. No os resulta difícil hallar la sala de control. Hornbolt echa un vistazo a las filas de botones y señales. Tienes la sensación de que surgirán dificultades. 
+—Me pregunto si seré capaz de hacer funcionar esta nave —dice Hornbolt. 
+Y aprieta uno de los numerosos botones que hay en el tablero de control. 
+—¡Deténgase! —gritas, pero es demasiado tarde. 
+#Sigue:88
+
+
+84#
+
+Toda la tripulación se halla allí, incluso Hornbolt y la doctora Thursen. Te preguntas si se han enterado de todo lo que has estado haciendo, pero ellos son incapaces de recordar las últimas horas. Se muestran muy contentos de volver a verte. 
+Cuentas a Hornbolt y a la doctora Thursen todo lo relativo a los erboltianos, pero no les hablas del patrón. Así que se muestran un tanto sorprendidos cuando insistes en que el buque se detenga en la ciudad de Sitka, en Alaska, durante el viaje de regreso a la base. 
+—Quizá no sea yo el único fantasma que todavía da vueltas desde aquellos días —había comentado el patrón—. Tal vez en Sitka... 
+—Realmente, no entiendo por qué nos detenemos aquí —manifiesta Hornbolt—, pero me figuro que es lo mínimo que podemos hacer por ti después de lo mucho que nos has ayudado. 
+Fin
+
+
+85#
+
+—El capitán Hornbolt, de la Marina de los Estados Unidos —contesta en voz muy alta Hornbolt—. Y, ¿quiénes son ustedes, si se puede saber? 
+—¡Hornbolt! Quédese ahí donde está. Enviaremos un barco a recogerles en seguida. 
+Pronto una lancha se dirige hacia vosotros. Cuando embarcáis, Hornbolt exclama de repente: 
+—Almirante McQuade, ¿qué hace por aquí? 
+—Es agradable volver a verle, Hornbolt, pero mi pregunta es: ¿qué está haciendo aquí? Ha estado a punto de interferirse con el horario que teníamos dispuesto para asaltar la isla. 
+#Sigue:89
+
+
+
+
+
+
+
+86#
+
+—Pienso que si contraatacamos, puede ser útil a la larga —aconsejas. 
+—Estoy de acuerdo —replica Hornbolt—. No deberíamos rendirnos sin luchar, aunque perdamos. 
+Hornbolt da las órdenes para disparar todas las armas a la vez. 
+Unos segundos más tarde, la pared interna del submarino fantasma reverbera con las explosiones de los misiles del Manta. Los torpedos del Manta perforan la plataforma de aterrizaje y la destruyen por completo. 
+El submarino fantasma replica con cañones de láser que desintegran al Manta. 
+Por lo menos os hundís luchando. Al submarino fantasma le costará muchos años recuperarse del daño que le ha causado el Manta. Y, entre tanto, otros barcos habrán ocupado vuestro lugar en la lucha contra él.
+Fin
+
+ 
+87#
+
+—La sensación de peligro que recibo de esa isla es demasiado fuerte —confías a Hornbolt—. Creo que deberíamos esquivarla. 
+En cualquier caso, una fuerte corriente marina ya os está apartando rápidamente de la isla. No tenéis suficiente energía almacenada en la batería de la nave para hacer funcionar la radio. Navegáis a la deriva durante varios días. Pronto se agotan las raciones de emergencia. El agua no es un problema muy serio, ya que Hornbolt crea un sistema que hace condensar agua en el interior de la cúpula de plástico de la nave exploradora. 
+Empezáis a perder la esperanza. 
+#Sigue:91
+
+
+88#
+
+Oís un sonido prolongado, como un zumbido, mientras la nave empieza a moverse hacia arriba en línea recta. Hornbolt y tú caéis, por el impulso, sobre dos enormes sillones que hay frente al tablero de control. Se abre una inmensa escotilla en el tejado de la estructura submarina y la nave espacial se desliza rápidamente a través de ella. 
+Pronto se eleva por encima del océano, y continúa volando hacia las alturas a una velocidad siempre creciente. Por lo que se ve, Hornbolt habrá tenido la mala suerte de apretar precisamente el botón programado para que la nave espacial de Alpha Centauri regresara a su planeta de origen. 
+Os aguarda un largo, larguísimo, viaje. 
+Fin
+
+
+89#
+
+—¿Asaltar la isla? ¿Qué significa todo esto? —pregunta Hornbolt. 
+—Esta isla es el cuartel general de una banda de piratas modernos —explica el almirante—. Tienen varios prisioneros como rehenes. Pero estarán todos libres antes de la noche, lo prometo. 
+—¿Sabe algo de mi barco, el Manta? Hemos perdido su rastro —manifiesta Hornbolt. 
+—Uno de nuestros barcos lo está remolcando —contesta el almirante—. Parece que salió a la superficie, en mal estado de funcionamiento, hace pocas horas. Me figuro que están muy preocupados por ustedes dos. Hablaré por radio con nuestro barco en seguida. 
+Observáis el asalto a la isla desde el puente de mando del buque insignia del almirante. Al día siguiente os trasladan, junto con los prisioneros liberados, a un destructor que se dirige a Seattle. Por el momento, ya has corrido bastantes aventuras. 
+Fin
+
+
+91#
+
+Entonces divisáis otra isla. Hornbolt y tú apenas lográis reunir la energía suficiente para llevar la nave exploradora hasta la orilla y arrastraros hasta la primera línea de palmeras de la playa. 
+Unos pocos días comiendo las frutas silvestres tropicales de la isla os permiten recuperaros hasta volver a ser los de siempre. Descubrís una tribu de pacíficos polinesios en el otro lado de la isla. 
+Hornbolt y tú os establecéis en aquella tierra, dispuestos a esperar largo tiempo. ¡Ahora sí que disfrutáis de la vida allí! Cuando, finalmente, un barco visita la isla, ambos decidís quedaros en ella. 
+Fin
+
+
+92#
+
+—Me parece demasiado peligroso empezar a hacer explosionar torpedos aquí abajo —explicas a Hornbolt—. Puedo decirles esto sin recurrir a mi PES. 
+—De acuerdo, entonces —admite Hornbolt—. Perforemos un túnel hacia la superficie y montemos nuestra comunicación tierra-satélite de emergencia. 
+Queda justo el espacio suficiente en la cubierta del Manta, bajo el hielo, para montar el cañón de láser submarino. Hornbolt y tú os ponéis los trajes acuáticos polares y el equipo de inmersión y salís. 
+El cañón resulta muy eficaz. En menos de una hora ha labrado un buen túnel vertical. Hornbolt y tú, usando las muescas especiales que tienen las botas submarinas, os abrís camino hacia la superficie subiendo por el túnel como los alpinistas escalan una montaña. Detrás de vosotros arrastráis el equipo de radio. 
+Al llegar a la superficie os halláis en medio de la larga noche del Ártico, que dura varios meses. Las estrellas brillan con fuerza sobre vuestras cabezas. 
+Mientras montáis vuestro equipo, observáis, sorprendidos, una luz que brilla en la oscuridad, no muy lejos de allí. 
+#Sigue:93
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+93#
+
+—¿Piensa que pueda haber otro barco aquí, en medio de esta desolación? —preguntas. 
+—Podría ser alguna expedición de la que no tengamos noticia —contesta Hornbolt—, o tratarse de alguna jugarreta de nuestros ojos en esta soledad. Me parece que lo mejor que podemos hacer es prescindir de ello y montar nuestro equipo. 
+—Podría ser importante —insistes. 
+—De acuerdo. Dejaré que seas tú quien decida lo que hay que hacer —concede Hornbolt. 
+#Si decides ir a explorar qué significa esa luz:103 
+#Si decides prescindir de ella:97 
+
+
+
+ 
+94#
+
+—Creo que necesitamos más tiempo para meditar sobre esto —dices a la doctora Thursen, al capitán Hornbolt y a Higby, el piloto. 
+Las gentes del mar os conceden veinticuatro horas. Cuando de nuevo hablas con sus dirigentes, tienes una proposición. Prometéis trabajar en pro de la reducción de los desechos, en especial de los nucleares, que se echan al mar, si os sueltan. 
+—Nos parece justo —conceden los seres marinos—. Haremos que mantengáis vuestra palabra. Y ahora os deseamos buena suerte y buen viaje, por el momento. 
+Cuando caes en la cuenta de lo que ocurre, ya estáis los cuatro otra vez en el Manta, dirigiéndoos a casa. No puedes acordarte ya de nada de lo que ocurrió a bordo del submarino fantasma. No sabes por qué, pero tanto tú como la tripulación entera del Manta sentís un deseo ardiente de poner fin a la contaminación de los océanos. Una poderosa sugestión posthipnótica ha quedado profunda y permanentemente arraigada en vuestras mentes. 
+Fin
+
+
+96#
+
+—Bueno, ¿y de qué modo os podríamos ayudar nosotros? —preguntas a la voz. 
+—Vosotros cuatro, si estáis de acuerdo, podríais ser nuestros ojos y oídos en la tierra. Os adiestraríamos para que pudierais comunicaros con nosotros secretamente. 
+Para el resto de la tripulación, durante el viaje realizado por el Manta no ocurrió nada digno de mención. Todos los recuerdos de su captura han quedado borrados de sus mentes. En los años venideros, aprenderás mucho de tu cooperación con las gentes del mar. Te convertirás en una de las oceanógrafas más importantes del mundo, y maravillarás al mundo científico con tus amplios conocimientos acerca de los océanos. 
+Fin
+
+
+
+
+97#
+
+—Esta conexión radiofónica es más importante que la luz —explicas a Hornbolt. 
+Trabajas febrilmente, y pronto todo el equipo está ya montado. Te das cuenta de que la luz se ha ido más lejos. Finalmente, acaba por desaparecer. 
+—Me pregunto qué sería eso —comentas. 
+—Me temo que nunca lo sabremos —confiesa Hornbolt. 
+Su voz parece reflejar cierto desencanto por no haber ido a investigar qué era. 
+#Sigue:107
+
+
+
+98#
+
+—Su teoría sobre montar la guardia es estupenda —admites—, pero tiene el inconveniente de que no voy a bajar allá yo sola. 
+—Si opinas esto, supongo que podremos bajar juntos —dice Hornbolt. 
+Bajáis y luego encontráis la cabina del capitán: sobre su pupitre está el diario de a bordo, o cuaderno de bitácora. 
+—Este cuaderno está sorprendentemente bien conservado —comenta Hornbolt—. Fíjate, todavía puedo pasar las páginas, e incluso leer la escritura, aunque es un poco difícil de descifrar. Aquí está la última entrada: «10 de enero de 1823. La bestia invisible todavía está a bordo del buque. Ha asesinado a la mayor parte de la tripulación. Sólo quedamos unos pocos. Sólo sabemos que la bestia sigue presente por el terrible crujido de las planchas del barco bajo el tremendo peso de la bestia. Podemos oír cómo se acerca ahora para venir a matarnos». 
+—¿Qué es ese ruido de algo pesado que se oye en la cubierta? —preguntas, de pronto, asustada. 
+—No puede ser —contesta Hornbolt—. Acabo de leerlo... y, de cualquier modo, todas las cosas pierden peso bajo el agua. 
+—Pero, ¿y si pesa tanto que... 
+No conseguiste terminar esa frase. 
+Fin
+
+
+
+100#
+
+—Tengo la sensación de que cometemos un error, pero si nos movemos rápidamente, quizá logremos pasar muy justito por ese agujero —explicas—. Tal vez sería mejor probarlo ahora, mientras tenemos la oportunidad de hacerlo. 
+Hornbolt da órdenes a la tripulación, a gritos, y el Manta se precipita hacia adelante y se mete por la estrecha abertura. Casi consigue pasar. 
+Ya estáis a medio camino por el orificio cuando el Manta queda firmemente encallado. Hornbolt hace todo cuanto se le ocurre para liberar el barco. Pone los motores a la inversa a toda potencia, y vuelve a lanzar el barco hacia adelante. Pero no sirve de nada. El hielo lo sujeta con garra de acero, y pronto empieza a presionar sobre el buque. 
+Oís un horrible ruido demoledor mientras el hielo comienza a romper el Manta en pedazos. No tenéis escapatoria. 
+Fin
+
+
+
+
+101#
+
+Algo te dice que podría ser una mala idea fiarse del patrón. Meterse de cabeza en la pared de hielo parece una locura. 
+—Creo que deberíamos probar nuestro plan de excavar un túnel hasta la superficie —propones a Hornbolt. 
+Pero nunca llegaréis a tener la posibilidad de hacerlo. El Manta queda de repente duro como un bloque de hielo a causa de una corriente de agua superhelada. Pronto todo lo que hay a bordo ha quedado por completo congelado. 
+Permanecerá así durante quinientos años; entonces seréis descubiertos por un arqueólogo del futuro. Te devolverán a la vida como ciudadana del siglo XXV. 
+Fin
+
+
+
+102#
+
+Descubres que trabajar en las minas no tiene nada de divertido. Has de trabajar en las cavernas... elevado, elevadísima. Pero, al menos, continúas estando en el planeta Tierra. Y mientras sigas en él, siempre te queda la esperanza de que te rescaten... Y te rescatarán, pero eso no ocurrirá hasta el día en que cumplas setenta años. 
+Fin
+
+
+103#
+
+—Decididamente, pienso que deberíamos descubrir a qué se debe esa luz —respondes. 
+—De acuerdo, pues; te sigo —dice Hornbolt. 
+Hornbolt y tú chapoteáis por la nieve en dirección a la luz. A medida que os acercáis, el viento empieza a sonar como un órgano gigantesco. Es misterioso, pero podrías jurar que está tocando música de Bach. 
+#Sigue:36
+
+
+104#
+
+De pronto, un poderoso rayo de luz se abre paso en la oscuridad y abarca toda la longitud del Manta. Aparece ante vosotros, amenazador, un gigantesco submarino. Sus dimensiones casi desafían tu capacidad mental. Parece ser que el gigantesco buque, como mínimo cien veces mayor que vuestra nave, la atrae irresistiblemente. 
+#Sigue:38
+
+
+
+
+
+
+
+
+
+
+
+
+
+106#
+
+Surge una prolongada escalinata frente a la catedral de hielo; y Hornbolt y tú subís a ella con sorpresa creciente. Ambos os detenéis y miráis ensimismados mientras una figura luminosa, la de una mujer vestida con ropajes que brillan con los colores cambiantes de la aurora boreal que luce en el cielo, emerge en el centro de este palacio resplandeciente. 
+—Cuando regreséis a vuestro barco, todo habrá ido bien —explica con su voz musical. 
+Entonces se desvanece la figura y se evapora ante vuestros ojos la catedral de hielo. Te preguntas si todo no habrá sido una ilusión. 
+Lográis encontrar de nuevo vuestros pasos en la nieve gracias a la linterna y llamáis al Manta mediante vuestro teléfono de campaña. Higby os informa que las paredes de hielo se han desvanecido de súbito y que hay agua libre al sur. 
+Hornbolt y tú regresáis rápidamente al barco, que se pone en camino bajo las aguas. Te sucederán todavía muchas aventuras en las semanas y meses que te esperan, pero siempre te fascinará esa visión del Ártico. 
+Fin
+
+
+
+107#
+
+La conexión tierra-satélite funciona perfectamente, y pocas horas más tarde, un gran avión de transporte se dirige hacia vosotros. Hace que coloquen luces en una superficie lisa del hielo, y el avión efectúa un aterrizaje perfecto. Ayudáis al resto de la tripulación a subir a la superficie, y después el avión despega con todos a bordo. 
+Ha resultado duro para ti y para Hornbolt abandonar el Manta, pero los dos ya planeáis un nuevo barco y otra expedición que algún día pensáis emprender. 
+Fin
+
+
+
+108#
+
+—Lo que decís me parece bien, pero no me fío de vosotros —replicas a las gentes del mar. 
+—Entonces, me temo —se lamenta la voz— que para mantener nuestra existencia en secreto tendremos que sumaros a nuestros demás cautivos. 
+Os llevan a una ciudad submarina construida bajo una enorme cúpula, en el fondo del mar. Todas las tripulaciones de los buques capturados han sido enviadas a vivir aquí. Os asignan viviendas en uno de los escalones inferiores de aquella urbe. 
+#Sigue:35
+
+
+
+
+
+
+
+
+
+109#
+
+En el fondo de tu mente sientes una premonición de peligro. 
+—Creo que deberíamos volver al barco —aconsejas. 
+El capitán y tú volvéis nadando a la nave exploradora y regresáis al Manta. La doctora Thursen y la tripulación os aguardan. Los motores se ponen en marcha. El buque se libera y empieza a elevarse por entre las paredes del cañón. Poco rato después llegáis ya al nivel del suelo normal del mar. 
+#Sigue:104
+
+
+
+110#
+
+Te parece razonable el consejo del patrón de aguardar silenciosamente en el fondo del mar. Ordenas que se apaguen todos los sistemas del buque. Hay un silencio absoluto. Nadie se atreve ni siquiera a cuchichear. 
+La pantalla electrónica muestra una danza de ondas y figuras que contornean el curso de un objeto inmenso que cruza directamente por encima de vosotros. La sensación de pánico es tan intensa cuando pasa que tienes que sujetarte la cabeza para intentar mitigar el dolor. 
+Pero lentamente se disipa esa sensación y ahora te invade una de bienestar. Te preguntas qué debería ser eso que acaba de pasar por encima de vosotros. 
+Nunca sabrás la enorme suerte que habéis tenido. 
+Fin
