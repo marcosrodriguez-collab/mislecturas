@@ -1,44 +1,44 @@
-1#
-Este es tu primer viaje a bordo del Concorde, el gran reactor supersónico que atraviesa el Atlántico en tres horas y cuarenta y cinco minutos. En este instante estás a más de 15.000 metros de altura, a mitad de camino entre Nueva York y París. Se oye una voz en el intercomunicador de la cabina y levantas los ojos de la revista que estás leyendo. 
-—Les habla el comandante Ravel. Nos encontramos aproximadamente a mitad de camino en nuestra ruta a través del Atlántico.
-Nuestra posición es 54 grados de latitud norte y 40 grados de longitud oeste. Acabamos de rectificar el curso de la aeronave y volamos ahora en dirección a las costas de Francia, donde llegaremos dentro de hora y media aproximadamente. Los pasajeros situados a babor, es decir, a la izquierda, pueden observar el extremo sur de Groenlandia...
-Miras por la ventanilla, para ver cómo es Groenlandia pero en realidad ves un gran cilindro de una blancura fulgurante, muchísimo mayor que el Concorde, aunque sin alas, sin motores y sin ventanillas. ¡Y ese cilindro extraño que centellea con los reflejos plateados del amanecer viene derecho hacia ti!
-— ¡Mire!
- El señor de pelo blanco que se sienta a tu lado se inclina hacia la ventanilla, tratando de ver algo.
- — ¿Qué pasa?
- — ¿Pero es que no lo ve? ¡Viene hacia nosotros!
- Abre la boca para responder pero no lo oyes, porque ya no estás allí...
+ï»¿1#
+Este es tu primer viaje a bordo del Concorde, el gran reactor supersÃ³nico que atraviesa el AtlÃ¡ntico en tres horas y cuarenta y cinco minutos. En este instante estÃ¡s a mÃ¡s de 15.000 metros de altura, a mitad de camino entre Nueva York y ParÃ­s. Se oye una voz en el intercomunicador de la cabina y levantas los ojos de la revista que estÃ¡s leyendo. 
+â€”Les habla el comandante Ravel. Nos encontramos aproximadamente a mitad de camino en nuestra ruta a travÃ©s del AtlÃ¡ntico.
+Nuestra posiciÃ³n es 54 grados de latitud norte y 40 grados de longitud oeste. Acabamos de rectificar el curso de la aeronave y volamos ahora en direcciÃ³n a las costas de Francia, donde llegaremos dentro de hora y media aproximadamente. Los pasajeros situados a babor, es decir, a la izquierda, pueden observar el extremo sur de Groenlandia...
+Miras por la ventanilla, para ver cÃ³mo es Groenlandia pero en realidad ves un gran cilindro de una blancura fulgurante, muchÃ­simo mayor que el Concorde, aunque sin alas, sin motores y sin ventanillas. Â¡Y ese cilindro extraÃ±o que centellea con los reflejos plateados del amanecer viene derecho hacia ti!
+â€” Â¡Mire!
+ El seÃ±or de pelo blanco que se sienta a tu lado se inclina hacia la ventanilla, tratando de ver algo.
+ â€” Â¿QuÃ© pasa?
+ â€” Â¿Pero es que no lo ve? Â¡Viene hacia nosotros!
+ Abre la boca para responder pero no lo oyes, porque ya no estÃ¡s allÃ­...
 
-Estás sentado en una habitación circular sobre una especie de colchoneta de gomaespuma gruesa. La habitación está iluminada con una luz blanca y tenue que no sabes de dónde proviene porque no hay ventanas, puertas ni lámparas. Ahora recuerdas que viajabas en el Concorde... aquel gran cilindro blanco que venía... la sacudida del avión, y... ¿Dónde estás?
-La luz se transforma de color violeta. Luego se va mezclando con tonalidades anaranjadas... rojizas... Aumenta de intensidad, como si estuviera amaneciendo. Oyes una voz que te habla... es decir... no, no habla. ¡Estás escuchando unos pensamientos que te penetran directamente en el cerebro!
+EstÃ¡s sentado en una habitaciÃ³n circular sobre una especie de colchoneta de gomaespuma gruesa. La habitaciÃ³n estÃ¡ iluminada con una luz blanca y tenue que no sabes de dÃ³nde proviene porque no hay ventanas, puertas ni lÃ¡mparas. Ahora recuerdas que viajabas en el Concorde... aquel gran cilindro blanco que venÃ­a... la sacudida del aviÃ³n, y... Â¿DÃ³nde estÃ¡s?
+La luz se transforma de color violeta. Luego se va mezclando con tonalidades anaranjadas... rojizas... Aumenta de intensidad, como si estuviera amaneciendo. Oyes una voz que te habla... es decir... no, no habla. Â¡EstÃ¡s escuchando unos pensamientos que te penetran directamente en el cerebro!
 
-SOMOS LOS SEÑORES DE U-TY. ESTAS A BORDO DE LA ASTRONAVE GALACTICA RAKMA, QUE SE HALLA EN ORBITA ALREDEDOR DELPLANETA TIERRA.
+SOMOS LOS SEÃ‘ORES DE U-TY. ESTAS A BORDO DE LA ASTRONAVE GALACTICA RAKMA, QUE SE HALLA EN ORBITA ALREDEDOR DELPLANETA TIERRA.
 HAS SIDO ELEGIDO PARA SER EXHIBIDO COMO EJEMPLARTERRICOLA EN EL ZOOLOGICO GALACTICO DEL PLANETA IMPERIAL RA. SI TE NIEGAS A COOPERAR, SERAS ENVIADO A SOMO.
 AHORA PUEDES HABLAR
 #Si piensas exigir tu regreso a la Tierra:3
-#Si quieres saber algo más sobre los U-TY:4
+#Si quieres saber algo mÃ¡s sobre los U-TY:4
 
 3#
 A pesar de que no hay nadie en la estancia, hablas en voz alta, casi gritando.
-— ¡Devuélvanme a la Tierra!¡No tienen derecho a retenerme aquí prisionero!
+â€” Â¡DevuÃ©lvanme a la Tierra!Â¡No tienen derecho a retenerme aquÃ­ prisionero!
 
 NO HAY MAS LEY QUE LA LEY DEL U-TY
 
 Otra vez oves la misma voz dentro de tu cerebro; y ahora, al mismo tiempo que la oyes, ves desaparecer una de las paredes ante tus ojos como si se hubiera desintegrado. Inmediatamente, te das cuenta de que vas flotando,
-arrastrado por una fuerza misteriosa que te lleva en vilo por un pasillo circular. Iluminadas por una luz débil y amarillenta, ves algo parecido a figuras humanas que están sentadas frente a ti, sobre unas delgadas alfombrillas blancas. Hay una muchacha de pelo negro y largo y un joven delgado y rubio. Ambos tienen las piernas cruzadas y los brazos sobre el pecho, como si estuvieran meditando.
-Menos mal que has encontrado a otros seres humanos como tú. De repente, sin saber por qué, te sientes cansado, muy cansado. Tienes sueño. Cuando te despiertes, lo verás todo mucho más claro...
+arrastrado por una fuerza misteriosa que te lleva en vilo por un pasillo circular. Iluminadas por una luz dÃ©bil y amarillenta, ves algo parecido a figuras humanas que estÃ¡n sentadas frente a ti, sobre unas delgadas alfombrillas blancas. Hay una muchacha de pelo negro y largo y un joven delgado y rubio. Ambos tienen las piernas cruzadas y los brazos sobre el pecho, como si estuvieran meditando.
+Menos mal que has encontrado a otros seres humanos como tÃº. De repente, sin saber por quÃ©, te sientes cansado, muy cansado. Tienes sueÃ±o. Cuando te despiertes, lo verÃ¡s todo mucho mÃ¡s claro...
 #Si decides dormirte:5
 #Si te resistes a quedarte dormido y quieres despertar a los otros:16
 #Si decides seguir explorando el lugar:8
 
 
 4#
-— Díganme algo más sobre ustedes -dices. ¿Por qué han venido a visitar precisamente la Tierra?
+â€” DÃ­ganme algo mÃ¡s sobre ustedes -dices. Â¿Por quÃ© han venido a visitar precisamente la Tierra?
 
 NOSOTROS ESTUDIAMOS A LOS TERRICOLASIGUALQUE VUESTROS HOMBRES DE CIENCIA ESTUDIAN LAS BACTERIAS CON EL MICROSCOPIO.
 HEMOS VENIDO A LA TIERRA BUSCANDO ULTIMA, EL PLANETA PARADISIACO.
-#Si estás dispuesto a ayudar a los U-TY a encontrar Ultima:22
-#Si quieres preguntar a los U-TY cómo piensan llegar a Ultima pasando por la Tierra:25
+#Si estÃ¡s dispuesto a ayudar a los U-TY a encontrar Ultima:22
+#Si quieres preguntar a los U-TY cÃ³mo piensan llegar a Ultima pasando por la Tierra:25
 
 
 5#
@@ -47,511 +47,511 @@ A penaste has echado cuando te quedas dormido. Por tu mente inconsciente cruzan 
 CUANDO SEAS FELIZ SERAS BUENO. 
 SERAS FELIZ CUANDO SEAS BUENO.
 
-Te incorporas. Hay algo en tu pelo. Tienes una banda que te ciñe la cabeza. La tocas y es dura, pero extrañamente cómoda. ¿Qué será? ¿Tendrá algo que ver con esos extraños pensamientos que surgen en tu mente?
+Te incorporas. Hay algo en tu pelo. Tienes una banda que te ciÃ±e la cabeza. La tocas y es dura, pero extraÃ±amente cÃ³moda. Â¿QuÃ© serÃ¡? Â¿TendrÃ¡ algo que ver con esos extraÃ±os pensamientos que surgen en tu mente?
 Tratas de quitarte la banda pero sientes un agudo dolor en la cabeza. Al quitar las manos, vuelves a sentirte feliz y contento como antes.
 
 #Si a pesar de todo decides quitarte la banda:11
-#Si prefieres dejártela puesta para ver qué ocurre:14
+#Si prefieres dejÃ¡rtela puesta para ver quÃ© ocurre:14
 
 8#
-Vas tanteando a lo largo de la pared de esta especie de cilindro, buscando una puerta o una salida hacia otro lugar de la nave cósmica. ¿Qué pretenden de ti los señores de U-TY? ¿Por qué te han escogido precisamente a ti entre los cuatro mil millones de habitantes que hay en el globo?
+Vas tanteando a lo largo de la pared de esta especie de cilindro, buscando una puerta o una salida hacia otro lugar de la nave cÃ³smica. Â¿QuÃ© pretenden de ti los seÃ±ores de U-TY? Â¿Por quÃ© te han escogido precisamente a ti entre los cuatro mil millones de habitantes que hay en el globo?
 
 NO PUEDES SALIR DE LA CAMARA DE LOS TERRICOLAS
 
 Ahora, lo mismo que antes, lo que escuchas es un pensamiento que ha entrado directamente en tu cerebro.
-— Empuja la pared de la izquierda.
-Esta vez es una voz la que habla. ¡Una voz de verdad! Tocas la pared con cuidado. Inmediatamente se disuelve. Y allí, frente a ti, flotando en el aire, hay una figura borrosa y confusa de color azul grisáceo. Es como un jirón de niebla muy espesa.
-— Tú puedes ayudarnos.
+â€” Empuja la pared de la izquierda.
+Esta vez es una voz la que habla. Â¡Una voz de verdad! Tocas la pared con cuidado. Inmediatamente se disuelve. Y allÃ­, frente a ti, flotando en el aire, hay una figura borrosa y confusa de color azul grisÃ¡ceo. Es como un jirÃ³n de niebla muy espesa.
+â€” TÃº puedes ayudarnos.
 La criatura habla desde algo probablemente situado en su cabeza, que es toda de vapor y no tiene boca.
- — Me llamo Incu y soy un cautivo de Alara.
- — ¿Cómo has aprendido a hablar mi lenguaje? —preguntas.
-— Imagínate lo que se puede aprender en 800 años... Todo este tiempo es el que llevo prisionero en esta nave.
-—¿Y cómo puedo ayudarte? —preguntas—. No tengo ningún poder.
-Incu muestra una pequeña estatuilla.
-— He tardado cientos de años en hacerla. Es un ídolo que los señores de U-TY -los que dirigen esta nave— creen que les conducirá hasta Ultima, el planeta paradisíaco. Ejecutarán las órdenes de cualquiera que la tenga en su poder, siempre y cuando sea un ser humano. Yo no lo soy, pero tú sí. Así que tómalo, pero tienes que prometerme una cosa: si logras apoderarte del control de la nave, tienes que llevarme a mi propio planeta.  Reflexionas un momento antes de responder.
- — Antes de prometerte nada, quiero que me contestes a una pregunta: ¿Podría yo llegar a Ultima?
-— No podrás llegar eligiendo lo que vas a hacer -dice Incu.
-Antes de preguntarle qué significado tienen sus palabras, oyes nuevamente la voz en tu cerebro...
+ â€” Me llamo Incu y soy un cautivo de Alara.
+ â€” Â¿CÃ³mo has aprendido a hablar mi lenguaje? â€”preguntas.
+â€” ImagÃ­nate lo que se puede aprender en 800 aÃ±os... Todo este tiempo es el que llevo prisionero en esta nave.
+â€”Â¿Y cÃ³mo puedo ayudarte? â€”preguntasâ€”. No tengo ningÃºn poder.
+Incu muestra una pequeÃ±a estatuilla.
+â€” He tardado cientos de aÃ±os en hacerla. Es un Ã­dolo que los seÃ±ores de U-TY -los que dirigen esta naveâ€” creen que les conducirÃ¡ hasta Ultima, el planeta paradisÃ­aco. EjecutarÃ¡n las Ã³rdenes de cualquiera que la tenga en su poder, siempre y cuando sea un ser humano. Yo no lo soy, pero tÃº sÃ­. AsÃ­ que tÃ³malo, pero tienes que prometerme una cosa: si logras apoderarte del control de la nave, tienes que llevarme a mi propio planeta.  Reflexionas un momento antes de responder.
+ â€” Antes de prometerte nada, quiero que me contestes a una pregunta: Â¿PodrÃ­a yo llegar a Ultima?
+â€” No podrÃ¡s llegar eligiendo lo que vas a hacer -dice Incu.
+Antes de preguntarle quÃ© significado tienen sus palabras, oyes nuevamente la voz en tu cerebro...
 
 SIGUE LAS LUCES DE COLOR AMBAR Y REGRESA A LA CAMARA DE LOS TERRICOLAS. NO HABLES CON NADIE: NO ACEPTES NADA.
 
-— ¡Adelante tómalo si vas a cumplir lo prometido! Incu pone el ídolo delante de ti.
-#Si tomas el ídolo:15
+â€” Â¡Adelante tÃ³malo si vas a cumplir lo prometido! Incu pone el Ã­dolo delante de ti.
+#Si tomas el Ã­dolo:15
 #Si lo dejas:18
 
 11#
-Te arrancas la banda y sientes inmediatamente un dolor terrible en la cabeza quete ciega. Arrojas la banda al otro extremo de la habitación y el dolor disminuye al tiempo que recuperas la visión.
- ¡Si pudieras encontrar una salida para escapar! Unos sonidos musicales y lastimeros llenan tus oídos. La pared del fondo se disuelve en el aire. Ante ti se abre un largo pasillo. Sales corriendo por él. De pronto ves ante ti una figura con forma de remolino: ¡Un habitante del espacio exterior! ¿Estará también él tratando de escapar? De pronto se cuela por un estrecho túnel y tú haces los mismo, lanzándote tras él a todo correr.
- Al final del túnel ves una estructura plateada en forma de concha gigantesca. ¿Será un vehículo espacial? El habitante del espacio abre una escotilla y se introduce dentro.
-¡Esta puede ser tu gran oportunidad! Sigues a la extraña criatura penetrando tú también por la escotilla. Una vez dentro ves al habitante del espacio exterior delante de ti, a poco más de dos metros de distancia. Tiene el aspecto de una gran pelota medio desinflada, con hileras de ojos y de bocas dispuestos como las filas de ventanillas de un avión. Debe tener, por lo menos, siete u ocho piernas provistas de algo así como ramas o raíces, algunas de las cuales parecen funcionar como brazos, manos, aletas o antenas.
-Le contemplas estupefacto mientras manipula los distintos instrumentos con sus “brazos” tentaculares y dirige hacia ti algunos de sus ojos.
- — Eres un terrícola, ¿verdad?
- Ha hablado por una de sus bocas, la más cercana a ti.
- — Sí -balbuceas— ¿Quién eres tú?
- — Me llamo Mopo. Esta es la última oportunidad que me queda de escapar al único lugar al que puedo ir.
- La escotilla se cierra antes de que diga nada más. Sientes una sacudida tan violenta que pierdes el conocimiento.
-Poco a poco, vuelves en sí. La cabeza te da vueltas y te duele todo el cuerpo. Sigues en la
-nave que ahora cabecea sin cesar. Miras a través de un ojo de buey. Sólo ves agua por todas
-partes. ¡Sin duda estás en un mar de la Tierra!
-Mopo, el extraterrestre, sigue a tu lado. La escotilla superior se abre automáticamente. El
+Te arrancas la banda y sientes inmediatamente un dolor terrible en la cabeza quete ciega. Arrojas la banda al otro extremo de la habitaciÃ³n y el dolor disminuye al tiempo que recuperas la visiÃ³n.
+ Â¡Si pudieras encontrar una salida para escapar! Unos sonidos musicales y lastimeros llenan tus oÃ­dos. La pared del fondo se disuelve en el aire. Ante ti se abre un largo pasillo. Sales corriendo por Ã©l. De pronto ves ante ti una figura con forma de remolino: Â¡Un habitante del espacio exterior! Â¿EstarÃ¡ tambiÃ©n Ã©l tratando de escapar? De pronto se cuela por un estrecho tÃºnel y tÃº haces los mismo, lanzÃ¡ndote tras Ã©l a todo correr.
+ Al final del tÃºnel ves una estructura plateada en forma de concha gigantesca. Â¿SerÃ¡ un vehÃ­culo espacial? El habitante del espacio abre una escotilla y se introduce dentro.
+Â¡Esta puede ser tu gran oportunidad! Sigues a la extraÃ±a criatura penetrando tÃº tambiÃ©n por la escotilla. Una vez dentro ves al habitante del espacio exterior delante de ti, a poco mÃ¡s de dos metros de distancia. Tiene el aspecto de una gran pelota medio desinflada, con hileras de ojos y de bocas dispuestos como las filas de ventanillas de un aviÃ³n. Debe tener, por lo menos, siete u ocho piernas provistas de algo asÃ­ como ramas o raÃ­ces, algunas de las cuales parecen funcionar como brazos, manos, aletas o antenas.
+Le contemplas estupefacto mientras manipula los distintos instrumentos con sus â€œbrazosâ€ tentaculares y dirige hacia ti algunos de sus ojos.
+ â€” Eres un terrÃ­cola, Â¿verdad?
+ Ha hablado por una de sus bocas, la mÃ¡s cercana a ti.
+ â€” SÃ­ -balbuceasâ€” Â¿QuiÃ©n eres tÃº?
+ â€” Me llamo Mopo. Esta es la Ãºltima oportunidad que me queda de escapar al Ãºnico lugar al que puedo ir.
+ La escotilla se cierra antes de que diga nada mÃ¡s. Sientes una sacudida tan violenta que pierdes el conocimiento.
+Poco a poco, vuelves en sÃ­. La cabeza te da vueltas y te duele todo el cuerpo. Sigues en la
+nave que ahora cabecea sin cesar. Miras a travÃ©s de un ojo de buey. SÃ³lo ves agua por todas
+partes. Â¡Sin duda estÃ¡s en un mar de la Tierra!
+Mopo, el extraterrestre, sigue a tu lado. La escotilla superior se abre automÃ¡ticamente. El
 agua empieza a entrar en la cabina. De repente, Mopo salta al mar.
-Por la escotilla se ve, a unos centenares de metros, un barco pesquero. No hay tiempo que perder. Aguantas la respiración y te lanzas al mar picado y terriblemente frío. Una ola te pea el rostro. Entonces llega Mopo desplazándose como una medusa y te coloca sobre su espalda para librarte de las olas. El pesquero se dirige hacia vosotros. Le haces señas desesperadamente temblando de frío. Hay dos pescadores en el puente que os señalan y responden a tus gestos.
- - Temo que la gente de la Tierra me mate -dice Mopo-. Tendré que esconderme.
+Por la escotilla se ve, a unos centenares de metros, un barco pesquero. No hay tiempo que perder. Aguantas la respiraciÃ³n y te lanzas al mar picado y terriblemente frÃ­o. Una ola te pea el rostro. Entonces llega Mopo desplazÃ¡ndose como una medusa y te coloca sobre su espalda para librarte de las olas. El pesquero se dirige hacia vosotros. Le haces seÃ±as desesperadamente temblando de frÃ­o. Hay dos pescadores en el puente que os seÃ±alan y responden a tus gestos.
+ - Temo que la gente de la Tierra me mate -dice Mopo-. TendrÃ© que esconderme.
  El pesquero reduce velocidad, presentando la banda de estribor. Uno de los pescadores se
 Prepara para lanzaros un cabo.
-- ¿No me harán daño? -pregunta.
-#Si le dices a Mopo que puede fiarse de los terrícolas:20
+- Â¿No me harÃ¡n daÃ±o? -pregunta.
+#Si le dices a Mopo que puede fiarse de los terrÃ­colas:20
 #Si le dices a Mopo que no puedes garantizarle un trato digno:21
 
 14#
-Esto de llevar puesta la banda parece ser bueno. Inmediatamente empiezas a sentirte como si estuvieras flotando en una nube color de rosa... aunque todavía no estás seguro de haber adoptado la decisión más adecuada.
-Pero eso ya no te preocupa mucho. Parece que está oscureciendo, según puedes apreciar en los bordes de tu nube rosada... Te estás hundiendo en la noche... sueñas que la corriente del tiempo te arrastra... Más deprisa, ahora. Estás girando a toda velocidad dentro del tiempo. Ahora más despacio... a través del tiempo... más despacio... Cada vez más lentamente... hasta... que... el... tiempo... se... queda... parado... para... siempre.
+Esto de llevar puesta la banda parece ser bueno. Inmediatamente empiezas a sentirte como si estuvieras flotando en una nube color de rosa... aunque todavÃ­a no estÃ¡s seguro de haber adoptado la decisiÃ³n mÃ¡s adecuada.
+Pero eso ya no te preocupa mucho. Parece que estÃ¡ oscureciendo, segÃºn puedes apreciar en los bordes de tu nube rosada... Te estÃ¡s hundiendo en la noche... sueÃ±as que la corriente del tiempo te arrastra... MÃ¡s deprisa, ahora. EstÃ¡s girando a toda velocidad dentro del tiempo. Ahora mÃ¡s despacio... a travÃ©s del tiempo... mÃ¡s despacio... Cada vez mÃ¡s lentamente... hasta... que... el... tiempo... se... queda... parado... para... siempre.
 Fin
 
 15#
-Tomas el ídolo y empiezas a andar por el pasillo, siguiendo las luces de color ámbar que se mueven delante de ti. El objeto que tienes en tus manos parece ser la escultura de una cabeza humana extrañamente estilizada.
-De pronto, las luces se hacen más brillantes. Ahora ves claramente el ídolo. Se parece a esas misteriosas esculturas de piedra que los habitantes de la isla de Pascua, en el Pacífico Sur, levantaron en la antigüedad. Pero tus pensamientos se ven interrumpidos. La voz de los U-TY resuena dentro de tu cerebro.
+Tomas el Ã­dolo y empiezas a andar por el pasillo, siguiendo las luces de color Ã¡mbar que se mueven delante de ti. El objeto que tienes en tus manos parece ser la escultura de una cabeza humana extraÃ±amente estilizada.
+De pronto, las luces se hacen mÃ¡s brillantes. Ahora ves claramente el Ã­dolo. Se parece a esas misteriosas esculturas de piedra que los habitantes de la isla de Pascua, en el PacÃ­fico Sur, levantaron en la antigÃ¼edad. Pero tus pensamientos se ven interrumpidos. La voz de los U-TY resuena dentro de tu cerebro.
 
 AHORA, ACUESTATE Y DUERME
 
-Quieres resistirte pero sientes que el sueño te va  invadiendo. Te echas y te quedas adormecido, pensando: ¿Para qué servirá este ídolo? ¿Tendrá algún poder extraordinario? ¿Cómo va a llevarme a la…?
-Cuando te despiertas, estás en otra cámara. Flotando en el aire hay tres esferas relucientes cuya luminosidad parpadea ante ti. Se te pone la carne de gallina y los pelos de punta.
+Quieres resistirte pero sientes que el sueÃ±o te va  invadiendo. Te echas y te quedas adormecido, pensando: Â¿Para quÃ© servirÃ¡ este Ã­dolo? Â¿TendrÃ¡ algÃºn poder extraordinario? Â¿CÃ³mo va a llevarme a laâ€¦?
+Cuando te despiertas, estÃ¡s en otra cÃ¡mara. Flotando en el aire hay tres esferas relucientes cuya luminosidad parpadea ante ti. Se te pone la carne de gallina y los pelos de punta.
 
- HAS DESOBEDECIDO A LOS U-TY., SERAS ENVIADO A SOMO Y DORMIRÁS DURANTE MIL MILLONES DE AÑOS.
+ HAS DESOBEDECIDO A LOS U-TY., SERAS ENVIADO A SOMO Y DORMIRÃS DURANTE MIL MILLONES DE AÃ‘OS.
 
- Ya no te cabe la menor duda: esas formas cargadas de energía vital son las que han estado transmitiendo sus pensamientos a tu cerebro. ¡Son los señores de U-TY!
- Entonces blandes el ídolo ante sus luces parpadeantes. Instantáneamente, los tres descienden hasta situarse a ras del suelo a la vez que disminuye la intensidad de sus luces. La cámara se llena de un sonido penetrante de baja frecuencia.
+ Ya no te cabe la menor duda: esas formas cargadas de energÃ­a vital son las que han estado transmitiendo sus pensamientos a tu cerebro. Â¡Son los seÃ±ores de U-TY!
+ Entonces blandes el Ã­dolo ante sus luces parpadeantes. InstantÃ¡neamente, los tres descienden hasta situarse a ras del suelo a la vez que disminuye la intensidad de sus luces. La cÃ¡mara se llena de un sonido penetrante de baja frecuencia.
 
 TU ERES QUIEN MANDA.
 TU PUE DES CONDUCIRNOS A ULTIMA. 
 OR DENA Y TE OBEDECEREMOS.
 
-Al percibir estas palabras en tu cerebro, constatas que efectivamente el ídolo posee un poder. Los U-TY creen que tú puedes llevarlos a ULTIMA, el planeta paradisíaco. Quisieras pedirles que te lleven a la Tierra, pero entonces recuerdas que prometiste a Incu llevarlo a su planeta de origen.
-— ¿Cuánto tardaremos en llegar a Alara? —preguntas.
+Al percibir estas palabras en tu cerebro, constatas que efectivamente el Ã­dolo posee un poder. Los U-TY creen que tÃº puedes llevarlos a ULTIMA, el planeta paradisÃ­aco. Quisieras pedirles que te lleven a la Tierra, pero entonces recuerdas que prometiste a Incu llevarlo a su planeta de origen.
+â€” Â¿CuÃ¡nto tardaremos en llegar a Alara? â€”preguntas.
 
-DIECISEIS AÑOS
+DIECISEIS AÃ‘OS
 
- El alma se te cae a los pies. Dieciséis años de ida y otros dieciséis de vuelta suman treinta y dos años metido en esta nave, antes de poder regresar a la Tierra! Si cumples la promesa realizada a Incu, éste será tu destino inmediato.
-#Si cumples lo prometido a Incu, y ordenas a los U-TY que dirijan la nave  cósmica en dirección a Alara:27
+ El alma se te cae a los pies. DiecisÃ©is aÃ±os de ida y otros diecisÃ©is de vuelta suman treinta y dos aÃ±os metido en esta nave, antes de poder regresar a la Tierra! Si cumples la promesa realizada a Incu, Ã©ste serÃ¡ tu destino inmediato.
+#Si cumples lo prometido a Incu, y ordenas a los U-TY que dirijan la nave  cÃ³smica en direcciÃ³n a Alara:27
 #Si decides despreocuparte de Incu y ordenar a los U-que te lleven  directamente a la Tierra:26
 
 
 16#
 Sacudes al joven rubio. Da un respingo, abre un ojo y empieza a incorporarse lentamente.
- — Me llano Ingmar -dice-—. Me alegro mucho de verte. Eres el primer recién llegado de la Tierra que veo desde hace más de quince años. ¿Cómo te capturaron?
- — Iba en un avión, cuando vi esta enorme nave cósmica que se acercaba. Después me metieron aquí, no sé cómo.
- — A mí me sucedió igual -dice Ingrmar-—. Fue hace más de tres siglos, mucho antes de que se inventaran los aeroplanos en la Tierra. Yo estaba cavando la tierra en la finca de mi padre, allá en Suecia. Se desencadenó de pronto una terrible tormenta de rayos y truenos. Salí corriendo a cobijarme en el granero pero antes de que pudiera darme cuenta de lo que pasaba... me encontré aquí dentro.
- —¡ Trescientos años! ¿Y nadie ha escapado en todo ese tiempo? —preguntas.
+ â€” Me llano Ingmar -dice-â€”. Me alegro mucho de verte. Eres el primer reciÃ©n llegado de la Tierra que veo desde hace mÃ¡s de quince aÃ±os. Â¿CÃ³mo te capturaron?
+ â€” Iba en un aviÃ³n, cuando vi esta enorme nave cÃ³smica que se acercaba. DespuÃ©s me metieron aquÃ­, no sÃ© cÃ³mo.
+ â€” A mÃ­ me sucediÃ³ igual -dice Ingrmar-â€”. Fue hace mÃ¡s de tres siglos, mucho antes de que se inventaran los aeroplanos en la Tierra. Yo estaba cavando la tierra en la finca de mi padre, allÃ¡ en Suecia. Se desencadenÃ³ de pronto una terrible tormenta de rayos y truenos. SalÃ­ corriendo a cobijarme en el granero pero antes de que pudiera darme cuenta de lo que pasaba... me encontrÃ© aquÃ­ dentro.
+ â€”Â¡ Trescientos aÃ±os! Â¿Y nadie ha escapado en todo ese tiempo? â€”preguntas.
  lngrmar te pone la mano en el hombro.
- - Mucho me temo que no. Esta nave está controlada por los U-TY quienes se dedican a capturar ejemplares de las especies vivas más inteligentes de la galaxia. Esta es la cámara de los terrícolas. Hay otras cámaras para criaturas de otros planetas.
-— ¿Hay algún modo de ver el resto de la nave?
-— Á veces nos permiten andar por ella, pero nunca estamos seguros de cuándo lo harán. Aquí, te das cuenta muchas veces de que con la mente puedes hacer lo que en la Tierra sólo podías hacer con las manos. Por ejemplo, si tu mente es fuerte, puedes colocarte frente a esa pared y, si te concentras con todas tus fuerzas, puedes penetrar en la habitación contigua, atravesando el tabique de aluminio. Pero me es imposible decirte lo que sucederá luego. Nunca he querido arriesgarme en hacer la experiencia.
-#Si tratas de penetrar en la habitación contigua:30
+ - Mucho me temo que no. Esta nave estÃ¡ controlada por los U-TY quienes se dedican a capturar ejemplares de las especies vivas mÃ¡s inteligentes de la galaxia. Esta es la cÃ¡mara de los terrÃ­colas. Hay otras cÃ¡maras para criaturas de otros planetas.
+â€” Â¿Hay algÃºn modo de ver el resto de la nave?
+â€” Ã veces nos permiten andar por ella, pero nunca estamos seguros de cuÃ¡ndo lo harÃ¡n. AquÃ­, te das cuenta muchas veces de que con la mente puedes hacer lo que en la Tierra sÃ³lo podÃ­as hacer con las manos. Por ejemplo, si tu mente es fuerte, puedes colocarte frente a esa pared y, si te concentras con todas tus fuerzas, puedes penetrar en la habitaciÃ³n contigua, atravesando el tabique de aluminio. Pero me es imposible decirte lo que sucederÃ¡ luego. Nunca he querido arriesgarme en hacer la experiencia.
+#Si tratas de penetrar en la habitaciÃ³n contigua:30
 #Si vas a despertar a la muchacha:32
 
 18#
-Dejas a Incu con su ídolo y sigues las lucecillas de color ámbar que flotan delante de ti guiándote por el largo pasillo circular. Las ancas paredes jaspeadas de rojo que te rodean, van curvándose como si formasen el interior de un enorme caracol marino. El pasillo asciende en espiral y se ensancha hasta formar una sala circular, Allí, flotando en el aire, hay otro habitante del espacio exterior. Tiene el tamaño de un oso pequeño. Su cabeza es como un huevo enorme en posición vertical. Su cuerpo no es más que el punto de donde salen cuatro brazos como tentáculos y cuatro piernas como cuatro grandes espinas. Tiene grandes ojos verdes, carece casi totalmente de nariz y su enorme boca, muy expresiva, le ocupa prácticamente toda la cara, una cara reluciente y dura.
-Al ver tu reacción de sorpresa y aprensión, la criatura suelta una carca.
-— ¡Eres uno de los nuestros! -dice-. Me llamo Kally.
-La criatura te alarga uno de sus tentáculos como señal de salutación. Con muchas precauciones, dejas que tome tu mano y la estrecha calurosamente entre sus dedos blandos y elásticos.
-— ¿En qué planeta te capturaron, Kally?
-— En el planeta Karim de la estrella Akbar, que está a treinta y  ocho años luz de vuestro planeta Tierra.
- — ¿Sabes qué se proponen hacer con nosotros?
- Hablando en voz baja, como si temiera ser oído, Kally dice:
- — Los que dirigen esta nave cósmica -los U-TY- estuvieron haciendo investigaciones sobre la Tierra durante cientos de años, porque creían que allí estaba la clave para llegar al planeta sublime de Ultima. Ahora parece que han decidido buscar por otra parte. Dentro de pocos días, el Rakma saldrá del sistema solar y nosotros, con los demás cautivos, iremos a parar al jardín zoológico que hay en el planeta imperial de Ra.
- — ¿Habrá algún modo de escapar y volver a la Tierra? —preguntas.
+Dejas a Incu con su Ã­dolo y sigues las lucecillas de color Ã¡mbar que flotan delante de ti guiÃ¡ndote por el largo pasillo circular. Las ancas paredes jaspeadas de rojo que te rodean, van curvÃ¡ndose como si formasen el interior de un enorme caracol marino. El pasillo asciende en espiral y se ensancha hasta formar una sala circular, AllÃ­, flotando en el aire, hay otro habitante del espacio exterior. Tiene el tamaÃ±o de un oso pequeÃ±o. Su cabeza es como un huevo enorme en posiciÃ³n vertical. Su cuerpo no es mÃ¡s que el punto de donde salen cuatro brazos como tentÃ¡culos y cuatro piernas como cuatro grandes espinas. Tiene grandes ojos verdes, carece casi totalmente de nariz y su enorme boca, muy expresiva, le ocupa prÃ¡cticamente toda la cara, una cara reluciente y dura.
+Al ver tu reacciÃ³n de sorpresa y aprensiÃ³n, la criatura suelta una carca.
+â€” Â¡Eres uno de los nuestros! -dice-. Me llamo Kally.
+La criatura te alarga uno de sus tentÃ¡culos como seÃ±al de salutaciÃ³n. Con muchas precauciones, dejas que tome tu mano y la estrecha calurosamente entre sus dedos blandos y elÃ¡sticos.
+â€” Â¿En quÃ© planeta te capturaron, Kally?
+â€” En el planeta Karim de la estrella Akbar, que estÃ¡ a treinta y  ocho aÃ±os luz de vuestro planeta Tierra.
+ â€” Â¿Sabes quÃ© se proponen hacer con nosotros?
+ Hablando en voz baja, como si temiera ser oÃ­do, Kally dice:
+ â€” Los que dirigen esta nave cÃ³smica -los U-TY- estuvieron haciendo investigaciones sobre la Tierra durante cientos de aÃ±os, porque creÃ­an que allÃ­ estaba la clave para llegar al planeta sublime de Ultima. Ahora parece que han decidido buscar por otra parte. Dentro de pocos dÃ­as, el Rakma saldrÃ¡ del sistema solar y nosotros, con los demÃ¡s cautivos, iremos a parar al jardÃ­n zoolÃ³gico que hay en el planeta imperial de Ra.
+ â€” Â¿HabrÃ¡ algÃºn modo de escapar y volver a la Tierra? â€”preguntas.
 Kally se queda un momento silencioso.
-Después, dice:
-— No te prometo nada, pero podría enseñarte el camino para ir a la cámara prohibida. Ignoro lo que hay dentro, pero sé que es algo relacionado con el tiempo. Yo nunca osaría entrar allí, pero quizá sea tu única oportunidad.
-#Si decides ir a la cámara prohibida:34
-#Si quieres buscar algún otro sistema para escapar:36
+DespuÃ©s, dice:
+â€” No te prometo nada, pero podrÃ­a enseÃ±arte el camino para ir a la cÃ¡mara prohibida. Ignoro lo que hay dentro, pero sÃ© que es algo relacionado con el tiempo. Yo nunca osarÃ­a entrar allÃ­, pero quizÃ¡ sea tu Ãºnica oportunidad.
+#Si decides ir a la cÃ¡mara prohibida:34
+#Si quieres buscar algÃºn otro sistema para escapar:36
 
 
 20#
- Le dices a Mopo que no tiene por qué preocuparse, ya que los seres humanos son dignos de confianza.
- — Salgamos del agua —exclama.
-Los pescadores os echan un cabo y te sacan a ti primero. Después, Mopo emerge por su propio impulso y cae sobre la cubierta.
- — He visto muchos seres extraños en el mar, pero nunca nada que se te parezca... ¡Y además hablas! Por mi parte, puedes ser el mismísimo diablo, pero no me parece que vengas con malas intenciones, así que recibirás a bordo de este barco el mismo tratamiento que merece todo náufrago. Seguidme.
-El capitán os lleva adentro. Mopo viene detrás, arrastrándose como un cangrejo. Los pescadores lo contemplan asombrados.  El capitán sirve un tazón de chocolate caliente sin apartar los ojos de la criatura que te acompaña. ¿Le apetece tomar algo?
-— No -dice Mopo-. Ya comí hace unos meses.
- El capitán sonríe, menea la cabeza y se vuelve hacia ti.
- - Navegamos con rumbo a Seattle, con un cargamento de atún. Llegaremos dentro de cuarenta y ocho horas.
-¿Cree usted que debemos informar a la Guardia Costera? No se lo van a creer.
-#Si dices al capitán que informe a la Guardia Costera:57
+ Le dices a Mopo que no tiene por quÃ© preocuparse, ya que los seres humanos son dignos de confianza.
+ â€” Salgamos del agua â€”exclama.
+Los pescadores os echan un cabo y te sacan a ti primero. DespuÃ©s, Mopo emerge por su propio impulso y cae sobre la cubierta.
+ â€” He visto muchos seres extraÃ±os en el mar, pero nunca nada que se te parezca... Â¡Y ademÃ¡s hablas! Por mi parte, puedes ser el mismÃ­simo diablo, pero no me parece que vengas con malas intenciones, asÃ­ que recibirÃ¡s a bordo de este barco el mismo tratamiento que merece todo nÃ¡ufrago. Seguidme.
+El capitÃ¡n os lleva adentro. Mopo viene detrÃ¡s, arrastrÃ¡ndose como un cangrejo. Los pescadores lo contemplan asombrados.  El capitÃ¡n sirve un tazÃ³n de chocolate caliente sin apartar los ojos de la criatura que te acompaÃ±a. Â¿Le apetece tomar algo?
+â€” No -dice Mopo-. Ya comÃ­ hace unos meses.
+ El capitÃ¡n sonrÃ­e, menea la cabeza y se vuelve hacia ti.
+ - Navegamos con rumbo a Seattle, con un cargamento de atÃºn. Llegaremos dentro de cuarenta y ocho horas.
+Â¿Cree usted que debemos informar a la Guardia Costera? No se lo van a creer.
+#Si dices al capitÃ¡n que informe a la Guardia Costera:57
 #Si le propones que no diga nada hasta llegar a Seatle:58
 
 
 21#
-- No puedo garantizarte un tratamiento correcto -le dices a Mopo-—. Hay terrícolas que podrían hacerte mucho daño.
-Interrumpes tu explicación para agarrar el cabo que acaban de lanzar desde el barco. Mopo te dice:
-— Siempre seré tu amigo.
-Te vuelves para contestarle, pero sólo alcanzas a verlo desaparecer, bajo el agua.
-Dos pescadores te ayudan a subir a bordo. Los demás se inclinan sobre la barandilla tratando de ver al habitante del espacio exterior.
- — ¿Qué era eso? 
- — ¿Era un león marino? ¿Una morsa?
- — ¡Es el bicho más raro que he visto nunca!
-Todos hablan al mismo tiempo. Cuando les explicas que se trata de un habitante del espacio exterior, la mayoría de ellos sacuden incrédulamente la cabeza.
-Pocos días más tarde, cuando llegas a tu hogar, tus familiares y amigos respiran tranquilos al verte sano y salvo. Están ansiosos por oírte explicar la aventura, pero cuando les cuentas lo ocurrido, nadie te cree.
- Durante los años siguientes, oyes hablar de pescadores que afirman haber visto una extraña criatura con filas de ojos y de bocas. Algunos dicen que es un monstruo que ha sobrevivido desde los tiempos prehistóricos. Otros dicen que es tan amistoso y juguetón como los delfines. Y a ti te alegra saber que Mopo vive y conservas la esperanza de que algún día, de un modo u otro, volveréis a encontraros.
+- No puedo garantizarte un tratamiento correcto -le dices a Mopo-â€”. Hay terrÃ­colas que podrÃ­an hacerte mucho daÃ±o.
+Interrumpes tu explicaciÃ³n para agarrar el cabo que acaban de lanzar desde el barco. Mopo te dice:
+â€” Siempre serÃ© tu amigo.
+Te vuelves para contestarle, pero sÃ³lo alcanzas a verlo desaparecer, bajo el agua.
+Dos pescadores te ayudan a subir a bordo. Los demÃ¡s se inclinan sobre la barandilla tratando de ver al habitante del espacio exterior.
+ â€” Â¿QuÃ© era eso? 
+ â€” Â¿Era un leÃ³n marino? Â¿Una morsa?
+ â€” Â¡Es el bicho mÃ¡s raro que he visto nunca!
+Todos hablan al mismo tiempo. Cuando les explicas que se trata de un habitante del espacio exterior, la mayorÃ­a de ellos sacuden incrÃ©dulamente la cabeza.
+Pocos dÃ­as mÃ¡s tarde, cuando llegas a tu hogar, tus familiares y amigos respiran tranquilos al verte sano y salvo. EstÃ¡n ansiosos por oÃ­rte explicar la aventura, pero cuando les cuentas lo ocurrido, nadie te cree.
+ Durante los aÃ±os siguientes, oyes hablar de pescadores que afirman haber visto una extraÃ±a criatura con filas de ojos y de bocas. Algunos dicen que es un monstruo que ha sobrevivido desde los tiempos prehistÃ³ricos. Otros dicen que es tan amistoso y juguetÃ³n como los delfines. Y a ti te alegra saber que Mopo vive y conservas la esperanza de que algÃºn dÃ­a, de un modo u otro, volverÃ©is a encontraros.
 Fin
 
 22#
- — Os ayudaré a encontrar el camino que lleva a Ultima -dices.
+ â€” Os ayudarÃ© a encontrar el camino que lleva a Ultima -dices.
 
 DESEAS AYUDARNOS. ESO ESTA BIEN.
 AHORA TIENES QUE REGRESAR A LA CAMARA DE LOS TERRICOLAS.
 
-Te sientes arrastrado como por un poderoso imán invisible, a través de un largo pasillo circular que conduce a un inmenso salón. Hay allí, al menos, una docena de personas sentadas en butacones y en cojines por el suelo. Ves un marinero, una mujer con un vestido de rayas multicolores, un hombre ataviado como un guerrero samurái y una bellísima mujer de piel aceitunada, cuyo negrísimo pelo cae sobre sus hombros y le llega hasta la cintura.
-El guerrero samurái se dirige hacia ti y te hace una reverencia.
- — Bienvenido seas a la Cámara de los terrícolas. Todos los aquí presentes somos, como tú, cautivos de los U-TY.
- — ¿Cuánto hace que estáis aquí?
- — Seiscientos años. Desde los tiempos de Yoshimitsu, Shogun del Japón. Durante todo ese tiempo, he aprendido muchísimas cosas acerca del universo y de la Tierra como, por ejemplo, tu idioma.
-— ¿Y aquí no habéis envejecido?
-— No. Los U-TY nos han conservado con la misma edad que teníamos al ser apresados.
-Miras a tu alrededor. Algunos de los presentes leen; otros miran la pantalla de un equipo de vídeo. Una muchacha de tu misma edad, poco más o menos, interpreta con la flauta una melodía que suena maravillosamente bien; calculas que debe llevar cientos de años practicando ese arte.
-Luego observas a un anciano de largo pelo blanco que guiña constantemente sus ojos azules. Su rostro tiene una expresión serena y supones que debe ser un hombre muy sabio.
-Una muchacha de larga cabellera negra y un muchacho rubio están sentados en otro rincón. Tienen las piernas cruzadas y los brazos sobre el pecho. Ambos parecen estar en un éxtasis, cuando les diriges la mirada, la muchacha sonríe, como si hubiera estado esperándote.
-— Yo soy Kim Lee -dice.
+Te sientes arrastrado como por un poderoso imÃ¡n invisible, a travÃ©s de un largo pasillo circular que conduce a un inmenso salÃ³n. Hay allÃ­, al menos, una docena de personas sentadas en butacones y en cojines por el suelo. Ves un marinero, una mujer con un vestido de rayas multicolores, un hombre ataviado como un guerrero samurÃ¡i y una bellÃ­sima mujer de piel aceitunada, cuyo negrÃ­simo pelo cae sobre sus hombros y le llega hasta la cintura.
+El guerrero samurÃ¡i se dirige hacia ti y te hace una reverencia.
+ â€” Bienvenido seas a la CÃ¡mara de los terrÃ­colas. Todos los aquÃ­ presentes somos, como tÃº, cautivos de los U-TY.
+ â€” Â¿CuÃ¡nto hace que estÃ¡is aquÃ­?
+ â€” Seiscientos aÃ±os. Desde los tiempos de Yoshimitsu, Shogun del JapÃ³n. Durante todo ese tiempo, he aprendido muchÃ­simas cosas acerca del universo y de la Tierra como, por ejemplo, tu idioma.
+â€” Â¿Y aquÃ­ no habÃ©is envejecido?
+â€” No. Los U-TY nos han conservado con la misma edad que tenÃ­amos al ser apresados.
+Miras a tu alrededor. Algunos de los presentes leen; otros miran la pantalla de un equipo de vÃ­deo. Una muchacha de tu misma edad, poco mÃ¡s o menos, interpreta con la flauta una melodÃ­a que suena maravillosamente bien; calculas que debe llevar cientos de aÃ±os practicando ese arte.
+Luego observas a un anciano de largo pelo blanco que guiÃ±a constantemente sus ojos azules. Su rostro tiene una expresiÃ³n serena y supones que debe ser un hombre muy sabio.
+Una muchacha de larga cabellera negra y un muchacho rubio estÃ¡n sentados en otro rincÃ³n. Tienen las piernas cruzadas y los brazos sobre el pecho. Ambos parecen estar en un Ã©xtasis, cuando les diriges la mirada, la muchacha sonrÃ­e, como si hubiera estado esperÃ¡ndote.
+â€” Yo soy Kim Lee -dice.
 #Si hablas con el anciano:37
 #Si hablas con Kim Lee:117
 
 25#
- —¿Y cómo van a encontrar Ultima visitando la Tierra? —preguntas.
-Desde el momento en que empiezas a hablar, multitud de chispas comienzan a saltar alrededor de tu cabeza. Te arrojas al suelo y te tapas la cara con los brazos. Entonces, todas las chispas se extinguen, menos una ceniza que ha quedado junto a tus pies. Centellea durante unos segundos antes de volverse gris r después negra. Con grandes precauciones, a tocas y después la coges con la mano. Es como una de esas pequeñas piedras bien pulidas, que suelen encontrarse en la playa, sólo que ¡pesa más que si fuera de plomo!
+ â€”Â¿Y cÃ³mo van a encontrar Ultima visitando la Tierra? â€”preguntas.
+Desde el momento en que empiezas a hablar, multitud de chispas comienzan a saltar alrededor de tu cabeza. Te arrojas al suelo y te tapas la cara con los brazos. Entonces, todas las chispas se extinguen, menos una ceniza que ha quedado junto a tus pies. Centellea durante unos segundos antes de volverse gris r despuÃ©s negra. Con grandes precauciones, a tocas y despuÃ©s la coges con la mano. Es como una de esas pequeÃ±as piedras bien pulidas, que suelen encontrarse en la playa, sÃ³lo que Â¡pesa mÃ¡s que si fuera de plomo!
 
 TU VAS A COOPERAR
 
  La voz ha vuelto a hablar. Tratas de reordenar tus ideas, y responder:
- — Yo soy un ser humano. Les ruego que...
- Las luces parpadean. La nave espacial está bajando a una velocidad tan alta que te que- das clavado en el piso.
+ â€” Yo soy un ser humano. Les ruego que...
+ Las luces parpadean. La nave espacial estÃ¡ bajando a una velocidad tan alta que te que- das clavado en el piso.
 
 NO SIRVES PARA ESTO. TENDREMOS QUE ENVIARTE DE NUEVO A LA TIERRA.
 BORRAREMOS TU MEMORIA. JAMAS RE CORDARAS HABER ESTADO EN EL ESPACIO EXTERIOR.
 
- Te encuentras sentado en una butaca de tu casa, en tu propia habitación, y, sin embargo,
-te sientes extraño. ¿Qué ha pasado? Recuerdas que subiste a bordo del Concorde para volar a Francia y que estabas sentado al lado de un señor de pelo blanco y que luego...
- Hurgando en tu bolsillo, encuentras una piedrecita del tamaño de una semilla de melón. ¿Por qué pesará tanto? Le das vueltas en la mano y acabas tirándola a la papelera.
+ Te encuentras sentado en una butaca de tu casa, en tu propia habitaciÃ³n, y, sin embargo,
+te sientes extraÃ±o. Â¿QuÃ© ha pasado? Recuerdas que subiste a bordo del Concorde para volar a Francia y que estabas sentado al lado de un seÃ±or de pelo blanco y que luego...
+ Hurgando en tu bolsillo, encuentras una piedrecita del tamaÃ±o de una semilla de melÃ³n. Â¿Por quÃ© pesarÃ¡ tanto? Le das vueltas en la mano y acabas tirÃ¡ndola a la papelera.
  Ahora tu suerte depende de que caiga o no dentro del cesto. Tienes la mitad de las probabilidades.
-#¿Cae dentro de la papelera?:41 
-#¿Cae dentro de la papelera?:50
+#Â¿Cae dentro de la papelera?:41 
+#Â¿Cae dentro de la papelera?:50
 
 
 27#
-Consultas el ordenador. La nave cósmica tiene programado curso fijo hacia Alara. Apenas crees lo que te está ocurriendo. Al principio, no eras más que un prisionero indefenso y ahora eres tú mismo quien dirige la nave intergaláctica.
-Durante el largo viaje a Alara, vas conociendo las extrañas y maravillosas costumbres de los habitantes del espacio extraterrestre que hay a bordo, Los U-TY poseen millones de grabaciones acerca de la vida en la Tierra. Has aprendido a extraerlas de la memoria del ordenador, y pasas largas horas proyectándolas en la pantalla tridimensional. Allí ves películas, piezas teatrales, y presencias todas las batallas, todas las grandes aventuras y todos los grandes momentos de la historia de la humanidad. Aprendes sobre la vida en la Tierra muchísimo más de lo que hubieras aprendido en ninguna escuela del mundo. Te preocupa los años de vida que estás perdiendo de este modo, pero también sabes que los U-TY poseen muchos y variados poderes. Por eso les ordenas que interrumpan tu proceso de envejecimiento. A partir de ese instante ya te sientes mejor, porque sabes que, aunque vas a tener que pasar treinta y dos años en el cosmos, regresarás a la Tierra con toda una vida por delante y con unos conocimientos acerca del universo que ningún otro ser humano habrá tenido jamás.
+Consultas el ordenador. La nave cÃ³smica tiene programado curso fijo hacia Alara. Apenas crees lo que te estÃ¡ ocurriendo. Al principio, no eras mÃ¡s que un prisionero indefenso y ahora eres tÃº mismo quien dirige la nave intergalÃ¡ctica.
+Durante el largo viaje a Alara, vas conociendo las extraÃ±as y maravillosas costumbres de los habitantes del espacio extraterrestre que hay a bordo, Los U-TY poseen millones de grabaciones acerca de la vida en la Tierra. Has aprendido a extraerlas de la memoria del ordenador, y pasas largas horas proyectÃ¡ndolas en la pantalla tridimensional. AllÃ­ ves pelÃ­culas, piezas teatrales, y presencias todas las batallas, todas las grandes aventuras y todos los grandes momentos de la historia de la humanidad. Aprendes sobre la vida en la Tierra muchÃ­simo mÃ¡s de lo que hubieras aprendido en ninguna escuela del mundo. Te preocupa los aÃ±os de vida que estÃ¡s perdiendo de este modo, pero tambiÃ©n sabes que los U-TY poseen muchos y variados poderes. Por eso les ordenas que interrumpan tu proceso de envejecimiento. A partir de ese instante ya te sientes mejor, porque sabes que, aunque vas a tener que pasar treinta y dos aÃ±os en el cosmos, regresarÃ¡s a la Tierra con toda una vida por delante y con unos conocimientos acerca del universo que ningÃºn otro ser humano habrÃ¡ tenido jamÃ¡s.
 Fin
 
 28#
- Alzando el ídolo con tu mano, ordenas a los U-TY.
-- ¡ Dirijan esta nave al planeta Tierra!
+ Alzando el Ã­dolo con tu mano, ordenas a los U-TY.
+- Â¡ Dirijan esta nave al planeta Tierra!
 
-ASI SE HARA. TIEMPOPARA ENTRAR EN LA ÓRBITA DE LA TIERRA: TRECE DÍAS.
+ASI SE HARA. TIEMPOPARA ENTRAR EN LA Ã“RBITA DE LA TIERRA: TRECE DÃAS.
 
-Y, dirigiéndote a Incu, le dices:
- — Lamento mucho no poder llevarte a tu planeta, pero estoy seguro de que en la Tierra serás bien recibido.
- — Es posible -dice Incu-—, pero mi organismo no podrá mantenerse íntegro por los fuertes vientos que soplan sobre vuestro planeta.
- — ¿Estás seguro de que no hay ninguna forma de llegar a Ultima, el planeta paradisíaco? -—preguntas.
- — En efecto, ninguna de tus decisiones podrá conducirnos allá -dice Incu.
- — Entonces, cuando los U-TY me dejen en la Tierra, les ordenaré que te lleven a Alara. No les resultará difícil hacerlo, ¿no?
--Mucho me temo que no sea posible —replica Incu—. En cuanto salgas de esta nave, los U-TY me apresarán de nuevo y me llevarán al zoológico del planeta imperial de Ra.
-— ¡Cuánto lo siento...!
+Y, dirigiÃ©ndote a Incu, le dices:
+ â€” Lamento mucho no poder llevarte a tu planeta, pero estoy seguro de que en la Tierra serÃ¡s bien recibido.
+ â€” Es posible -dice Incu-â€”, pero mi organismo no podrÃ¡ mantenerse Ã­ntegro por los fuertes vientos que soplan sobre vuestro planeta.
+ â€” Â¿EstÃ¡s seguro de que no hay ninguna forma de llegar a Ultima, el planeta paradisÃ­aco? -â€”preguntas.
+ â€” En efecto, ninguna de tus decisiones podrÃ¡ conducirnos allÃ¡ -dice Incu.
+ â€” Entonces, cuando los U-TY me dejen en la Tierra, les ordenarÃ© que te lleven a Alara. No les resultarÃ¡ difÃ­cil hacerlo, Â¿no?
+-Mucho me temo que no sea posible â€”replica Incuâ€”. En cuanto salgas de esta nave, los U-TY me apresarÃ¡n de nuevo y me llevarÃ¡n al zoolÃ³gico del planeta imperial de Ra.
+â€” Â¡CuÃ¡nto lo siento...!
 Vuelves tu mirada hacia el gran ventanal y contemplas la inmensidad del espacio tenebroso salpicado de estrellas.
-Durante los primeros días de tu viaje hacia la Tierra, vas aprendiendo el funcionamiento
-de las pantallas electrónicas. A través del poderoso radiotelescopio de la nave recibes transmisiones radiales de otras civilizaciones.
+Durante los primeros dÃ­as de tu viaje hacia la Tierra, vas aprendiendo el funcionamiento
+de las pantallas electrÃ³nicas. A travÃ©s del poderoso radiotelescopio de la nave recibes transmisiones radiales de otras civilizaciones.
 Los instrumentos de los U-TY te ponen en contacto con todas las maravillas del universo.
- Sin embargo, no todas las cosas marchan bien. Incu va disminuyendo de tamaño día a día.
-— ¿Qué es lo quete ocurre, Incu? -le preguntas.
-— Estoy sufriendo una pérdida molecular —responde con una vocecita débil-. A la gente
+ Sin embargo, no todas las cosas marchan bien. Incu va disminuyendo de tamaÃ±o dÃ­a a dÃ­a.
+â€” Â¿QuÃ© es lo quete ocurre, Incu? -le preguntas.
+â€” Estoy sufriendo una pÃ©rdida molecular â€”responde con una vocecita dÃ©bil-. A la gente
 de mi raza nos ocurre cuando perdemos las ganas de vivir.
- Te das cuenta de que Incu se morirá de tristeza si no pones rumbo hacia su planeta natal.
-¿Deberás ordenar a los U-TY que regresen a Alara para salvar a Incu o debes despreocuparte de él?
+ Te das cuenta de que Incu se morirÃ¡ de tristeza si no pones rumbo hacia su planeta natal.
+Â¿DeberÃ¡s ordenar a los U-TY que regresen a Alara para salvar a Incu o debes despreocuparte de Ã©l?
 #Si ordenas a los U-TY que se dirijan a Alara:42
 #Si vas a dejar que la nave siga rumbo a la Tierra:43
 
 
 30#
-Durante un buen rato miras la pared de enfrente, realizando un gran esfuerzo mental. Te sientes algo mareado, pero sigues concentrando tu mente en la pared. Sientes que estás despertando, a pesar de que no has estado dormido. Sin saber cómo, te encuentras en otra cámara donde hay un largo ventanal de vidrio curvo. Al mirar hacia el espacio exterior, ves un enorme disco de un color azul blanquecino: ¡la Tierra! Luego, al volverte, ves en la cámara un habitante del espacio extraterrestre. Es una criatura peluda que apenas te llega a la cintura. Está flotando en el aire, como si la gravedad artificial que a ti te mantiene con los pies en el suelo no tuviera efecto alguno sobre él.
+Durante un buen rato miras la pared de enfrente, realizando un gran esfuerzo mental. Te sientes algo mareado, pero sigues concentrando tu mente en la pared. Sientes que estÃ¡s despertando, a pesar de que no has estado dormido. Sin saber cÃ³mo, te encuentras en otra cÃ¡mara donde hay un largo ventanal de vidrio curvo. Al mirar hacia el espacio exterior, ves un enorme disco de un color azul blanquecino: Â¡la Tierra! Luego, al volverte, ves en la cÃ¡mara un habitante del espacio extraterrestre. Es una criatura peluda que apenas te llega a la cintura. EstÃ¡ flotando en el aire, como si la gravedad artificial que a ti te mantiene con los pies en el suelo no tuviera efecto alguno sobre Ã©l.
  - No temas -dice la criatura-. Me llamo Bru, y soy un cautivo del Planeta Seis de la estrella Abbar.
- — ¿Hay aquí algún otro de los de tu planeta? —preguntas.
- — No, soy el único y muy pronto no va a haber ninguno, porque me voy a escapar para irme a la Tierra, el planeta más cercano.
- — ¿Puedes llevarme contigo?
-— Si quieres, puedes venir; pero si fracasamos en nuestro intento, los U-TY nos condenarán a dormir en Somo durante mil millones de años.
-#Si estás dispuesto a correr ese riesgo:48
+ â€” Â¿Hay aquÃ­ algÃºn otro de los de tu planeta? â€”preguntas.
+ â€” No, soy el Ãºnico y muy pronto no va a haber ninguno, porque me voy a escapar para irme a la Tierra, el planeta mÃ¡s cercano.
+ â€” Â¿Puedes llevarme contigo?
+â€” Si quieres, puedes venir; pero si fracasamos en nuestro intento, los U-TY nos condenarÃ¡n a dormir en Somo durante mil millones de aÃ±os.
+#Si estÃ¡s dispuesto a correr ese riesgo:48
 #Si no quieres arriesgarte:49
 
 
 32#
- Entonces tocas a la muchacha. Ella se sobresalta y luego se incorpora restregándose los ojos. Te mira durante unos instantes con curiosidad. Luego dice:
-— Me alegro de que estés aquí. Soy Kim Lee
- — ¿Sabes hablar mi idioma?
+ Entonces tocas a la muchacha. Ella se sobresalta y luego se incorpora restregÃ¡ndose los ojos. Te mira durante unos instantes con curiosidad. Luego dice:
+â€” Me alegro de que estÃ©s aquÃ­. Soy Kim Lee
+ â€” Â¿Sabes hablar mi idioma?
  Kim Lee se pone de pie, se despereza un poco, y luego te mira intensamente a los ojos.
- — Los idiomas no constituyen aquí ningún problema. Tenemos cientos de años para aprender idiomas.
- — ¿Tú tienes cientos de años de edad?
- — A mí me raptaron hace 475 años, durante el reinado del Emperador Cheng-te. Yo era
-una princesa, aunque eso aquí no significa nada.
- — ¡Pero si sólo pareces un poco mayor que yo!
- Kim Lee sonríe.
- - Los U-TY han detenido nuestro proceso de envejecimiento. Por eso no he seguido creciendo, pero he aprendido mucho más de lo que hubiera podido estudiar en la Tierra si hubiera vivido doce veces.
- - ¿Cuánto tiempo llevas durmiendo?
- — Sólo una siestecita: unos veinticinco días de la Tierra.
- -¿Veinticinco días terrestres?
-Sostienes una larga conversación con Kim Lee. Sin saber porque, presientes que vais a
+ â€” Los idiomas no constituyen aquÃ­ ningÃºn problema. Tenemos cientos de aÃ±os para aprender idiomas.
+ â€” Â¿TÃº tienes cientos de aÃ±os de edad?
+ â€” A mÃ­ me raptaron hace 475 aÃ±os, durante el reinado del Emperador Cheng-te. Yo era
+una princesa, aunque eso aquÃ­ no significa nada.
+ â€” Â¡Pero si sÃ³lo pareces un poco mayor que yo!
+ Kim Lee sonrÃ­e.
+ - Los U-TY han detenido nuestro proceso de envejecimiento. Por eso no he seguido creciendo, pero he aprendido mucho mÃ¡s de lo que hubiera podido estudiar en la Tierra si hubiera vivido doce veces.
+ - Â¿CuÃ¡nto tiempo llevas durmiendo?
+ â€” SÃ³lo una siestecita: unos veinticinco dÃ­as de la Tierra.
+ -Â¿Veinticinco dÃ­as terrestres?
+Sostienes una larga conversaciÃ³n con Kim Lee. Sin saber porque, presientes que vais a
 ser muy buenos amigos.
-— ¿Crees que habrá alguna manera de fugarse de aquí? -pregunta.
+â€” Â¿Crees que habrÃ¡ alguna manera de fugarse de aquÃ­? -pregunta.
  Kim Lee apoya su mano en tu hombro.
- — Somos como mariposas atrapadas en una red y los U-TY son los amos de la red. Pronto,
-muy pronto, la Rakma se separará de la Tierra y pondrá rumbo al planeta de los U-TY, Ra, a
-cientos de años luz, que se convertirá en tu nuevo hogar. Nunca más volveremos a ver la
+ â€” Somos como mariposas atrapadas en una red y los U-TY son los amos de la red. Pronto,
+muy pronto, la Rakma se separarÃ¡ de la Tierra y pondrÃ¡ rumbo al planeta de los U-TY, Ra, a
+cientos de aÃ±os luz, que se convertirÃ¡ en tu nuevo hogar. Nunca mÃ¡s volveremos a ver la
 Tierra.
-—¡Tenemos que salir de aquí! —exclamas—. Debo hablar con los U-TY. Es posible que
+â€”Â¡Tenemos que salir de aquÃ­! â€”exclamasâ€”. Debo hablar con los U-TY. Es posible que
 pueda convencerlos.
 Kim Lee se encoge de hombros.
-— Si quieres, puedo conducirte hasta los U-TY para que los veas cara a cara, pero te
-prevengo que ninguno de los que han ido a hablar con ellos, han vuelto jamás a estar entre nosotros.
+â€” Si quieres, puedo conducirte hasta los U-TY para que los veas cara a cara, pero te
+prevengo que ninguno de los que han ido a hablar con ellos, han vuelto jamÃ¡s a estar entre nosotros.
 #Si decides ver a los U-TY cara a cara:38
-#Si decides dejar a Kim Lee y  seguir explorando la nave cósmica:6
+#Si decides dejar a Kim Lee y  seguir explorando la nave cÃ³smica:6
 
 
 34#
-Kally indica la pared del fondo de la cámara.
- — Empuja esa pared y verás cómo puedes pasar a través de ella. ¡Buena suerte!
-Empujas la pared y ésta cede a la presión de tu cuerpo, como si estuviera hecha de algodón. La atraviesas y se vuelve a cerrar detrás de ti. Ahora es sólida y reluciente, como si fuera de acero.
- — Siéntate, no te vayas a caer -dice una voz.
-Miras a tu alrededor pero, ante tu asombro, en la habitación sólo hay un niño, casi un recién nacido. Te sientas junto a él y miras sus grandes ojos marrones.
- — No eres más que un niño dices-— y. sin embargo, sabes hablar perfectamente. Debes ser mucho mayor de lo que pareces.
- - Hace tiempo, fui un hombre adulto -responde el niño—.Esta es la cámara de inversión temporal, el gran invento de los U-TY.  Aquí el tiempo transcurre hacia atrás, hacia el pasado. Dentro de dieciocho meses, dejaré de existir porque, para entonces, aún no habré
+Kally indica la pared del fondo de la cÃ¡mara.
+ â€” Empuja esa pared y verÃ¡s cÃ³mo puedes pasar a travÃ©s de ella. Â¡Buena suerte!
+Empujas la pared y Ã©sta cede a la presiÃ³n de tu cuerpo, como si estuviera hecha de algodÃ³n. La atraviesas y se vuelve a cerrar detrÃ¡s de ti. Ahora es sÃ³lida y reluciente, como si fuera de acero.
+ â€” SiÃ©ntate, no te vayas a caer -dice una voz.
+Miras a tu alrededor pero, ante tu asombro, en la habitaciÃ³n sÃ³lo hay un niÃ±o, casi un reciÃ©n nacido. Te sientas junto a Ã©l y miras sus grandes ojos marrones.
+ â€” No eres mÃ¡s que un niÃ±o dices-â€” y. sin embargo, sabes hablar perfectamente. Debes ser mucho mayor de lo que pareces.
+ - Hace tiempo, fui un hombre adulto -responde el niÃ±oâ€”.Esta es la cÃ¡mara de inversiÃ³n temporal, el gran invento de los U-TY.  AquÃ­ el tiempo transcurre hacia atrÃ¡s, hacia el pasado. Dentro de dieciocho meses, dejarÃ© de existir porque, para entonces, aÃºn no habrÃ©
 nacido.
- — ¿Significa eso que yo también iré haciéndome cada día más joven?
- — En realidad, tú ya estás retrocediendo en el tiempo —responde el niño—. La edad que tienes ahora es el tiempo que vas a tardar en llegar a tu nacimiento. Yo llegaré antes, mucho antes que tú y entonces te quedarás solo.
-—¿Y qué sucederá contigo cuando llegues al instante de tu nacimiento?
- — Entonces dejaré de existir.
- —¡Pero eso es terrible!
- — Sí; debe ser algo terrible -dice el niño-, pero no creo que sienta algo mucho peor que lo que tú sentías antes de nacer. Me queda la oportunidad de volver a vivir más atrás, en el pasado. Es posible que me convierta en mi padre y cuando llegue al momento de su nacimiento, me transforme en su padre, es decir, en mi abuelo.
-- ¿Y no hay manera de salir de ese proceso? —preguntas tú.
-— No, ninguna. A menos que...pruebes a salir por esa puerta: aunque, si lo haces, puede ser que te encuentres en un mismo lugar pero en dos épocas diferentes o, lo que sería peor, en dos lugares distintos en el mismo instante.
+ â€” Â¿Significa eso que yo tambiÃ©n irÃ© haciÃ©ndome cada dÃ­a mÃ¡s joven?
+ â€” En realidad, tÃº ya estÃ¡s retrocediendo en el tiempo â€”responde el niÃ±oâ€”. La edad que tienes ahora es el tiempo que vas a tardar en llegar a tu nacimiento. Yo llegarÃ© antes, mucho antes que tÃº y entonces te quedarÃ¡s solo.
+â€”Â¿Y quÃ© sucederÃ¡ contigo cuando llegues al instante de tu nacimiento?
+ â€” Entonces dejarÃ© de existir.
+ â€”Â¡Pero eso es terrible!
+ â€” SÃ­; debe ser algo terrible -dice el niÃ±o-, pero no creo que sienta algo mucho peor que lo que tÃº sentÃ­as antes de nacer. Me queda la oportunidad de volver a vivir mÃ¡s atrÃ¡s, en el pasado. Es posible que me convierta en mi padre y cuando llegue al momento de su nacimiento, me transforme en su padre, es decir, en mi abuelo.
+- Â¿Y no hay manera de salir de ese proceso? â€”preguntas tÃº.
+â€” No, ninguna. A menos que...pruebes a salir por esa puerta: aunque, si lo haces, puede ser que te encuentres en un mismo lugar pero en dos Ã©pocas diferentes o, lo que serÃ­a peor, en dos lugares distintos en el mismo instante.
 #Si te arriesgas a escapar:40
 #Si decides quedarte y esperar  otra oportunidad mejor para escapar:51
 
 36#
- — Kally-dices-,¿estás seguro de que no existe ningún otro modo de escapar de aquí?
- — Bueno... si los terrícolas sois capaces de controlar vuestros propios pensamientos, entonces... es posible que aún te quede una posibilidad. No entiendo nada: explícate.
- — Antes de abandonar tu planeta -dice Kally—, los U-TY se proponen robar algunos tesoros de uno de los principales museos de vuestro mundo, el Museo Metropolitano de Arte de Nueva York. Por supuesto que la policía va a tomar cartas en el asunto, pero los U-TY sólo necesitarán unos pocos minutos para llevarse lo que quieren.
- — ¿Y qué pasa si la policía dispara contra ellos?
- — Los U-TY han evolucionado de modo que la materia se desvía antes de llegar a tocarlos. Sin embargo, aunque ellos no corran peligro alguno, es muy posible que quieran utilizarte a ti como señuelo para entender a los guardias. Si te ofreces voluntario para esta operación, es posible que te lleven consigo. Cuando estés allá, quizá puedas escaparte, pero me parece muy difícil que puedas conseguirlo porque, si piensas en la huida mientras hablas con ellos, te leerán el pensamiento y te enviarán a Somo, un planeta donde estarás dormido durante mil millones de años.
-#Si estás dispuesto a arriesgarte a controlar tus propios pensamientos mientras colaboras con los U-TY:52
+ â€” Kally-dices-,Â¿estÃ¡s seguro de que no existe ningÃºn otro modo de escapar de aquÃ­?
+ â€” Bueno... si los terrÃ­colas sois capaces de controlar vuestros propios pensamientos, entonces... es posible que aÃºn te quede una posibilidad. No entiendo nada: explÃ­cate.
+ â€” Antes de abandonar tu planeta -dice Kallyâ€”, los U-TY se proponen robar algunos tesoros de uno de los principales museos de vuestro mundo, el Museo Metropolitano de Arte de Nueva York. Por supuesto que la policÃ­a va a tomar cartas en el asunto, pero los U-TY sÃ³lo necesitarÃ¡n unos pocos minutos para llevarse lo que quieren.
+ â€” Â¿Y quÃ© pasa si la policÃ­a dispara contra ellos?
+ â€” Los U-TY han evolucionado de modo que la materia se desvÃ­a antes de llegar a tocarlos. Sin embargo, aunque ellos no corran peligro alguno, es muy posible que quieran utilizarte a ti como seÃ±uelo para entender a los guardias. Si te ofreces voluntario para esta operaciÃ³n, es posible que te lleven consigo. Cuando estÃ©s allÃ¡, quizÃ¡ puedas escaparte, pero me parece muy difÃ­cil que puedas conseguirlo porque, si piensas en la huida mientras hablas con ellos, te leerÃ¡n el pensamiento y te enviarÃ¡n a Somo, un planeta donde estarÃ¡s dormido durante mil millones de aÃ±os.
+#Si estÃ¡s dispuesto a arriesgarte a controlar tus propios pensamientos mientras colaboras con los U-TY:52
 #Si decides quedarte y tratar de hallar  otra forma de escapar:65
 
 37#
- — Usted perdone, señor -le dices al anciano-, ¿Podría usted decirme algo sobre los
-U-TY? ¿Quiénes son? ¿Qué pretenden hacer con todos nosotros?
- — Has encontrado a quien mejor puede satisfacer tu curiosidad. Mi nombre es Angus. Soy primer ser humano capturado por los U-TY, unos extraterrestres tan avanzados respecto a los terrícolas que ya no están hechos de materia, sino de energía. Podría decirte todo lo que quieres saber, pero el conocimiento no siempre es la fuente de la felicidad. Me parece que sería mejor que esperases un poco, antes de empezar a hacer preguntas.
+ â€” Usted perdone, seÃ±or -le dices al anciano-, Â¿PodrÃ­a usted decirme algo sobre los
+U-TY? Â¿QuiÃ©nes son? Â¿QuÃ© pretenden hacer con todos nosotros?
+ â€” Has encontrado a quien mejor puede satisfacer tu curiosidad. Mi nombre es Angus. Soy primer ser humano capturado por los U-TY, unos extraterrestres tan avanzados respecto a los terrÃ­colas que ya no estÃ¡n hechos de materia, sino de energÃ­a. PodrÃ­a decirte todo lo que quieres saber, pero el conocimiento no siempre es la fuente de la felicidad. Me parece que serÃ­a mejor que esperases un poco, antes de empezar a hacer preguntas.
 Tenemos todo el tiempo que desees.
 #Si decides esperar:61
 #Si prefieres pedirle al anciano que te lo cuente todo inmediatamente:64
 
 38#
-— Ven conmigo-dice Kim Lee-. Vamos a buscar a los U-TY; pero recuerda bien esto: si decimos algo que contraríe sus reglas, nos en- cerrarán para siempre en un almacén como si fuéramos huevos en una caja de cartón ondulado. 
-Tu nueva amiga te lleva por una serie de largos corredores llenos de curvas. De vez en cuando atravesáis paredes que se volatilizan cuando ella las toca con la mano, para volver a cerrarse detrás de vosotros. De pronto, os encontráis ante los U-TY... ¡ no son más que tres esferas del tamaño de un balón de fútbol! Están flotando en el aire y emiten un resplandor entre rosado y violeta, como si fueran nubes sobre un sol poniente.
- ¿Harán algo? ¿Preguntarán algo? Por el momento no ocurre nada. Quieres hablar, pero no osas hacerlo. ¿Será que te están hipnotizando con el haz luminoso que despiden? Por un instante te preguntas si aún estarás vivo o habrás sido transportado a una vida después de la vida, ya en otro universo...
-Resuenan en tu cerebro voces que parecen articuladas como acordes surgidos en un órgano.
+â€” Ven conmigo-dice Kim Lee-. Vamos a buscar a los U-TY; pero recuerda bien esto: si decimos algo que contrarÃ­e sus reglas, nos en- cerrarÃ¡n para siempre en un almacÃ©n como si fuÃ©ramos huevos en una caja de cartÃ³n ondulado. 
+Tu nueva amiga te lleva por una serie de largos corredores llenos de curvas. De vez en cuando atravesÃ¡is paredes que se volatilizan cuando ella las toca con la mano, para volver a cerrarse detrÃ¡s de vosotros. De pronto, os encontrÃ¡is ante los U-TY... Â¡ no son mÃ¡s que tres esferas del tamaÃ±o de un balÃ³n de fÃºtbol! EstÃ¡n flotando en el aire y emiten un resplandor entre rosado y violeta, como si fueran nubes sobre un sol poniente.
+ Â¿HarÃ¡n algo? Â¿PreguntarÃ¡n algo? Por el momento no ocurre nada. Quieres hablar, pero no osas hacerlo. Â¿SerÃ¡ que te estÃ¡n hipnotizando con el haz luminoso que despiden? Por un instante te preguntas si aÃºn estarÃ¡s vivo o habrÃ¡s sido transportado a una vida despuÃ©s de la vida, ya en otro universo...
+Resuenan en tu cerebro voces que parecen articuladas como acordes surgidos en un Ã³rgano.
 
 HEMOS ESTADO OBSERVANDOTE.
 CONOCEMOS PERFECTAMENTE TODO LO QUE PIENSAS HACER Y DECIR EN EL RESTO DE TUS DIAS.
 
-Al escuchar esas voces, te invade una mezcla de miedo e indignación y tratas de pensar en algo que les produzca verdadera sorpresa.
-#Si gritas “¡DEVUELVANME A LA TIERRA!”:75
+Al escuchar esas voces, te invade una mezcla de miedo e indignaciÃ³n y tratas de pensar en algo que les produzca verdadera sorpresa.
+#Si gritas â€œÂ¡DEVUELVANME A LA TIERRA!â€:75
 #Si sueltas una carcajada:76
-#Si vas a recitar un poema infantil pensando que ellos no podían prever que harías semejante tontería:79
+#Si vas a recitar un poema infantil pensando que ellos no podÃ­an prever que harÃ­as semejante tonterÃ­a:79
 
 40#
-Te lanzas corriendo por la puerta, tratando de atravesarla rápidamente para no estar en dos sitios al mismo tiempo; pero tus piernas siguen corriendo hacia adelante, mientras que tu cabeza y tu tronco se ven violentamente arrebatados hacia atrás. Has caído en el torbellino del tiempo que gira simultáneamente hacia el pasado y hacia el futuro, un torbellino que te absorbe llevándote hacia la eternidad.
+Te lanzas corriendo por la puerta, tratando de atravesarla rÃ¡pidamente para no estar en dos sitios al mismo tiempo; pero tus piernas siguen corriendo hacia adelante, mientras que tu cabeza y tu tronco se ven violentamente arrebatados hacia atrÃ¡s. Has caÃ­do en el torbellino del tiempo que gira simultÃ¡neamente hacia el pasado y hacia el futuro, un torbellino que te absorbe llevÃ¡ndote hacia la eternidad.
 Fin
 
 41#
-No aciertas a introducirlo en el cesto de los papeles y el objeto rebota contra la pared y cae al suelo. Cuando te acercas para recogerlo, salta, escapándose de tu mano, y empieza a dar vueltas por el aire, alrededor de tu cabeza, zumbando como si fuera una abeja enfurecida. Luego, mientras te quedas estupefacto, vuela haciendo espirales por tu cuarto y atraviesa el vidrio de la ventana dejando un agujero diminuto.
-Tocas el agujerito que es tan suave como el borde de un vaso. De pronto, recuerdas las chispas que revoloteaban alrededor de tu cabeza. ¡Has estado dentro de un OVNI!
-Corres hacia la puerta para decírselo a todos los de tu casa pero te paras en seco y lo piensas mejor. A fin de cuentas, ¿quién sabe si toda tu aventura no ha sido más que un sueño? ¿Quién lo va a creer?
+No aciertas a introducirlo en el cesto de los papeles y el objeto rebota contra la pared y cae al suelo. Cuando te acercas para recogerlo, salta, escapÃ¡ndose de tu mano, y empieza a dar vueltas por el aire, alrededor de tu cabeza, zumbando como si fuera una abeja enfurecida. Luego, mientras te quedas estupefacto, vuela haciendo espirales por tu cuarto y atraviesa el vidrio de la ventana dejando un agujero diminuto.
+Tocas el agujerito que es tan suave como el borde de un vaso. De pronto, recuerdas las chispas que revoloteaban alrededor de tu cabeza. Â¡Has estado dentro de un OVNI!
+Corres hacia la puerta para decÃ­rselo a todos los de tu casa pero te paras en seco y lo piensas mejor. A fin de cuentas, Â¿quiÃ©n sabe si toda tu aventura no ha sido mÃ¡s que un sueÃ±o? Â¿QuiÃ©n lo va a creer?
 Fin
 
 42#
- Ordenas a los U-TY virar y poner rumbo a Alara. El ordenador central se pone en marcha y la nave inicia un lento viraje describiendo un amplio arco en busca de su nuevo rumbo. Y ahora, de pie ante los instrumentos de control, te invade la melancolía. Acabas de condenarte a ti mismo a permanecer treinta y dos años dentro de esta prisión. Este pensamiento se abate sobre ti con un peso insoportable.
- ¿Por qué vas a sacrificarte, para que Incu vuelva a su planeta? ¿por qué no virar nuevamente y poner otra vez rumbo a la Tierra?
- Sin embargo, te preocupa lo que piensen los U-TY si cambias de idea. Por otra parte, tampoco quieres quedarte en el espacio extraterrestre durante años y años. ¡Quieres volver a la Tierra!
+ Ordenas a los U-TY virar y poner rumbo a Alara. El ordenador central se pone en marcha y la nave inicia un lento viraje describiendo un amplio arco en busca de su nuevo rumbo. Y ahora, de pie ante los instrumentos de control, te invade la melancolÃ­a. Acabas de condenarte a ti mismo a permanecer treinta y dos aÃ±os dentro de esta prisiÃ³n. Este pensamiento se abate sobre ti con un peso insoportable.
+ Â¿Por quÃ© vas a sacrificarte, para que Incu vuelva a su planeta? Â¿por quÃ© no virar nuevamente y poner otra vez rumbo a la Tierra?
+ Sin embargo, te preocupa lo que piensen los U-TY si cambias de idea. Por otra parte, tampoco quieres quedarte en el espacio extraterrestre durante aÃ±os y aÃ±os. Â¡Quieres volver a la Tierra!
 #Si decides que lo mejor  es seguir rumbo a Alara:27
 #Si ordenas a los U-TY virar nuevamente y poner rumbo a la Tierra:99
 
 43#
-Cada día que pasa, sientes la alegría de ver cómo la Tierra aumenta de tamaño en la pantalla de control, pero también sientes remordimientos por Incu, que progresivamente se va haciendo más tenue, como si fuera un velo de niebla ante el sol matinal.
- -Ocupen sus puestos para el descenso —avisa el ordenador— Dispónganse para penetrar en la atmósfera terrestre dentro de ocho minutos.
-¡Tienes que indicarles a los U-TY el punto de la Tierra donde deben aterrizar! Blandiendo el ídolo que te confiere el poder, exclamas:
- - Tomad tierra en los Estados Unidos. Solicitad las instrucciones de aterrizaje los canales de la Fuerza Aérea Estadounidense.
- Pero el ordenador responde rápidamente:
- — La última instrucción es errónea. Tú quieres tomar tierra en la Isla de los Dioses.
- ¿Qué ha ocurrido? ¿Por qué desobedece el ordenador? ¿Debes insistir en aterrizar en los Estados Unidos, arriesgándote a tener problemas con el ordenador? Por otra parte, esa “Isla de los Dioses” está en la Tierra y siempre habrá algún modo de llegar a tu casa desde allí, cualquiera que sea el lugar en que se encuentre.
-#Si dejas que el ordenador decida el aterrizaje en la “Isla de los Dioses”:44
+Cada dÃ­a que pasa, sientes la alegrÃ­a de ver cÃ³mo la Tierra aumenta de tamaÃ±o en la pantalla de control, pero tambiÃ©n sientes remordimientos por Incu, que progresivamente se va haciendo mÃ¡s tenue, como si fuera un velo de niebla ante el sol matinal.
+ -Ocupen sus puestos para el descenso â€”avisa el ordenadorâ€” DispÃ³nganse para penetrar en la atmÃ³sfera terrestre dentro de ocho minutos.
+Â¡Tienes que indicarles a los U-TY el punto de la Tierra donde deben aterrizar! Blandiendo el Ã­dolo que te confiere el poder, exclamas:
+ - Tomad tierra en los Estados Unidos. Solicitad las instrucciones de aterrizaje los canales de la Fuerza AÃ©rea Estadounidense.
+ Pero el ordenador responde rÃ¡pidamente:
+ â€” La Ãºltima instrucciÃ³n es errÃ³nea. TÃº quieres tomar tierra en la Isla de los Dioses.
+ Â¿QuÃ© ha ocurrido? Â¿Por quÃ© desobedece el ordenador? Â¿Debes insistir en aterrizar en los Estados Unidos, arriesgÃ¡ndote a tener problemas con el ordenador? Por otra parte, esa â€œIsla de los Diosesâ€ estÃ¡ en la Tierra y siempre habrÃ¡ algÃºn modo de llegar a tu casa desde allÃ­, cualquiera que sea el lugar en que se encuentre.
+#Si dejas que el ordenador decida el aterrizaje en la â€œIsla de los Diosesâ€:44
 #Si insistes en aterrizar en los Estados Unidos:46
 
 44#
-— Rumbo a la Isla de los Dioses.
-El ordenador obedece. Durante la media hora siguiente ves la Tierra pasar por debajo de ti, mientras la nave intergaláctica se desliza suavemente y en silencio perdiendo altura. Cuando aterrizas, sales de la cámara de desaceleración y das instrucciones al ordenador para que abra las escotillas. Un panel se desliza descubriendo una salida al exterior. Sales por la escotilla y pones tus pies en suelo terrestre. Con los ojos semicerrados por la brillante luz del sol contemplas un escenario fantástico y, sin embargo, familiar. Estás en la Isla de Pascua, en el Sur del Pacífico.
- Colocándote de espaldas al fuerte viento, contemplas el melancólico panorama. La árida colina que se eleva ante ti está salpicada de enormes esculturas de piedra de tres a cuatro metros de altura. Todas tienen el mismo perfil que el pequeño ídolo que llevas en tu mano. ¿Por qué habrán venido a aterrizar aquí los U-TY? ¿Será éste el lugar al que ellos llaman la Isla de los Dioses? ¿Qué esperarán hallar aquí?
-Mientras te estás haciendo estas preguntas, habla la voz de los U-TY
+â€” Rumbo a la Isla de los Dioses.
+El ordenador obedece. Durante la media hora siguiente ves la Tierra pasar por debajo de ti, mientras la nave intergalÃ¡ctica se desliza suavemente y en silencio perdiendo altura. Cuando aterrizas, sales de la cÃ¡mara de desaceleraciÃ³n y das instrucciones al ordenador para que abra las escotillas. Un panel se desliza descubriendo una salida al exterior. Sales por la escotilla y pones tus pies en suelo terrestre. Con los ojos semicerrados por la brillante luz del sol contemplas un escenario fantÃ¡stico y, sin embargo, familiar. EstÃ¡s en la Isla de Pascua, en el Sur del PacÃ­fico.
+ ColocÃ¡ndote de espaldas al fuerte viento, contemplas el melancÃ³lico panorama. La Ã¡rida colina que se eleva ante ti estÃ¡ salpicada de enormes esculturas de piedra de tres a cuatro metros de altura. Todas tienen el mismo perfil que el pequeÃ±o Ã­dolo que llevas en tu mano. Â¿Por quÃ© habrÃ¡n venido a aterrizar aquÃ­ los U-TY? Â¿SerÃ¡ Ã©ste el lugar al que ellos llaman la Isla de los Dioses? Â¿QuÃ© esperarÃ¡n hallar aquÃ­?
+Mientras te estÃ¡s haciendo estas preguntas, habla la voz de los U-TY
 
-ESTA ESCRITO EN LA ANTIGUALEY QUE, CUANDO UN HOMBRE MUESTRE EL ÍDOLO ANTE LOS DIOSES DE LOS U-TY, ENTONCES LOS U-TY HALLARAN LA RUTA PARA LLEGAR A ULTIMA, EL PLANETA PARADISIACO.
+ESTA ESCRITO EN LA ANTIGUALEY QUE, CUANDO UN HOMBRE MUESTRE EL ÃDOLO ANTE LOS DIOSES DE LOS U-TY, ENTONCES LOS U-TY HALLARAN LA RUTA PARA LLEGAR A ULTIMA, EL PLANETA PARADISIACO.
 
-—Te cuesta trabajo creer lo que estás oyendo.
-¿Estarás soñando? Sin embargo, esas vacas que pastan en la ladera son reales, lo mismo que ese jeep y ese gran perro blanco con manchas pardas que viene ladrando hacia ti.
- El jeep detiene la marcha, da media vuelta y sale a toda velocidad en dirección contraria, dejando una nube de polvo tras de sí.
+â€”Te cuesta trabajo creer lo que estÃ¡s oyendo.
+Â¿EstarÃ¡s soÃ±ando? Sin embargo, esas vacas que pastan en la ladera son reales, lo mismo que ese jeep y ese gran perro blanco con manchas pardas que viene ladrando hacia ti.
+ El jeep detiene la marcha, da media vuelta y sale a toda velocidad en direcciÃ³n contraria, dejando una nube de polvo tras de sÃ­.
 
- ¿QUE NOS ORDENAS AHORA?
+ Â¿QUE NOS ORDENAS AHORA?
 
- El perro corre carretera abajo con el rabo entre las piernas. Hay un campesino arrodillado y rezando con las manos unidas. Debe estar aterrorizado al ver la enorme nave cósmica que acaba de aterrizar en su isla.
+ El perro corre carretera abajo con el rabo entre las piernas. Hay un campesino arrodillado y rezando con las manos unidas. Debe estar aterrorizado al ver la enorme nave cÃ³smica que acaba de aterrizar en su isla.
  Te separas de la nave espacial y gritas:
- — Volved a vuestro planeta natal. ¡Sólo allá podréis encontrar el camino para llegar a Ultima!
-Casi de inmediato, el gran cilindro blanco se eleva por los aires. Te quedas contemplándolo boquiabierto hasta que desaparece entre las nubes.
- Estás encantado de haber regresado a la Tierra y de tu aventura a bordo del OVNI. Lo único que sientes es no haber cumplido la promesa hecha a Incu.
- Caminando lentamente por la carretera que te lleva de vuelta a la civilización, empiezas a sentirte bastante más viejo de lo que en realidad eres. ¿Será la venganza de Incu?
+ â€” Volved a vuestro planeta natal. Â¡SÃ³lo allÃ¡ podrÃ©is encontrar el camino para llegar a Ultima!
+Casi de inmediato, el gran cilindro blanco se eleva por los aires. Te quedas contemplÃ¡ndolo boquiabierto hasta que desaparece entre las nubes.
+ EstÃ¡s encantado de haber regresado a la Tierra y de tu aventura a bordo del OVNI. Lo Ãºnico que sientes es no haber cumplido la promesa hecha a Incu.
+ Caminando lentamente por la carretera que te lleva de vuelta a la civilizaciÃ³n, empiezas a sentirte bastante mÃ¡s viejo de lo que en realidad eres. Â¿SerÃ¡ la venganza de Incu?
 Fin
 
 46#
-Reiteras a los U- TY que hay que tomar tierra en los Estados Unidos. Entonces la nave cósmica cambia el rumbo, se sale de órbita y comienza a precipitarse hacia el planeta Tierra a una velocidad vertiginosa. ¡Te has quedado pegado contra la pared cóncava de la cámara de desaceleración y te parece que pesas una tonelada! ¡Algo está fallando! ¿Por qué no suenan las sirenas de alarma?
- — ¿Qué es lo que pasa aquí? -le preguntas al ordenador.
+Reiteras a los U- TY que hay que tomar tierra en los Estados Unidos. Entonces la nave cÃ³smica cambia el rumbo, se sale de Ã³rbita y comienza a precipitarse hacia el planeta Tierra a una velocidad vertiginosa. Â¡Te has quedado pegado contra la pared cÃ³ncava de la cÃ¡mara de desaceleraciÃ³n y te parece que pesas una tonelada! Â¡Algo estÃ¡ fallando! Â¿Por quÃ© no suenan las sirenas de alarma?
+ â€” Â¿QuÃ© es lo que pasa aquÃ­? -le preguntas al ordenador.
 - PARADOJA EN LA PROGRAMACION, DECLARACION DE VARIABLES CONTRADICTORIAS.
- En la pantalla ves cómo la Tierra se acerca a toda velocidad hacia vosotros. ¡La nave no puede estar a más de cinco kilómetros de la superficie terrestre!
- — ¡Alto!
+ En la pantalla ves cÃ³mo la Tierra se acerca a toda velocidad hacia vosotros. Â¡La nave no puede estar a mÃ¡s de cinco kilÃ³metros de la superficie terrestre!
+ â€” Â¡Alto!
 Literalmente aplastado por una fuerza gravitatoria fenomenal, apenas si puedes entreabrir los labios para gritar:
- — ¡Regresar a la órbita procedente... poner rumbo a la Isla de los Dioses!
-El ordenador trata de virar para dar cumplimiento a tu orden, pero la violencia de las fuerzas dinámicas que actúan sobre la nave lo hacen también sobre tu organismo y lo estrujan literalmente. La velocidad es de diez kilómetros por segundo. No hay tiempo suficiente para...
-Cuarenta minutos más tarde, un ayudante de campo comunica al Presidente de los Esta-
+ â€” Â¡Regresar a la Ã³rbita procedente... poner rumbo a la Isla de los Dioses!
+El ordenador trata de virar para dar cumplimiento a tu orden, pero la violencia de las fuerzas dinÃ¡micas que actÃºan sobre la nave lo hacen tambiÃ©n sobre tu organismo y lo estrujan literalmente. La velocidad es de diez kilÃ³metros por segundo. No hay tiempo suficiente para...
+Cuarenta minutos mÃ¡s tarde, un ayudante de campo comunica al Presidente de los Esta-
 dos Unidos:
-— Hemos recibido un informe sobre el impacto de un gran meteorito al oeste de Nebraska. Ha dejado un cráter de unos cien metros de diámetro. La explosión sacudió las ventanas a una distancia de más de treinta kilómetros. Afortunadamente, no se han señalado desgracias personales.
+â€” Hemos recibido un informe sobre el impacto de un gran meteorito al oeste de Nebraska. Ha dejado un crÃ¡ter de unos cien metros de diÃ¡metro. La explosiÃ³n sacudiÃ³ las ventanas a una distancia de mÃ¡s de treinta kilÃ³metros. Afortunadamente, no se han seÃ±alado desgracias personales.
 Fin
 
 48#
-— ¡Correré ese riesgo! -dices.
-— Entonces, no hay tiempo que perder –dice Bru—. Ven conmigo.
-Bru te lleva por una serie de estrechos pasadizos llenos de curvas y revueltas. Se detiene ante una puerta que a ti te parece igual que todas las demás.
-— Detrás de esta puerta hay un vehículo espacial auxiliar -dice Bru—. Es el vehículo que ellos emplean para bajar a la Tierra u otros planetas a buscar ejemplares para sus colecciones —explica.
-Bru manipula la cerradura, abre la escotilla; se desliza flotando en el interior del vehículo espacial auxiliar. Tú penetras tras él. Un instante después, estáis oyendo el ronroneo de los motores atómicos seguido de una fuerte corriente de aire.
-— ¡A toda máquina!
-Tienes la impresión de que tu cabeza va a reventar. Transpiras por todo tu cuerpo. La fuerza de empuje de la aceleración sigue incrementándose hasta el límite de lo insoportable. Al cabo de un instante, pierdes el conocimiento.
+â€” Â¡CorrerÃ© ese riesgo! -dices.
+â€” Entonces, no hay tiempo que perder â€“dice Bruâ€”. Ven conmigo.
+Bru te lleva por una serie de estrechos pasadizos llenos de curvas y revueltas. Se detiene ante una puerta que a ti te parece igual que todas las demÃ¡s.
+â€” DetrÃ¡s de esta puerta hay un vehÃ­culo espacial auxiliar -dice Bruâ€”. Es el vehÃ­culo que ellos emplean para bajar a la Tierra u otros planetas a buscar ejemplares para sus colecciones â€”explica.
+Bru manipula la cerradura, abre la escotilla; se desliza flotando en el interior del vehÃ­culo espacial auxiliar. TÃº penetras tras Ã©l. Un instante despuÃ©s, estÃ¡is oyendo el ronroneo de los motores atÃ³micos seguido de una fuerte corriente de aire.
+â€” Â¡A toda mÃ¡quina!
+Tienes la impresiÃ³n de que tu cabeza va a reventar. Transpiras por todo tu cuerpo. La fuerza de empuje de la aceleraciÃ³n sigue incrementÃ¡ndose hasta el lÃ­mite de lo insoportable. Al cabo de un instante, pierdes el conocimiento.
 Te despiertas aturdido y temblando.
-— ¡Estamos en la Tierra! —grita Bru.
-Mirando por la escotilla abierta, ves que el vehículo ha aterrizado en unas dunas arenosas a pocos centenares de metros de la orilla del mar. El aire es tibio y huele a salmuera.
+â€” Â¡Estamos en la Tierra! â€”grita Bru.
+Mirando por la escotilla abierta, ves que el vehÃ­culo ha aterrizado en unas dunas arenosas a pocos centenares de metros de la orilla del mar. El aire es tibio y huele a salmuera.
  Bru estira sus miembros y prueba a caminar la arena.
-—¿Te mueves bien en la gravedad terrestre? -le preguntas.
- A modo de respuesta, Bru se apelotona convirtiéndose en un balón y sube rodando hasta lo alto de una duna. sigues lentamente. temblando todavía de emoción por haber logrado fugarte
-- ¡ Ahí hay un terrícola! -dice Bru, señalando hacia un hombrecito barrigón que está de
-pie a la orilla del mar contemplando el horizonte. Tiene una caña de pescar, a su lado,
+â€”Â¿Te mueves bien en la gravedad terrestre? -le preguntas.
+ A modo de respuesta, Bru se apelotona convirtiÃ©ndose en un balÃ³n y sube rodando hasta lo alto de una duna. sigues lentamente. temblando todavÃ­a de emociÃ³n por haber logrado fugarte
+- Â¡ AhÃ­ hay un terrÃ­cola! -dice Bru, seÃ±alando hacia un hombrecito barrigÃ³n que estÃ¡ de
+pie a la orilla del mar contemplando el horizonte. Tiene una caÃ±a de pescar, a su lado,
 clavada en la arena.
- — Voy a preguntarle dónde estamos -dices.
+ â€” Voy a preguntarle dÃ³nde estamos -dices.
 #Si te llevas a Bru:69
 #Si le dices a Bru que se quede esperando:67
 
 49#
- Le explicas a Bru que todavía no deseas escaparte. Parece defraudado y se aleja flotando por el aire sin responder. Varias horas más tarde, vuelve junto a ti. Su mirada está cargada de tristeza.
- - ¿Cuánto tendremos otra oportunidad de escapar? -preguntas.
- — Ya es demasiado tarde -responde Bru-. Hemos salido de la órbita terrestre y nos estamos alejando fuera del sistema solar. Vamos rumboa la Galaxia 32.9, Planeta 6.3 de la Constelación Omega.
-Vuelves tu mirada hacia el gran ventanal y, a través de las lágrimas, contemplas la negrura del espacio infinito. Acabas de darte cuenta de que nunca jamás podrás volver a tu hogar.
+ Le explicas a Bru que todavÃ­a no deseas escaparte. Parece defraudado y se aleja flotando por el aire sin responder. Varias horas mÃ¡s tarde, vuelve junto a ti. Su mirada estÃ¡ cargada de tristeza.
+ - Â¿CuÃ¡nto tendremos otra oportunidad de escapar? -preguntas.
+ â€” Ya es demasiado tarde -responde Bru-. Hemos salido de la Ã³rbita terrestre y nos estamos alejando fuera del sistema solar. Vamos rumboa la Galaxia 32.9, Planeta 6.3 de la ConstelaciÃ³n Omega.
+Vuelves tu mirada hacia el gran ventanal y, a travÃ©s de las lÃ¡grimas, contemplas la negrura del espacio infinito. Acabas de darte cuenta de que nunca jamÃ¡s podrÃ¡s volver a tu hogar.
 Fin
 
 50#
-El objeto cae en la papelera sin ruido alguno y te olvidas de él.
-Unos días más tarde, hablando con tu amigo Todd Hawkins, éste te pregunta:
- — ¿Viste lo que dijo anoche ese piloto en la tele? El y los miembros de su tripulación juran que hace dos o tres días vieron un vehículo espacial extraterrestre cuando volaban sobre el Atlántico. ¿De verdad?
- - Sí. Dicen que la posición en que lo avistaron era 54 grados de latitud norte y 40 grados de longitud oeste. Por eso, han bautizado ese objeto como el OVNI 54-40. Dicen que en cierto momento pensaron que se les había perdido un pasajero, pero eso resulta imposible puesto que las puertas del avión permanecieron en todo momento cerradas. Al final, llegaron a la conclusión de que debía haber un error en la lista del pasaje.
- Lo que Todd te cuenta te hace pensar en aquel viaje que hiciste una vez a Francia a bordo de un Concorde. Sin embargo, sin que sepas por qué, a pesar de los muchos esfuerzos que haces, te resulta absolutamente imposible recordar qué pasó entonces.
+El objeto cae en la papelera sin ruido alguno y te olvidas de Ã©l.
+Unos dÃ­as mÃ¡s tarde, hablando con tu amigo Todd Hawkins, Ã©ste te pregunta:
+ â€” Â¿Viste lo que dijo anoche ese piloto en la tele? El y los miembros de su tripulaciÃ³n juran que hace dos o tres dÃ­as vieron un vehÃ­culo espacial extraterrestre cuando volaban sobre el AtlÃ¡ntico. Â¿De verdad?
+ - SÃ­. Dicen que la posiciÃ³n en que lo avistaron era 54 grados de latitud norte y 40 grados de longitud oeste. Por eso, han bautizado ese objeto como el OVNI 54-40. Dicen que en cierto momento pensaron que se les habÃ­a perdido un pasajero, pero eso resulta imposible puesto que las puertas del aviÃ³n permanecieron en todo momento cerradas. Al final, llegaron a la conclusiÃ³n de que debÃ­a haber un error en la lista del pasaje.
+ Lo que Todd te cuenta te hace pensar en aquel viaje que hiciste una vez a Francia a bordo de un Concorde. Sin embargo, sin que sepas por quÃ©, a pesar de los muchos esfuerzos que haces, te resulta absolutamente imposible recordar quÃ© pasÃ³ entonces.
 Fin
 
 51#
-En la cámara de inversión temporal lo pasa uno estupendamente. Hay un montón de cosas para aprender y para entretenerse: juegos, pantallas de vídeo, ordenadores... Sin embargo, el niño se va haciendo cada día más pequeño. Desde que cumplió los cuatro meses, no sabe hablar: ni su boca ni sus cuerdas vocales tienen el desarrollo adecuado. Durante un cierto tiempo, sólo gesticula para expresarse. Luego, se limita a agitar sus pequeños miembros de recién nacido.
- Un día, llegan los robots de los U-TY y lo meten en una caja con paredes de vidrio. Es una incubadora y te das cuenta de que ese niño no ha nacido ya. Necesita la protección especial que hubiera tenido en el vientre materno.
-Durante nueve meses, el niño se hace cada día más pequeño, hasta que un día los robots se llevan la incubadora vacía.
- ¿Qué habrá sido del pequeño? ¿Estará creciendo de nuevo en otro universo? Y si es así, ¿será él mismo o será alguien distinto?
-Ahora estás absolutamente solo y sabes que cada día te haces más joven y más pequeño, Llegará el día en que tampoco tú hayas nacido. Entonces ya no existirás. Tu única esperanza está en que, en algún momento del pasado, vuelvas a morir y así tu vida comience de nuevo.
+En la cÃ¡mara de inversiÃ³n temporal lo pasa uno estupendamente. Hay un montÃ³n de cosas para aprender y para entretenerse: juegos, pantallas de vÃ­deo, ordenadores... Sin embargo, el niÃ±o se va haciendo cada dÃ­a mÃ¡s pequeÃ±o. Desde que cumpliÃ³ los cuatro meses, no sabe hablar: ni su boca ni sus cuerdas vocales tienen el desarrollo adecuado. Durante un cierto tiempo, sÃ³lo gesticula para expresarse. Luego, se limita a agitar sus pequeÃ±os miembros de reciÃ©n nacido.
+ Un dÃ­a, llegan los robots de los U-TY y lo meten en una caja con paredes de vidrio. Es una incubadora y te das cuenta de que ese niÃ±o no ha nacido ya. Necesita la protecciÃ³n especial que hubiera tenido en el vientre materno.
+Durante nueve meses, el niÃ±o se hace cada dÃ­a mÃ¡s pequeÃ±o, hasta que un dÃ­a los robots se llevan la incubadora vacÃ­a.
+ Â¿QuÃ© habrÃ¡ sido del pequeÃ±o? Â¿EstarÃ¡ creciendo de nuevo en otro universo? Y si es asÃ­, Â¿serÃ¡ Ã©l mismo o serÃ¡ alguien distinto?
+Ahora estÃ¡s absolutamente solo y sabes que cada dÃ­a te haces mÃ¡s joven y mÃ¡s pequeÃ±o, LlegarÃ¡ el dÃ­a en que tampoco tÃº hayas nacido. Entonces ya no existirÃ¡s. Tu Ãºnica esperanza estÃ¡ en que, en algÃºn momento del pasado, vuelvas a morir y asÃ­ tu vida comience de nuevo.
 Fin
 
 52#
- — Me arriesgaré -dices—. Trataré de controlar mis pensamientos.
- - Entonces te deseo buena suerte. Sígueme.
- Kally te guía a través de un laberinto de corredores. Por fin, llegáis a un lugar tan oscuro que apenas distingues dónde estás. En ese momento sientes sobre tus hombros los tentáculos de Kally.
+ â€” Me arriesgarÃ© -dicesâ€”. TratarÃ© de controlar mis pensamientos.
+ - Entonces te deseo buena suerte. SÃ­gueme.
+ Kally te guÃ­a a travÃ©s de un laberinto de corredores. Por fin, llegÃ¡is a un lugar tan oscuro que apenas distingues dÃ³nde estÃ¡s. En ese momento sientes sobre tus hombros los tentÃ¡culos de Kally.
  - Ahora tienes que seguir solo -dice.
- Le das las gracias por su ayuda y te despides. Luego avanzas a tientas por un corredor hasta llegar a una cámara redonda iluminada por una suave luz violeta. Tus ojos se quedan clavados en tres objetos redondos que flotan en el aire despidiendo un tenue resplandor morado pálido, como si fueran tres lunas flotando en el espacio. Te quedas quieto, casi hipnotizado por esta visión, y entonces escuchas las voces que resuenan dentro de tu cerebro:
+ Le das las gracias por su ayuda y te despides. Luego avanzas a tientas por un corredor hasta llegar a una cÃ¡mara redonda iluminada por una suave luz violeta. Tus ojos se quedan clavados en tres objetos redondos que flotan en el aire despidiendo un tenue resplandor morado pÃ¡lido, como si fueran tres lunas flotando en el espacio. Te quedas quieto, casi hipnotizado por esta visiÃ³n, y entonces escuchas las voces que resuenan dentro de tu cerebro:
 
-MAÑANA SALDREMOS PARA SIEM PRE DE LA ORBITA TERRESTRE.
+MAÃ‘ANA SALDREMOS PARA SIEM PRE DE LA ORBITA TERRESTRE.
 PERO ANTES VAMOS A TOMAR ALGUNOS TESOROS DEL MUSEO METROPOLITANO DE ARTE. SI NO DESEAS ESCAPARTE Y QUIERES AYUDARNOS A HALLAR ULTIMA, LLEGARAS A OCUPAR UN LUGAR DE HONOR ENTRE NOSOTROS.
 
-Haces una inspiración profunda, llenando de aire tus pulmones antes de contestar:
- — Estoy dispuesto a ayudaros. No deseo escapar.
+Haces una inspiraciÃ³n profunda, llenando de aire tus pulmones antes de contestar:
+ â€” Estoy dispuesto a ayudaros. No deseo escapar.
 
 MUY BIEN. CUANDO SEAN LAS DOCE DE LA NOCHE, HORA DE NUEVAYORK, TOMAREMOS TIERRA EN LA PARTE TRASERA DEL MUSEO METROPOLITANO DE ARTE. 
 ABRIREMOS UNA DE LAS ENTRADAS. 
 NUESTROS ROBOTS TOMARAN LOSTESOROS ARTISTICOS, LOS GUARDAS NO CREERAN
 LO QUE VEAN, PORQUE PENSARAN QUE ESO ES IMPOSIBLE. 
-TÚ SI ERES POSIBLE, PORQUE ERES UN TERRICOLA Y, CUANDO TE VEAN, CREERAN QUE ERES REAL. NUESTROS ROBOTS RESCATARAN CUANDO ESTEMOS L!STOS PARA PARTIR.
+TÃš SI ERES POSIBLE, PORQUE ERES UN TERRICOLA Y, CUANDO TE VEAN, CREERAN QUE ERES REAL. NUESTROS ROBOTS RESCATARAN CUANDO ESTEMOS L!STOS PARA PARTIR.
 
-Los U-TY se elevan al unos decímetros en el aire, y flotan hacia ti. Por un momento, te quedas rígido de miedo. Entonces comprendes que lo único que quieren es palparte. Levantas las manos y sientes una sensación de hormigueo cuando las formas centelleantes te rozan la piel Después atraviesan las paredes de la cámara y desaparecen.
-Los U-TY acaban de comunicarte su plan para robar los tesoros artísticos del Museo Metropolitano de Arte. Has fingido estar de acuerdo con ellos y prestarles tu ayuda: pero fíjate bien que ¡ellos pueden leer tus pensamientos! Mientras estabas con ellos ¿ lograste no pensar, ni siquiera una vez, en tu plan de fuga?
-#Si te resultó imposible no pensar en la fuga:87
+Los U-TY se elevan al unos decÃ­metros en el aire, y flotan hacia ti. Por un momento, te quedas rÃ­gido de miedo. Entonces comprendes que lo Ãºnico que quieren es palparte. Levantas las manos y sientes una sensaciÃ³n de hormigueo cuando las formas centelleantes te rozan la piel DespuÃ©s atraviesan las paredes de la cÃ¡mara y desaparecen.
+Los U-TY acaban de comunicarte su plan para robar los tesoros artÃ­sticos del Museo Metropolitano de Arte. Has fingido estar de acuerdo con ellos y prestarles tu ayuda: pero fÃ­jate bien que Â¡ellos pueden leer tus pensamientos! Mientras estabas con ellos Â¿ lograste no pensar, ni siquiera una vez, en tu plan de fuga?
+#Si te resultÃ³ imposible no pensar en la fuga:87
 #Si evitaste pensar en la fuga:85
 
 57#
-El capitán llama por radio a la Guardia Costera. Tal como había pronosticado, sus interlocutores se ríen de su relato acerca del hallazgo de un extraterrestre.
-— No importa —os dice el capitán a Mopo y a ti-. Dentro de dos días llegaremos al puerto y ¡ya veremos lo que dicen entonces!
- A la mañana siguiente, Mopo y el capitán están en el puente. Con los brazos apoyados sobre la barandilla, el capitán otea el horizonte con sus prismáticos.
- — Si mejorara el tiempo y se levantara la niebla, podríamos ver Mount Rainier desde aquí -dice.
+El capitÃ¡n llama por radio a la Guardia Costera. Tal como habÃ­a pronosticado, sus interlocutores se rÃ­en de su relato acerca del hallazgo de un extraterrestre.
+â€” No importa â€”os dice el capitÃ¡n a Mopo y a ti-. Dentro de dos dÃ­as llegaremos al puerto y Â¡ya veremos lo que dicen entonces!
+ A la maÃ±ana siguiente, Mopo y el capitÃ¡n estÃ¡n en el puente. Con los brazos apoyados sobre la barandilla, el capitÃ¡n otea el horizonte con sus prismÃ¡ticos.
+ â€” Si mejorara el tiempo y se levantara la niebla, podrÃ­amos ver Mount Rainier desde aquÃ­ -dice.
 De pronto, uno de los marineros grita desde la cubierta de popa:
-— Un submarino emerge por la banda de babor... La bandera es... 
-— ¡Los rusos! —exclama el capitán.
-— Quizás interceptaron el mensaje que envió a la Guardia Costera -dices alarmado.
+â€” Un submarino emerge por la banda de babor... La bandera es... 
+â€” Â¡Los rusos! â€”exclama el capitÃ¡n.
+â€” QuizÃ¡s interceptaron el mensaje que enviÃ³ a la Guardia Costera -dices alarmado.
 Mopo observa sin comprender nada de lo que ocurre.
- — Eso mismo me parece a mí —responde el capitán señalando a babor—. Parece que quieren atracar a nuestro costado. ¡Y nos abordan!
-—¡No les permita que se lleven a Mopo! —exclamas.
- — No os preocupéis -dice Mopo-. Yo sé lo que tengo que hacer. Me voy con esta gente
-que llamáis rusos.
- — iNo, no hagas eso! -dices…
- — Me parece haberte oído decir que podía confiar en los seres humanos -dice Mopo.
- — Sí, pero es que los rusos podrían tratar de utilizarte contra mi patria -dice el capitán.
- — Y si me quedo en la vuestra. los rusos podrían pensar que vosotros vais a utilizarme
-contra ellos, ¿no es así?
-— Pero nosotros sólo te pediríamos que nos ayudases a defender la causa de la paz -dices.
-— Eso es exactamente lo mismo que dirían ellos -concluye Mopo—. Pero, digan me uste-
-Das una cosa: ¿Creen que estoy a favor de la paz?
-— Por supuesto —respondes. El capitán también hace un gesto afirmativo.
+ â€” Eso mismo me parece a mÃ­ â€”responde el capitÃ¡n seÃ±alando a baborâ€”. Parece que quieren atracar a nuestro costado. Â¡Y nos abordan!
+â€”Â¡No les permita que se lleven a Mopo! â€”exclamas.
+ â€” No os preocupÃ©is -dice Mopo-. Yo sÃ© lo que tengo que hacer. Me voy con esta gente
+que llamÃ¡is rusos.
+ â€” iNo, no hagas eso! -dicesâ€¦
+ â€” Me parece haberte oÃ­do decir que podÃ­a confiar en los seres humanos -dice Mopo.
+ â€” SÃ­, pero es que los rusos podrÃ­an tratar de utilizarte contra mi patria -dice el capitÃ¡n.
+ â€” Y si me quedo en la vuestra. los rusos podrÃ­an pensar que vosotros vais a utilizarme
+contra ellos, Â¿no es asÃ­?
+â€” Pero nosotros sÃ³lo te pedirÃ­amos que nos ayudases a defender la causa de la paz -dices.
+â€” Eso es exactamente lo mismo que dirÃ­an ellos -concluye Mopoâ€”. Pero, digan me uste-
+Das una cosa: Â¿Creen que estoy a favor de la paz?
+â€” Por supuesto â€”respondes. El capitÃ¡n tambiÃ©n hace un gesto afirmativo.
 - Entonces puedo ser tan beneficioso en manos de los rusos, como en las vuestras. Si
-me niego a ir con ellos vosotros no podéis ofenderos, no olvidéis que este barco es de
-pesca. Se me llevarían a la fuerza y vosotros saldríais perjudicados. Lo importante es el objetivo común: la paz. Ahora me voy con ellos, ya intentaré dentro de unas semanas comunicarme con vosotros y gracias por todo. Espero que los rusos sean igual de amables que vosotros.
- El submarino soviético, mientras tanto, ha atracado al costado del pesquero. Ni tú ni el
-capitán podéis cambiar la decisión tomada por Mopo. Después de unos minutos, el sub-
-marino se sumerge llevándose a Mopo consigo. Vosotros os quedáis junto a la barandilla,
+me niego a ir con ellos vosotros no podÃ©is ofenderos, no olvidÃ©is que este barco es de
+pesca. Se me llevarÃ­an a la fuerza y vosotros saldrÃ­ais perjudicados. Lo importante es el objetivo comÃºn: la paz. Ahora me voy con ellos, ya intentarÃ© dentro de unas semanas comunicarme con vosotros y gracias por todo. Espero que los rusos sean igual de amables que vosotros.
+ El submarino soviÃ©tico, mientras tanto, ha atracado al costado del pesquero. Ni tÃº ni el
+capitÃ¡n podÃ©is cambiar la decisiÃ³n tomada por Mopo. DespuÃ©s de unos minutos, el sub-
+marino se sumerge llevÃ¡ndose a Mopo consigo. Vosotros os quedÃ¡is junto a la barandilla,
 mirando hacia el mar.
- La decisión de Mopo te ha dejado pensativo. Cualquiera diría que se ha pasado al otro bando pero, por otra parte, piensas que quizás Mopo comprenda las cosas de la Tierra bastante mejor que tú.
+ La decisiÃ³n de Mopo te ha dejado pensativo. Cualquiera dirÃ­a que se ha pasado al otro bando pero, por otra parte, piensas que quizÃ¡s Mopo comprenda las cosas de la Tierra bastante mejor que tÃº.
 Fin
 
 58#
-El capitán accede a no informar por radio.
-Dos días después, el barco llega al puerto de Seattle. El capitán y tú os reunís con Mopo.
-— Mientras fui prisionero de los U-TY, aprendí muchas cosas acerca de vuestro país —dice Mopo-—. Tengo que hablar con el Presidente de los Estados Unidos lo antes posible. Uno de vuestros científicos más notables, el doctor Hubert Shomsky, es un experto en las formas de vida extraterrestre. Estoy seguro de que podré convencerlo fácilmente de que soy de otro planeta. El se encargará de organizar mi audiencia con el presidente.
-El capitán consigue ponerse en contacto por teléfono con el doctor Shomsky, quien accede a hablar con el presidente. Pocas horas después, Mopo, el capitán y tú vais camino de la Base McChord de la Fuerza Aérea, en una caravana de automóviles con una fuerte escolta de seguridad. Allí os aguarda un avión especial que os lleva a Washington. Cinco horas más tarde, Mopo y tú sois recibidos en audiencia presidencial. El doctor Shomsky y otros científicos esperan veros más tarde. Después en un programa especial dirigido a toda  nación por los diversos canales de todas las cadenas de televisión, el presidente informa a la población acerca del OVNI 54-40 y relata tu evasión y la de Mopo de quien habla con entusiasmo explicando lo mucho que le ha enseñado el primer habitante del espacio exterior que ha visitado oficialmente la Tierra.
- Mopo llega a ser uno de los principales consejeros de los gobernantes de la nación y, durante los años siguientes, su obra y su sabiduría influyen decisivamente en el establecimiento de una paz duradera.
+El capitÃ¡n accede a no informar por radio.
+Dos dÃ­as despuÃ©s, el barco llega al puerto de Seattle. El capitÃ¡n y tÃº os reunÃ­s con Mopo.
+â€” Mientras fui prisionero de los U-TY, aprendÃ­ muchas cosas acerca de vuestro paÃ­s â€”dice Mopo-â€”. Tengo que hablar con el Presidente de los Estados Unidos lo antes posible. Uno de vuestros cientÃ­ficos mÃ¡s notables, el doctor Hubert Shomsky, es un experto en las formas de vida extraterrestre. Estoy seguro de que podrÃ© convencerlo fÃ¡cilmente de que soy de otro planeta. El se encargarÃ¡ de organizar mi audiencia con el presidente.
+El capitÃ¡n consigue ponerse en contacto por telÃ©fono con el doctor Shomsky, quien accede a hablar con el presidente. Pocas horas despuÃ©s, Mopo, el capitÃ¡n y tÃº vais camino de la Base McChord de la Fuerza AÃ©rea, en una caravana de automÃ³viles con una fuerte escolta de seguridad. AllÃ­ os aguarda un aviÃ³n especial que os lleva a Washington. Cinco horas mÃ¡s tarde, Mopo y tÃº sois recibidos en audiencia presidencial. El doctor Shomsky y otros cientÃ­ficos esperan veros mÃ¡s tarde. DespuÃ©s en un programa especial dirigido a toda  naciÃ³n por los diversos canales de todas las cadenas de televisiÃ³n, el presidente informa a la poblaciÃ³n acerca del OVNI 54-40 y relata tu evasiÃ³n y la de Mopo de quien habla con entusiasmo explicando lo mucho que le ha enseÃ±ado el primer habitante del espacio exterior que ha visitado oficialmente la Tierra.
+ Mopo llega a ser uno de los principales consejeros de los gobernantes de la naciÃ³n y, durante los aÃ±os siguientes, su obra y su sabidurÃ­a influyen decisivamente en el establecimiento de una paz duradera.
 Fin
 
 61#
- — Es verdad. Tenemos tiempo. Esperaré.
- Te vuelves para mirar a los demás y tu mirada se encuentra con la de un joven de tu misma edad poco más o menos, que te lleva aparte.
-— Fíjate en esta pared -dice-. He averiguado que se puede abrir y que conduce a la Cámara de los Argonis. Son unos cautivos procedentes de uno de los planetas de la estrella Denébola. ¡Si pudiéramos llegar a los Argonis, probablemente nos ayudaran a escapar!
+ â€” Es verdad. Tenemos tiempo. EsperarÃ©.
+ Te vuelves para mirar a los demÃ¡s y tu mirada se encuentra con la de un joven de tu misma edad poco mÃ¡s o menos, que te lleva aparte.
+â€” FÃ­jate en esta pared -dice-. He averiguado que se puede abrir y que conduce a la CÃ¡mara de los Argonis. Son unos cautivos procedentes de uno de los planetas de la estrella DenÃ©bola. Â¡Si pudiÃ©ramos llegar a los Argonis, probablemente nos ayudaran a escapar!
  Das unos golpecitos en la pared. No sucede nada. Vuelves agolpear, ahora con fuerza. De pronto, la pared se volatiliza ante vuestros ojos y aparece la entrada de un pasadizo semicircular y aparentemente bastante largo. El joven se adelante y entra.
-Le sigues con ciertas precauciones. Al mirar atrás, compruebas que la pared ha vuelto a cerrarse a vuestras espaldas. Avanzáis por el pasadizo. La luz aumenta de intensidad. Ahora podéis ver con claridad todo lo que hay a vuestro alrededor, Habéis llegado a una cámara abarrotada de unas criaturas peludas que parecen gigantescas tarántulas.
- — ¡Auxilio! — grita tu joven amigo volviéndose hacia ti. Pero ya uno de los monstruos, lanzándose hacia adelante con la velocidad de un relámpago, lo tiene atrapado. Horrorizado contemplas cómo se lo traga de un solo bocado. Se oye un grito y te lanzas a la huida, pero la siguiente víctima ¡eres tú!
+Le sigues con ciertas precauciones. Al mirar atrÃ¡s, compruebas que la pared ha vuelto a cerrarse a vuestras espaldas. AvanzÃ¡is por el pasadizo. La luz aumenta de intensidad. Ahora podÃ©is ver con claridad todo lo que hay a vuestro alrededor, HabÃ©is llegado a una cÃ¡mara abarrotada de unas criaturas peludas que parecen gigantescas tarÃ¡ntulas.
+ â€” Â¡Auxilio! â€” grita tu joven amigo volviÃ©ndose hacia ti. Pero ya uno de los monstruos, lanzÃ¡ndose hacia adelante con la velocidad de un relÃ¡mpago, lo tiene atrapado. Horrorizado contemplas cÃ³mo se lo traga de un solo bocado. Se oye un grito y te lanzas a la huida, pero la siguiente vÃ­ctima Â¡eres tÃº!
 Fin
 
 63#
-No es nada fácil hacerse el loco. Te pones a galopar dando vueltas alrededor de la cámara y vociferas:
- — ¡Soy Napoleón! ¡Soy Napoleón!
+No es nada fÃ¡cil hacerse el loco. Te pones a galopar dando vueltas alrededor de la cÃ¡mara y vociferas:
+ â€” Â¡Soy NapoleÃ³n! Â¡Soy NapoleÃ³n!
  No ocurre nada. Hay que seguir adelante con la comedia.
-— ¡Soy Napoleón! ¡Soy Napoleón!
-Te vas quedando ronco tanto gritar y te duele la cabeza. Empiezas a darte cuenta de que quizás estés volviéndote loco. De pronto, tu mente se queda en blanco. Has perdido el conocimiento.
-Estás tendido en un cuartito pequeño. Todo lo sucedido anteriormente parece haber quedado muy atrás. Debes estar flotando en el espacio porque sientes como si no pesaras nada. Una dulce voz empieza a susurrar dentro de tu cráneo:
+â€” Â¡Soy NapoleÃ³n! Â¡Soy NapoleÃ³n!
+Te vas quedando ronco tanto gritar y te duele la cabeza. Empiezas a darte cuenta de que quizÃ¡s estÃ©s volviÃ©ndote loco. De pronto, tu mente se queda en blanco. Has perdido el conocimiento.
+EstÃ¡s tendido en un cuartito pequeÃ±o. Todo lo sucedido anteriormente parece haber quedado muy atrÃ¡s. Debes estar flotando en el espacio porque sientes como si no pesaras nada. Una dulce voz empieza a susurrar dentro de tu crÃ¡neo:
 
 TU COMPORTAMIENTOHA SIDO MUY EXTRANO.
 TE HEMOS DADO UNA SUSTANCIA PARA PROPORCIONARTE LA CALMA Y LA TRANQUILIDAD. 
@@ -561,257 +561,257 @@ VAMOS A TENER QUE ESTUDIARTE DETENIDAMENTE..EN LOS LABORATORIOS DE LOS U-TY
 Fin
 
 64#
- — Prefiero no esperar —respondes—. Quiero saber ahora mismo toda la verdad.
- — Muy bien —Los U-TY nos han enseñado a hablar mediante ondas de pensamiento, pero de todas maneras nunca llegaremos a comprender ni la décima parte de lo que ellos saben. Lo que quieren es encontrarla ruta para ir a Ultima, el planeta paradisiaco, pero parece que finalmente han desistido y se disponen a partir de regreso a su planeta natal, a centenares de años luz. ¿Existe realmente ese planeta?
- — Sí, existe de verdad -responde Angus-.Pero los U-TY no lo han hallado todavía porque no hay medio de llegar a Ultima eligiendo caminos ni cumpliendo instrucciones.
- — ¿Cree usted que existe alguna posibilidad de que yo regrese a mi hogar?
- — ¡Ojalá lo supiera! Lo único que puedo decirte es que, con los U-TY, es inútil argumentar, los cautivos que estamos aquí lo hemos intentado todo. Únicamente, como una remota posibilidad, quién sabe si fingiendo alguna forma de locura... no sé. A lo mejor podrían pensar que no les sirves para su jardín zoológico y te dejan ir; pero te advierto que con los U-TYno hay manera de estar seguro: sus reacciones son impredecibles.
- ¿Hacerse el loco? A lo mejor resulta, pero los extraterrestres se comunican por ondas de
-pensamiento. Están muy avanzados. ¿Qué harán contigo si se dan cuenta del truco?
+ â€” Prefiero no esperar â€”respondesâ€”. Quiero saber ahora mismo toda la verdad.
+ â€” Muy bien â€”Los U-TY nos han enseÃ±ado a hablar mediante ondas de pensamiento, pero de todas maneras nunca llegaremos a comprender ni la dÃ©cima parte de lo que ellos saben. Lo que quieren es encontrarla ruta para ir a Ultima, el planeta paradisiaco, pero parece que finalmente han desistido y se disponen a partir de regreso a su planeta natal, a centenares de aÃ±os luz. Â¿Existe realmente ese planeta?
+ â€” SÃ­, existe de verdad -responde Angus-.Pero los U-TY no lo han hallado todavÃ­a porque no hay medio de llegar a Ultima eligiendo caminos ni cumpliendo instrucciones.
+ â€” Â¿Cree usted que existe alguna posibilidad de que yo regrese a mi hogar?
+ â€” Â¡OjalÃ¡ lo supiera! Lo Ãºnico que puedo decirte es que, con los U-TY, es inÃºtil argumentar, los cautivos que estamos aquÃ­ lo hemos intentado todo. Ãšnicamente, como una remota posibilidad, quiÃ©n sabe si fingiendo alguna forma de locura... no sÃ©. A lo mejor podrÃ­an pensar que no les sirves para su jardÃ­n zoolÃ³gico y te dejan ir; pero te advierto que con los U-TYno hay manera de estar seguro: sus reacciones son impredecibles.
+ Â¿Hacerse el loco? A lo mejor resulta, pero los extraterrestres se comunican por ondas de
+pensamiento. EstÃ¡n muy avanzados. Â¿QuÃ© harÃ¡n contigo si se dan cuenta del truco?
 #Si decides fingir locura:63
 #Si comprendes que no debes hacer eso:107
 
 65#
-— Ya entiendo lo que quieres decir —respondes—. No creo que pueda dejar de pensar en mi huida.
- Te separas de Kally y continúas explorando la nave. Al parecer, hay centenares de cámaras y de pasillos. Cada día exploras una zona diferente, pero nunca sabes si vuelves al mismo sitio. Es algo así como moverse dentro de un laberinto cuya forma cambia constantemente, como si alguien cerrase unos pasillos y dejase otros abiertos.
- Por fin decides que es más seguro no enfrentarse con los U-TY. Si cooperas con ellos, puede que no te envíen a Somo. 
-Las semanas siguientes las pasas viendo programas de vídeo, hologramas y algunos artefactos que están a disposición de los cautivos. Compruebas que los U-TY llevan cerca de 1400 años observando la vida de la Tierra.
-En sus archivos hay respuestas a muchos de los misterios que los habitantes de la Tierra no han podido resolver aún.
-Un día entras por casualidad en una amplia cámara de paredes cóncavas y pulidas. Flotando en el aire hay tres formas de color violeta pálido. Unos rayos de luz parpadeantes, de color rojo brillante, se mueven a su alrededor como pequeños relámpagos. Por un instante, tienes la impresión de que te están hablando.,
+â€” Ya entiendo lo que quieres decir â€”respondesâ€”. No creo que pueda dejar de pensar en mi huida.
+ Te separas de Kally y continÃºas explorando la nave. Al parecer, hay centenares de cÃ¡maras y de pasillos. Cada dÃ­a exploras una zona diferente, pero nunca sabes si vuelves al mismo sitio. Es algo asÃ­ como moverse dentro de un laberinto cuya forma cambia constantemente, como si alguien cerrase unos pasillos y dejase otros abiertos.
+ Por fin decides que es mÃ¡s seguro no enfrentarse con los U-TY. Si cooperas con ellos, puede que no te envÃ­en a Somo. 
+Las semanas siguientes las pasas viendo programas de vÃ­deo, hologramas y algunos artefactos que estÃ¡n a disposiciÃ³n de los cautivos. Compruebas que los U-TY llevan cerca de 1400 aÃ±os observando la vida de la Tierra.
+En sus archivos hay respuestas a muchos de los misterios que los habitantes de la Tierra no han podido resolver aÃºn.
+Un dÃ­a entras por casualidad en una amplia cÃ¡mara de paredes cÃ³ncavas y pulidas. Flotando en el aire hay tres formas de color violeta pÃ¡lido. Unos rayos de luz parpadeantes, de color rojo brillante, se mueven a su alrededor como pequeÃ±os relÃ¡mpagos. Por un instante, tienes la impresiÃ³n de que te estÃ¡n hablando.,
 
 HEMOS ESTADO OBSERVANDOTE.
-DENTRO DE Tl HAY UN CARÁCTER MUY FUERTE,TAN FUERTE QUE  RESULTAS PELIGROSO.
+DENTRO DE Tl HAY UN CARÃCTER MUY FUERTE,TAN FUERTE QUE  RESULTAS PELIGROSO.
 LA LEY ES LA LEY.
 LOS QUE OBEDEZCAN A  U-TY VIVIRAN EN EL JARDIN ZOOLOGICO IMPERIAL DEL PLANETA
- RA; LOS QUE SE RESISTAN SERAN ENVIADOS A SOMO., DONDE PERMANECERAN DURMIENDO DURANTE MIL MILLONES DE AÑOS. 
-¿QUE DESTINO PREFIERES?
-Tratas de hallar una respuesta lógica, para que ro te lleven ni a Somo ni al Zoológico.
-#Si contestas “No es justo separarme de mi hogar y de los míos, Les ruego que me devuelvan a la Tierra”:93
-#Si contestas “No pienso obedecerles ni resistirme. Así pues, no pueden mandarme ni a Somo ni al zoológico”:115
+ RA; LOS QUE SE RESISTAN SERAN ENVIADOS A SOMO., DONDE PERMANECERAN DURMIENDO DURANTE MIL MILLONES DE AÃ‘OS. 
+Â¿QUE DESTINO PREFIERES?
+Tratas de hallar una respuesta lÃ³gica, para que ro te lleven ni a Somo ni al ZoolÃ³gico.
+#Si contestas â€œNo es justo separarme de mi hogar y de los mÃ­os, Les ruego que me devuelvan a la Tierraâ€:93
+#Si contestas â€œNo pienso obedecerles ni resistirme. AsÃ­ pues, no pueden mandarme ni a Somo ni al zoolÃ³gicoâ€:115
 
 67#
  Bru se queda escondido mientras caminas hacia la orilla.
- Cuando le dices al pescador lo que te ha ocurrido, te mira como si estuvieras loco. Vas a preguntarle el camino a la ciudad más cercana, cuando oyes un disparo y, luego, otro más. Elevas la mirada y ves a Bru flotando sobre tu cabeza como si fuera un globo. ¡Siguen disparando! Ahora ves a dos hombres que vienen en un jeep por la playa. Uno de ellos abre fuego contra Bru.
-— ¡Alto! ¡No disparen! -gritas.
-Pero Bru ya está fuera de su alcance, perdido en el horizonte.
+ Cuando le dices al pescador lo que te ha ocurrido, te mira como si estuvieras loco. Vas a preguntarle el camino a la ciudad mÃ¡s cercana, cuando oyes un disparo y, luego, otro mÃ¡s. Elevas la mirada y ves a Bru flotando sobre tu cabeza como si fuera un globo. Â¡Siguen disparando! Ahora ves a dos hombres que vienen en un jeep por la playa. Uno de ellos abre fuego contra Bru.
+â€” Â¡Alto! Â¡No disparen! -gritas.
+Pero Bru ya estÃ¡ fuera de su alcance, perdido en el horizonte.
 Un hombre fornido salta del jeep a tierra.
-— ¡Oigan! ¿No vieron una cosa como una pelota grande que venía volando por aquí? –y señala hacia el mar.
-— ¡Es algo increíble! —exclama el conductor.
-Vas a hablar pero el pescador se interpone entre el jeep y tú.
- — No tengo ni idea de lo que puede haber sido eso, pero ojalá le hubieran metido un balazo -dice.
-Te alegras de que Bru haya escapado, pero ¿qué va a ser de él? ¿Adónde irá? ¿Qué pensará de la gente de la Tierra, después de esto? Desearías que supiese que en la Tierra hay millones y millones de buenas personas.
+â€” Â¡Oigan! Â¿No vieron una cosa como una pelota grande que venÃ­a volando por aquÃ­? â€“y seÃ±ala hacia el mar.
+â€” Â¡Es algo increÃ­ble! â€”exclama el conductor.
+Vas a hablar pero el pescador se interpone entre el jeep y tÃº.
+ â€” No tengo ni idea de lo que puede haber sido eso, pero ojalÃ¡ le hubieran metido un balazo -dice.
+Te alegras de que Bru haya escapado, pero Â¿quÃ© va a ser de Ã©l? Â¿AdÃ³nde irÃ¡? Â¿QuÃ© pensarÃ¡ de la gente de la Tierra, despuÃ©s de esto? DesearÃ­as que supiese que en la Tierra hay millones y millones de buenas personas.
 Fin
 
 69#
-Te deslizas duna abajo. Bru viene rodando detrás de ti.
-— ¡Eh, oiga! -llamas.
-El pescador se os queda mirando. Luego da un paso atrás y está a punto de perder el equilibrio.
-— ¿Puede decirme dónde estamos?
-— ¿Qué es eso? -dice el pescador, señalando a Bru.
-— Es mi amigo Bru. Viene de otro planeta.
+Te deslizas duna abajo. Bru viene rodando detrÃ¡s de ti.
+â€” Â¡Eh, oiga! -llamas.
+El pescador se os queda mirando. Luego da un paso atrÃ¡s y estÃ¡ a punto de perder el equilibrio.
+â€” Â¿Puede decirme dÃ³nde estamos?
+â€” Â¿QuÃ© es eso? -dice el pescador, seÃ±alando a Bru.
+â€” Es mi amigo Bru. Viene de otro planeta.
 El pescador vuelve a acercarse.
-— Debo estar soñando. Es la cosa más rara que he visto en mi vida.
-— ¿Dónde estamos? —vuelves a preguntar.
- —En Nags Head, en Carolina del Norte. Yo me llamo Buck Coleman.
-— ¿Puede usted informarme si hay algún modo de que me lleven a la Casa Blanca? — pregunta Bru—. Podría ser importante para el futuro de los Estados Unidos -añade.
-— Es un viaje largo, pero una cosa así no ocurre todos los días -dice Coleman-—. Esperen un minuto que voy a llamar por teléfono. Hay una cabina al otro lado de la carretera. No se vayan.
-— Me parece que yo también debería llamar a mi casa -le dices a Bru-—. Enseguida estaremos de vuelta.
- — Bien -dice Bru-. Me esconderé en este bosquecillo. No quiero que nadie me vea antes de entrevistarme con el presidente.
-Tratas de comunicarte con tu familia, pero no hay nadie en tu casa. Quizá piensen que ya has aterrizado tranquilamente en Francia.
- Esperas mientras Coleman habla por teléfono. Cuando cuelga, muestra una amplia sonrisa.
- — Acabo de llegar a un acuerdo con los dueños de la estación local de televisión que son amigos míos -dice-. Lo único que tenemos que hacer es entretener al extraterrestre durante un cuarto de hora, hasta que lleguen ellos con las cámaras ¡y nos darán veinte mil dólares!
-Te da una palmada en la espalda y añade:
-—¡La mitad es para ti, muchacho! ¡Diez mil dólares para ti solito!
-— ¡Pero es que Bru no quiere que le vea nadie antes de hablar con el presidente!
-— Eso no le va a ocasionar ningún problema. ¡Ya verás, muchacho, qué pronto se hace famoso! Así irá aprendiendo cómo funcionan las cosas aquí en Norteamérica. Mira... tú lo único que tienes que hacer es estar bien calladito durante quince minutos y te ganas diez mil dólares.
-Deseas respetar el deseo de Bru de evitar toda publicidad, pero en realidad, no le has prometido nada. En definitiva, aparecer por la tele no le va a causar ningún daño. ¡Y a ti tampoco te van a venir mal los diez mil dólares!
+â€” Debo estar soÃ±ando. Es la cosa mÃ¡s rara que he visto en mi vida.
+â€” Â¿DÃ³nde estamos? â€”vuelves a preguntar.
+ â€”En Nags Head, en Carolina del Norte. Yo me llamo Buck Coleman.
+â€” Â¿Puede usted informarme si hay algÃºn modo de que me lleven a la Casa Blanca? â€” pregunta Bruâ€”. PodrÃ­a ser importante para el futuro de los Estados Unidos -aÃ±ade.
+â€” Es un viaje largo, pero una cosa asÃ­ no ocurre todos los dÃ­as -dice Coleman-â€”. Esperen un minuto que voy a llamar por telÃ©fono. Hay una cabina al otro lado de la carretera. No se vayan.
+â€” Me parece que yo tambiÃ©n deberÃ­a llamar a mi casa -le dices a Bru-â€”. Enseguida estaremos de vuelta.
+ â€” Bien -dice Bru-. Me esconderÃ© en este bosquecillo. No quiero que nadie me vea antes de entrevistarme con el presidente.
+Tratas de comunicarte con tu familia, pero no hay nadie en tu casa. QuizÃ¡ piensen que ya has aterrizado tranquilamente en Francia.
+ Esperas mientras Coleman habla por telÃ©fono. Cuando cuelga, muestra una amplia sonrisa.
+ â€” Acabo de llegar a un acuerdo con los dueÃ±os de la estaciÃ³n local de televisiÃ³n que son amigos mÃ­os -dice-. Lo Ãºnico que tenemos que hacer es entretener al extraterrestre durante un cuarto de hora, hasta que lleguen ellos con las cÃ¡maras Â¡y nos darÃ¡n veinte mil dÃ³lares!
+Te da una palmada en la espalda y aÃ±ade:
+â€”Â¡La mitad es para ti, muchacho! Â¡Diez mil dÃ³lares para ti solito!
+â€” Â¡Pero es que Bru no quiere que le vea nadie antes de hablar con el presidente!
+â€” Eso no le va a ocasionar ningÃºn problema. Â¡Ya verÃ¡s, muchacho, quÃ© pronto se hace famoso! AsÃ­ irÃ¡ aprendiendo cÃ³mo funcionan las cosas aquÃ­ en NorteamÃ©rica. Mira... tÃº lo Ãºnico que tienes que hacer es estar bien calladito durante quince minutos y te ganas diez mil dÃ³lares.
+Deseas respetar el deseo de Bru de evitar toda publicidad, pero en realidad, no le has prometido nada. En definitiva, aparecer por la tele no le va a causar ningÃºn daÃ±o. Â¡Y a ti tampoco te van a venir mal los diez mil dÃ³lares!
 #Si aceptas el plan de Coleman:88
-#Si avisas a Bru de la llegada de los periodistas de televisión:100
+#Si avisas a Bru de la llegada de los periodistas de televisiÃ³n:100
 
 75#
-— ¡Devuélvanme a la Tierra!
-Apenas has hablado, pierdes el conocimiento. Cuando vuelves en sí, estás sentado en una butaca que te resulta conocida. Una mujer vestida de uniforme te coloca la mano en el hombro.
-- Vamos a aterrizar. Abróchese el cinturón.
-Te das cuenta de que la mujer es una azafata. ¡Estás otra vez en el Concorde! Todo es como antes de... Quizás ha sido un mal sueño.
- Cuando la azafata se aleja por el pasillo comprobando los cinturones de los demás pasajeros, miras aturdido al señor de pelo blanco que iba sentado a tu lado cuando te capturaron. El te mira con un gesto de sorpresa.
-— ¡Vaya, has vuelto! ¿Dónde te habías metido durante todo este tiempo?
-La pregunta te saca de tus dudas. No ha sido un sueño,
+â€” Â¡DevuÃ©lvanme a la Tierra!
+Apenas has hablado, pierdes el conocimiento. Cuando vuelves en sÃ­, estÃ¡s sentado en una butaca que te resulta conocida. Una mujer vestida de uniforme te coloca la mano en el hombro.
+- Vamos a aterrizar. AbrÃ³chese el cinturÃ³n.
+Te das cuenta de que la mujer es una azafata. Â¡EstÃ¡s otra vez en el Concorde! Todo es como antes de... QuizÃ¡s ha sido un mal sueÃ±o.
+ Cuando la azafata se aleja por el pasillo comprobando los cinturones de los demÃ¡s pasajeros, miras aturdido al seÃ±or de pelo blanco que iba sentado a tu lado cuando te capturaron. El te mira con un gesto de sorpresa.
+â€” Â¡Vaya, has vuelto! Â¿DÃ³nde te habÃ­as metido durante todo este tiempo?
+La pregunta te saca de tus dudas. No ha sido un sueÃ±o,
 Fin
 
 76#
-Tu carcajada resuena dentro de la cámara y los U-TY parecen vibrar e hincharse. Un coro de voces llena el espacio:
+Tu carcajada resuena dentro de la cÃ¡mara y los U-TY parecen vibrar e hincharse. Un coro de voces llena el espacio:
 
 NOSOTROS, LOS U-TY, QUE SOMOS PODEROSOS Y OMNISCIENTES.
 HEMOS ESTADO EN ORBITA ALREDEDOR DE LA TIERRA COMO UN OJO INVISIBLE Y SILENCIOSO. LO HEMOS VISTO TODO Y LO SABEMOS TODO. 
-SOLO HAY UNA COSA QUE NO SABEMOS: ¿POR QUE RIEN LOS TERRICOLAS?
+SOLO HAY UNA COSA QUE NO SABEMOS: Â¿POR QUE RIEN LOS TERRICOLAS?
 
-Al oír esta pregunta, sueltas otra carcajada.
-Hace un momento estabas aterrorizado por la espantosa presencia de los U-TY. Ahora, en cambio, esas mismas criaturas todopoderosas te ruegan les respondas a una pregunta así de sencilla,
+Al oÃ­r esta pregunta, sueltas otra carcajada.
+Hace un momento estabas aterrorizado por la espantosa presencia de los U-TY. Ahora, en cambio, esas mismas criaturas todopoderosas te ruegan les respondas a una pregunta asÃ­ de sencilla,
  Kim Lee se adelanta.
- — Ahora recuerdo un pensamiento del filósofo chino Sung Li: “Si no pudiésemos reír, no soportaríamos el llanto; si no pudiésemos llorar, la vida sería insoportable”
-— ¿Habéis oído la verdad, U-TY? -dices en voz alta, a la vez que repites las palabras de Kim Lee.
-No ocurre nada. Todo ha quedado en silencio. Vas a hablar de nuevo, pero Kim Lee te detiene agarrándote por el brazo.
-— Espera -susurra.
+ â€” Ahora recuerdo un pensamiento del filÃ³sofo chino Sung Li: â€œSi no pudiÃ©semos reÃ­r, no soportarÃ­amos el llanto; si no pudiÃ©semos llorar, la vida serÃ­a insoportableâ€
+â€” Â¿HabÃ©is oÃ­do la verdad, U-TY? -dices en voz alta, a la vez que repites las palabras de Kim Lee.
+No ocurre nada. Todo ha quedado en silencio. Vas a hablar de nuevo, pero Kim Lee te detiene agarrÃ¡ndote por el brazo.
+â€” Espera -susurra.
 
 LOS U-TY NO NECESITAMOS REIR.
 LOS U-TY NO NECESITAMOS LLORAR.
 
- — ¡Entonces, no estáis vivos! -las palabras se te escapan, antes de pensarlas.
- — ¡NO ESTAIS VIVOS! —reitera Kim Lee.
- Los U-TY se estremecen como si fueran grandes medusas fosforescentes y su luminosidad se hace más intensa para después casi apagarse. Las paredes cóncavas empiezan a brillar cada vez más, mientras que el aire resuena con la música salvaje de cien huracanes en los tubos de otros tantos órganos gigantes.
+ â€” Â¡Entonces, no estÃ¡is vivos! -las palabras se te escapan, antes de pensarlas.
+ â€” Â¡NO ESTAIS VIVOS! â€”reitera Kim Lee.
+ Los U-TY se estremecen como si fueran grandes medusas fosforescentes y su luminosidad se hace mÃ¡s intensa para despuÃ©s casi apagarse. Las paredes cÃ³ncavas empiezan a brillar cada vez mÃ¡s, mientras que el aire resuena con la mÃºsica salvaje de cien huracanes en los tubos de otros tantos Ã³rganos gigantes.
 El estruendo aumenta y disminuye hasta que se extingue, mientras las luces de los U-TY vacilan y terminan por apagarse.
-Kim Lee y tú os miráis en medio de la luz mortecina que aún sale de las paredes.
- — Con toda su sabiduría, no eran más que almas muertas -dice Kim Lee-. Cuando constataron que no estaban realmente vivos, perdieron toda su energía. ¡Y como sólo estaban hechos de energía, han dejado de existir!
- —¿Y qué va a ser de nosotros ahora? —preguntas.
- - Tenemos que aprender a manejar este OVNI. Yo sé cómo se operan las pantallas de invisibilidad. ¿Quieres que h que la nave sea visible desde la Tierra? Quizás sea esa nuestra única esperanza de ser rescatados.
-#Si respondes que sí:80
+Kim Lee y tÃº os mirÃ¡is en medio de la luz mortecina que aÃºn sale de las paredes.
+ â€” Con toda su sabidurÃ­a, no eran mÃ¡s que almas muertas -dice Kim Lee-. Cuando constataron que no estaban realmente vivos, perdieron toda su energÃ­a. Â¡Y como sÃ³lo estaban hechos de energÃ­a, han dejado de existir!
+ â€”Â¿Y quÃ© va a ser de nosotros ahora? â€”preguntas.
+ - Tenemos que aprender a manejar este OVNI. Yo sÃ© cÃ³mo se operan las pantallas de invisibilidad. Â¿Quieres que h que la nave sea visible desde la Tierra? QuizÃ¡s sea esa nuestra Ãºnica esperanza de ser rescatados.
+#Si respondes que sÃ­:80
 #Si respondes que no:83
 
 79#
 Reflexionas un momento, y luego cantas:
-— Tres eran tres, las hijas de Elena; tres eran tres, y ninguna era buena...Trala-ra-lá... tra-la-laaaa...
+â€” Tres eran tres, las hijas de Elena; tres eran tres, y ninguna era buena...Trala-ra-lÃ¡... tra-la-laaaa...
 Los U-TY lanzan un destello corto.
 
  SABEMOS TODO LO QUE HAY QUE SABER DE TI.
 
-Te entran ganas de lanzarte sobre esas tres pelotas de energía en forma de nube. Como si quisieran advertirte que están leyendo tus pensamientos, lanzan una lluvia de chispas e irradian un calor tan fuerte que tienes que retroceder protegiéndote los ojos con las manos.
- Luego sientes una fuerza enorme que te aspira levantándote del suelo, mientras las voces dicen:
+Te entran ganas de lanzarte sobre esas tres pelotas de energÃ­a en forma de nube. Como si quisieran advertirte que estÃ¡n leyendo tus pensamientos, lanzan una lluvia de chispas e irradian un calor tan fuerte que tienes que retroceder protegiÃ©ndote los ojos con las manos.
+ Luego sientes una fuerza enorme que te aspira levantÃ¡ndote del suelo, mientras las voces dicen:
 
 SABIAMOS LO QUE IBAS A CANTAR.
 AHORA VAS A TENER MUCHO TIEMPO POR DELANTE PARA ESTAR CALLADO. 
-EN SOMO DORMIRÁS DURANTE MIL MILLONES DE AÑOS
+EN SOMO DORMIRÃS DURANTE MIL MILLONES DE AÃ‘OS
 
  Fin
 
 
 80#
- — Sí. Si la NASA nos ve, es posible que puedan mandarnos un vehículo espacial para llevarnos a tierra.
- Kim Lee te lleva hasta un tablero de pantalla luminiscente, formado por una compleja estructura de formas y colores. Señalando la pantalla tridimensional, dice:
- — Aquí puedes ver todos los satélites artificiales y naves espaciales situadas por el hombre sobre la atmósfera terrestre.
-- ¿Podrán vernos los científicos de la Tierra?
-— Sí, e imagínate los esfuerzos que deben estar haciendo para averiguar la procedencia de esta nave espacial desconocida para ellos.
- - ¿Crees que podrán rescatarnos?
- — Lo mismo pueden rescatarnos que derribarnos con sus cohetes.
-Sólo queda esperar. Afortunadamente, los ordenadores siguen funcionando de forma impecable aunque los U-TY hayan dejado de existir, Miras hacia fuera y ves una brillante luna llena. Después observas cómo Kim Lee prueba los instrumentos de control. Conecta a radio y podéis escuchar las conversaciones que se realizan en la Tierra en diferentes idiomas.
+ â€” SÃ­. Si la NASA nos ve, es posible que puedan mandarnos un vehÃ­culo espacial para llevarnos a tierra.
+ Kim Lee te lleva hasta un tablero de pantalla luminiscente, formado por una compleja estructura de formas y colores. SeÃ±alando la pantalla tridimensional, dice:
+ â€” AquÃ­ puedes ver todos los satÃ©lites artificiales y naves espaciales situadas por el hombre sobre la atmÃ³sfera terrestre.
+- Â¿PodrÃ¡n vernos los cientÃ­ficos de la Tierra?
+â€” SÃ­, e imagÃ­nate los esfuerzos que deben estar haciendo para averiguar la procedencia de esta nave espacial desconocida para ellos.
+ - Â¿Crees que podrÃ¡n rescatarnos?
+ â€” Lo mismo pueden rescatarnos que derribarnos con sus cohetes.
+SÃ³lo queda esperar. Afortunadamente, los ordenadores siguen funcionando de forma impecable aunque los U-TY hayan dejado de existir, Miras hacia fuera y ves una brillante luna llena. DespuÃ©s observas cÃ³mo Kim Lee prueba los instrumentos de control. Conecta a radio y podÃ©is escuchar las conversaciones que se realizan en la Tierra en diferentes idiomas.
 En ese instante, se escucha en uno de los altavoces una llamada:
-— Han sido ustedes detectados. A menos que se identifiquen inmediatamente, serán considerados como enemigos.
- Kim Lee habla por el micrófono de su casco:
-— Somos habitantes de la Tierra a bordo de un OVNI. Hemos podido adueñarnos de él, pero no sabemos controlarlo. Se hace una pausa. Contestan desde la Tierra.
- — Su respuesta es inaceptable. Respondan la verdad o los destruiremos con haces de rayos láser.
- Le arrebatas el micrófono a Kim Lee, tratando de hallar un argumento para convencerles de que decís la verdad.
-#Si dices “Yo soy la persona que ha desaparecido del Concorde. ¡Ayúdennos!”:98
-#Si dices “Traten de atacarnos y su país será totalmente aniquilado en un instante”:90
+â€” Han sido ustedes detectados. A menos que se identifiquen inmediatamente, serÃ¡n considerados como enemigos.
+ Kim Lee habla por el micrÃ³fono de su casco:
+â€” Somos habitantes de la Tierra a bordo de un OVNI. Hemos podido adueÃ±arnos de Ã©l, pero no sabemos controlarlo. Se hace una pausa. Contestan desde la Tierra.
+ â€” Su respuesta es inaceptable. Respondan la verdad o los destruiremos con haces de rayos lÃ¡ser.
+ Le arrebatas el micrÃ³fono a Kim Lee, tratando de hallar un argumento para convencerles de que decÃ­s la verdad.
+#Si dices â€œYo soy la persona que ha desaparecido del Concorde. Â¡AyÃºdennos!â€:98
+#Si dices â€œTraten de atacarnos y su paÃ­s serÃ¡ totalmente aniquilado en un instanteâ€:90
 
 83#
- — No. Es demasiado arriesgado. Es mejor que sigamos siendo invisibles, al menos hasta que aprendamos a manejar esta nave -dices.
- — Está bien —responde Kim Lee-. Conozco bastante bien los principales instrumentos de control, pero no estoy segura de poder realizar los cambios de rumbo con toda precisión.
- Ambos estudiáis docenas de raros indicadores y palancas.
- — La nave está automatizada —explica Kim Lee-—. Lo único que hay que hacer es darle al ordenador las instrucciones generales de lo que pretendemos llevar a cabo. Por ejemplo, este elemento sirve para sensibilizar la fuerza gravitatoria: si lo activamos, hará que nos acerquemos a cualquier objeto cósmico que tenga una fuerza de atracción gravitatoria lo bastante intensa.
- — ¡En nuestro caso, sería la Tierra! ¡Así podríamos aterrizar en ella!
+ â€” No. Es demasiado arriesgado. Es mejor que sigamos siendo invisibles, al menos hasta que aprendamos a manejar esta nave -dices.
+ â€” EstÃ¡ bien â€”responde Kim Lee-. Conozco bastante bien los principales instrumentos de control, pero no estoy segura de poder realizar los cambios de rumbo con toda precisiÃ³n.
+ Ambos estudiÃ¡is docenas de raros indicadores y palancas.
+ â€” La nave estÃ¡ automatizada â€”explica Kim Lee-â€”. Lo Ãºnico que hay que hacer es darle al ordenador las instrucciones generales de lo que pretendemos llevar a cabo. Por ejemplo, este elemento sirve para sensibilizar la fuerza gravitatoria: si lo activamos, harÃ¡ que nos acerquemos a cualquier objeto cÃ³smico que tenga una fuerza de atracciÃ³n gravitatoria lo bastante intensa.
+ â€” Â¡En nuestro caso, serÃ­a la Tierra! Â¡AsÃ­ podrÃ­amos aterrizar en ella!
  Por primera vez, surge la esperanza de regresar sin riesgo a casa.
-Kim Lee acerca su mano al panel alargado de luces flotantes. Al cabo de un instante, sientes que la nave va acelerando lentamente su marcha y escuchas el zumbido de alguna fuente de energía invisible. El OVNI está descendiendo. La aceleración se incrementa aún más, Sientes que tu cuerpo se aplasta contra la pared. La fuerza debida a la aceleración sigue creciendo. Se hace insoportable.
-¡Estás perdiendo el conocimiento!
+Kim Lee acerca su mano al panel alargado de luces flotantes. Al cabo de un instante, sientes que la nave va acelerando lentamente su marcha y escuchas el zumbido de alguna fuente de energÃ­a invisible. El OVNI estÃ¡ descendiendo. La aceleraciÃ³n se incrementa aÃºn mÃ¡s, Sientes que tu cuerpo se aplasta contra la pared. La fuerza debida a la aceleraciÃ³n sigue creciendo. Se hace insoportable.
+Â¡EstÃ¡s perdiendo el conocimiento!
 
-… 
+â€¦ 
 
-Vas recobrando el conocimiento. La terrible presión provocada por la aceleración ha desaparecido. La cámara está brillantemente iluminada. El aire tiene un fresco y dulce aroma, como el de un prado primaveral recién segado. La verdadera luz solar y la brisa penetran por una abertura situada al fondo de la cámara. Kim Lee está allí, de pie, mirando hacia fuera. Se vuelve hacia ti y te llama con una seña. Te incorporas para ponerte de pie y
-pierdes casi el equilibrio por acción de la gravedad terrestre.
- Desde la abertura ves allá abajo, a unos diez metros de altura, un maizal. Esta enorme e increíble máquina extraterrestre ha obedecido vuestras órdenes. Os ha llevado por el espacio recorriendo ciento cincuenta mil kilómetros, por lo menos. Ahora se ha quedado flotando silenciosamente a diez metros del suelo. Sus grandes ordenadores parecen saberlo todo, pero se han dado cuenta que diez metros es una altura demasiado grande para que podáis bajar.
-—¡Mira!—Kim Lee señala hacia el punto más lejano del maizal.
- Allá abajo, junto al prado donde pastan aquellas vacas, un hombre y un chico vienen
+Vas recobrando el conocimiento. La terrible presiÃ³n provocada por la aceleraciÃ³n ha desaparecido. La cÃ¡mara estÃ¡ brillantemente iluminada. El aire tiene un fresco y dulce aroma, como el de un prado primaveral reciÃ©n segado. La verdadera luz solar y la brisa penetran por una abertura situada al fondo de la cÃ¡mara. Kim Lee estÃ¡ allÃ­, de pie, mirando hacia fuera. Se vuelve hacia ti y te llama con una seÃ±a. Te incorporas para ponerte de pie y
+pierdes casi el equilibrio por acciÃ³n de la gravedad terrestre.
+ Desde la abertura ves allÃ¡ abajo, a unos diez metros de altura, un maizal. Esta enorme e increÃ­ble mÃ¡quina extraterrestre ha obedecido vuestras Ã³rdenes. Os ha llevado por el espacio recorriendo ciento cincuenta mil kilÃ³metros, por lo menos. Ahora se ha quedado flotando silenciosamente a diez metros del suelo. Sus grandes ordenadores parecen saberlo todo, pero se han dado cuenta que diez metros es una altura demasiado grande para que podÃ¡is bajar.
+â€”Â¡Mira!â€”Kim Lee seÃ±ala hacia el punto mÃ¡s lejano del maizal.
+ AllÃ¡ abajo, junto al prado donde pastan aquellas vacas, un hombre y un chico vienen
 corriendo hacia vosotros. Se detienen a veinte metros de distancia, sin atreverse a acercarse
-más. Aparece una camioneta sobre la loma.
-De ella bajan un hombre y una mujer que se quedan mirando el espectáculo que se alza
+mÃ¡s. Aparece una camioneta sobre la loma.
+De ella bajan un hombre y una mujer que se quedan mirando el espectÃ¡culo que se alza
 ante ellos.
-- ¿Qué hacemos ahora? -—pregunta Kim Lee.
- Apenas te enteras de la pregunta ya que estás sumido en tus pensamientos. No percibes a los hombres, a las mujeres, a los niños, a los perros que ladran, a toda esa gente que se va reuniendo en el campo de maíz. A lo lejos suenan las sirenas de la policía.
- Estás pensando en lo extraordinario que resulta que los todopoderosos U-TY se hayan evaporado como una niebla matutina ante los rayos del sol y que una nave procedente del espacio estelar haya llega do a aterrizar en tu planeta contigo a bordo.
-Durante una hora, Kim Lee y tú permanecéis sentados en la puerta de la nave cósmica,
+- Â¿QuÃ© hacemos ahora? -â€”pregunta Kim Lee.
+ Apenas te enteras de la pregunta ya que estÃ¡s sumido en tus pensamientos. No percibes a los hombres, a las mujeres, a los niÃ±os, a los perros que ladran, a toda esa gente que se va reuniendo en el campo de maÃ­z. A lo lejos suenan las sirenas de la policÃ­a.
+ EstÃ¡s pensando en lo extraordinario que resulta que los todopoderosos U-TY se hayan evaporado como una niebla matutina ante los rayos del sol y que una nave procedente del espacio estelar haya llega do a aterrizar en tu planeta contigo a bordo.
+Durante una hora, Kim Lee y tÃº permanecÃ©is sentados en la puerta de la nave cÃ³smica,
 contemplando los campos que hay a vuestros pies, la multitud de gente que acude cada vez
-en mayor número, la policía que acordona a vuestro alrededor un espacio tan grande como un campo de fútbol, un helicóptero policial que aterriza... Más tarde, veis llegar los helicópteros militares y los equipos de la televisión en sus furgonetas. Después, los camiones del ejército, y... i hasta un tanque!
-— ¿Nos dispararán? —pregunta Kim Lee.
-— Tienen miedo a los extraterrestres —respondes-, pero no creo que vayan a disparar. Lo que necesitamos es una escalera para poder bajar. Todo el mundo nos va a ver en la
-televisión. Los hombres de ciencia nos interrogarán y luego vendrán a estudiar esta nave
+en mayor nÃºmero, la policÃ­a que acordona a vuestro alrededor un espacio tan grande como un campo de fÃºtbol, un helicÃ³ptero policial que aterriza... MÃ¡s tarde, veis llegar los helicÃ³pteros militares y los equipos de la televisiÃ³n en sus furgonetas. DespuÃ©s, los camiones del ejÃ©rcito, y... i hasta un tanque!
+â€” Â¿Nos dispararÃ¡n? â€”pregunta Kim Lee.
+â€” Tienen miedo a los extraterrestres â€”respondes-, pero no creo que vayan a disparar. Lo que necesitamos es una escalera para poder bajar. Todo el mundo nos va a ver en la
+televisiÃ³n. Los hombres de ciencia nos interrogarÃ¡n y luego vendrÃ¡n a estudiar esta nave
 para tratar de construir otra igual.
 Kim Lee te dice:
- — Estoy impaciente por pisar de nuevo la Tierra y volver a mi patria, pero también
-voy a echar de menos esta nave que ha sido mi hogar nada menos que durante 475 años.
-—¿Y también echarás de menos a los U-TY? -le preguntas. Kim Lee mueve la cabeza.
-— Los U-TY tenían menos inteligencia y menos alma que un caracol.
-— Sin embargo, -añades- realizaron el milagro de construir esta nave.
- — Que no es ni más ni menos maravillosa —replica ella— que la cáscara de un caracol.
+ â€” Estoy impaciente por pisar de nuevo la Tierra y volver a mi patria, pero tambiÃ©n
+voy a echar de menos esta nave que ha sido mi hogar nada menos que durante 475 aÃ±os.
+â€”Â¿Y tambiÃ©n echarÃ¡s de menos a los U-TY? -le preguntas. Kim Lee mueve la cabeza.
+â€” Los U-TY tenÃ­an menos inteligencia y menos alma que un caracol.
+â€” Sin embargo, -aÃ±ades- realizaron el milagro de construir esta nave.
+ â€” Que no es ni mÃ¡s ni menos maravillosa â€”replica ellaâ€” que la cÃ¡scara de un caracol.
 Fin
 
 85#
-¡Lo has logrado! ¡Has conseguido mantener fuera de tu pensamiento los planes de fuga!
- Los U- te llaman enseguida. Te conducen hasta un vehículo espacial auxiliar, totalmente automatizado, que te lleva con increíble velocidad y suavidad, descendiendo a través de la atmósfera terrestre. A las 11.50 desciendes del vehículo y pones los pies en el parque que hay cerca del Museo Metropolitano de Arte, en la ciudad de Nueva York. Los robots que te acompañan salen flotando de la pequeña nave y revolotean ante uno de los muros de la fachada posterior del museo. Dirigen sus antenas hacia la pared y parte de ella se desintegra. Los robots entran por el agujero. Contemplas asombrado cómo van de una sala a otra, cogiendo cuadros y estatuas, como si fueran abejas volando de flor en flor.
+Â¡Lo has logrado! Â¡Has conseguido mantener fuera de tu pensamiento los planes de fuga!
+ Los U- te llaman enseguida. Te conducen hasta un vehÃ­culo espacial auxiliar, totalmente automatizado, que te lleva con increÃ­ble velocidad y suavidad, descendiendo a travÃ©s de la atmÃ³sfera terrestre. A las 11.50 desciendes del vehÃ­culo y pones los pies en el parque que hay cerca del Museo Metropolitano de Arte, en la ciudad de Nueva York. Los robots que te acompaÃ±an salen flotando de la pequeÃ±a nave y revolotean ante uno de los muros de la fachada posterior del museo. Dirigen sus antenas hacia la pared y parte de ella se desintegra. Los robots entran por el agujero. Contemplas asombrado cÃ³mo van de una sala a otra, cogiendo cuadros y estatuas, como si fueran abejas volando de flor en flor.
  De pronto suena el mecanismo de alarma.
-Un grupo de guardias corre hacia ti empuñan de sus revólveres.
- — ¡Alto o disparamos!
- Uno de los robots se lanza hacia ti. ¡Pero no quieres que vuelvan a llevarte a la nave! Te arrojas al suelo entre dos guardias.
+Un grupo de guardias corre hacia ti empuÃ±an de sus revÃ³lveres.
+ â€” Â¡Alto o disparamos!
+ Uno de los robots se lanza hacia ti. Â¡Pero no quieres que vuelvan a llevarte a la nave! Te arrojas al suelo entre dos guardias.
  El zumbido de una sirena desgarra la noche.
-— ¡Auxilio! ¡Sálvenme!
- Dan un paso atrás. Uno de los guardias te apunta con el revólver y te pones en pie, temblando, con las manos en alto. Otros policías corren hacia ti. Los robots de los U-TY se han marchado. Te esposan y te conducen hacia la entrada principal, mientras varios agentes corren de un lado para otro gritando órdenes. Los coches policiales han bloqueado la avenida. Media docena de guardias vienen corriendo por la amplia escalinata que sube desde la acera. Los demás se dirigen hacia los laterales del edificio.
-Media hora después, estás en la jefatura de policía, sentado frente a una pequeña mesa de madera en un cuartucho iluminado por una sola bombilla que cuelga del techo. Dos policías de paisano se inclinan hacia ti. Uno de ellos es un tipo grande de tez morena y pelo ensortijado. otro es bajito y de rostro congestionado. Por sus insignias se reconoce que el mayor es teniente y el otro capitán.
- — Bueno, desembucha.
-— Les va a costar trabajo creerme -dices-, pero yo no estaba en ese golpe. A mí me capturaron unos seres extraterrestres que venían en un OVNI. Fueron ellos los que hicieron el robo...
-— Mira; vamos a ver si no perdemos el tiempo haciendo chistes ¿eh? -te interrumpe Mackin-. No me digas que has tomado parte en un golpe de treinta millones de dólares en arte, realizado en diez minutos, y que sabías no lo que estaba pasando.
+â€” Â¡Auxilio! Â¡SÃ¡lvenme!
+ Dan un paso atrÃ¡s. Uno de los guardias te apunta con el revÃ³lver y te pones en pie, temblando, con las manos en alto. Otros policÃ­as corren hacia ti. Los robots de los U-TY se han marchado. Te esposan y te conducen hacia la entrada principal, mientras varios agentes corren de un lado para otro gritando Ã³rdenes. Los coches policiales han bloqueado la avenida. Media docena de guardias vienen corriendo por la amplia escalinata que sube desde la acera. Los demÃ¡s se dirigen hacia los laterales del edificio.
+Media hora despuÃ©s, estÃ¡s en la jefatura de policÃ­a, sentado frente a una pequeÃ±a mesa de madera en un cuartucho iluminado por una sola bombilla que cuelga del techo. Dos policÃ­as de paisano se inclinan hacia ti. Uno de ellos es un tipo grande de tez morena y pelo ensortijado. otro es bajito y de rostro congestionado. Por sus insignias se reconoce que el mayor es teniente y el otro capitÃ¡n.
+ â€” Bueno, desembucha.
+â€” Les va a costar trabajo creerme -dices-, pero yo no estaba en ese golpe. A mÃ­ me capturaron unos seres extraterrestres que venÃ­an en un OVNI. Fueron ellos los que hicieron el robo...
+â€” Mira; vamos a ver si no perdemos el tiempo haciendo chistes Â¿eh? -te interrumpe Mackin-. No me digas que has tomado parte en un golpe de treinta millones de dÃ³lares en arte, realizado en diez minutos, y que sabÃ­as no lo que estaba pasando.
  Fitch, que es el nombre del teniente, te pone su pesada mano sobre el hombro.
- — Escucha, muchacho. Nosotros no tenemos ningún interés en mandarte a la cárcel, pero sí lo tenemos en recuperar esas obras de arte. Dinos lo que sabes y saldrás limpio de esto; pero si te pones a contar cuentecitos de ciencia-ficción, me parece que te va a ir mal.
- - Te va a ir muy mal —repite Mackin.
-La puerta se abre de golpe. Fitch y Mackin se ponen firmes de un salto. No cabe la menor duda que el hombre ceñudo y de cara de palo que está parado en el umbral es un inspector de alta graduación.
-Te observa detenidamente y, volviéndose a los otros, dice:
- — Acabamos de comprobar que este es el chico que fue dado por desaparecido en el vuelo 2 de Air France, el del Concorde que volaba de Nueva York a París, y que creíamos muerto.
- — Pues a mí me parece bastante vivo –dice Mackin.
- — ¿Y si ese informe es erróneo?
- — Según la CIA y el tipo con quien acabo de hablar por teléfono, que es el jefe de despacho del presidente, ese informe es correcto, aunque se mantiene secreto. Se nos ordena que dejemos marchar a este chico, sin hacerle más preguntas.
-- Pero... ¿y todo lo robado? -preguntan.
-—Ese caso no podremos resolverlo jamás -dice el Inspector-. A vosotros debe bastaros con saber que se trata de un secreto militar; al menos, por el momento.
- — Tus familiares ya están en camino. A mí me parece que no vas a encontrar mucha gente que crea tu historia de cómo te hicieron prisionero unos extraterrestres que vinieron del espacio exterior. Sólo lo creeremos unos pocos, como yo, que sabemos que realmente estuviste dentro de un OVNI.
+ â€” Escucha, muchacho. Nosotros no tenemos ningÃºn interÃ©s en mandarte a la cÃ¡rcel, pero sÃ­ lo tenemos en recuperar esas obras de arte. Dinos lo que sabes y saldrÃ¡s limpio de esto; pero si te pones a contar cuentecitos de ciencia-ficciÃ³n, me parece que te va a ir mal.
+ - Te va a ir muy mal â€”repite Mackin.
+La puerta se abre de golpe. Fitch y Mackin se ponen firmes de un salto. No cabe la menor duda que el hombre ceÃ±udo y de cara de palo que estÃ¡ parado en el umbral es un inspector de alta graduaciÃ³n.
+Te observa detenidamente y, volviÃ©ndose a los otros, dice:
+ â€” Acabamos de comprobar que este es el chico que fue dado por desaparecido en el vuelo 2 de Air France, el del Concorde que volaba de Nueva York a ParÃ­s, y que creÃ­amos muerto.
+ â€” Pues a mÃ­ me parece bastante vivo â€“dice Mackin.
+ â€” Â¿Y si ese informe es errÃ³neo?
+ â€” SegÃºn la CIA y el tipo con quien acabo de hablar por telÃ©fono, que es el jefe de despacho del presidente, ese informe es correcto, aunque se mantiene secreto. Se nos ordena que dejemos marchar a este chico, sin hacerle mÃ¡s preguntas.
+- Pero... Â¿y todo lo robado? -preguntan.
+â€”Ese caso no podremos resolverlo jamÃ¡s -dice el Inspector-. A vosotros debe bastaros con saber que se trata de un secreto militar; al menos, por el momento.
+ â€” Tus familiares ya estÃ¡n en camino. A mÃ­ me parece que no vas a encontrar mucha gente que crea tu historia de cÃ³mo te hicieron prisionero unos extraterrestres que vinieron del espacio exterior. SÃ³lo lo creeremos unos pocos, como yo, que sabemos que realmente estuviste dentro de un OVNI.
 Fin
 
 87#
-Comprendes que no has sido capaz de evitar pensar en tu plan de fuga. Los U-TY pueden haber leído tu mente. Te han dejado solo en la oscuridad y ahora estás esperando preguntándote qué van a hacer contigo.
-Al cabo de un rato, sientes que una fuerza magnética te arrastra. Luego, una tenue luz ámbar te permite ver que te encuentras en una amplia cámara repleta de criaturas terrestres y extraterrestres, tan grande que no aciertas a distinguir sus límites. Todos estos seres están flotando en el aire y parecen profundamente dormidos.
+Comprendes que no has sido capaz de evitar pensar en tu plan de fuga. Los U-TY pueden haber leÃ­do tu mente. Te han dejado solo en la oscuridad y ahora estÃ¡s esperando preguntÃ¡ndote quÃ© van a hacer contigo.
+Al cabo de un rato, sientes que una fuerza magnÃ©tica te arrastra. Luego, una tenue luz Ã¡mbar te permite ver que te encuentras en una amplia cÃ¡mara repleta de criaturas terrestres y extraterrestres, tan grande que no aciertas a distinguir sus lÃ­mites. Todos estos seres estÃ¡n flotando en el aire y parecen profundamente dormidos.
 
 HAS LLEGADO A SOMO
 
-En efecto, los U-TY habían leído tus pensamientos. Sabían que te proponías fugarte. Este es tu destino. La voz vuelve a hablar, pero lo hace con una suavidad tal que tú apenas oyes claramente las palabras…
--…ahora vas a dormir…
-Y así empiezan a transcurrir mil millones de anos.
+En efecto, los U-TY habÃ­an leÃ­do tus pensamientos. SabÃ­an que te proponÃ­as fugarte. Este es tu destino. La voz vuelve a hablar, pero lo hace con una suavidad tal que tÃº apenas oyes claramente las palabrasâ€¦
+-â€¦ahora vas a dormirâ€¦
+Y asÃ­ empiezan a transcurrir mil millones de anos.
 Fin
 
 88#
- — De acuerdo -le respondes a Coleman-—.
-Pero ¿Qué hacer para entretenerle?
- Coleman se limita a hacer un gesto de complicidad con la cabeza guiñándote un ojo.
- — Eso déjalo de mi mano.
- Ambos regresáis junto a Bru que reaparece entre los arbustos del bosquecillo.
- — ¿Nos vamos ya? —pregunta.
- - Tenemos que esperar unos diez minutos -dice Coleman-—. La batería de mi coche se ha
-quedado sin corriente pero he avisado a un amigo que tiene un garaje un poco más abajo,
-en la carretera, y ya viene de camino con una batería nueva.
- Bru se queda callado. Luego se apelotona como si fuera un balón y salta en el aire a una
-altura de dos metros. Empiezan a salir chis: por todos sus pelos y desciende hasta quedarse a sólo unos centímetros de la nariz bronceada de Coleman.
- — Tus pensamientos revelan más que tus palabras -dice Bru.
- Luego se deja caer al suelo y rebota nuevamente para situarse delante de ti. Mirándote
+ â€” De acuerdo -le respondes a Coleman-â€”.
+Pero Â¿QuÃ© hacer para entretenerle?
+ Coleman se limita a hacer un gesto de complicidad con la cabeza guiÃ±Ã¡ndote un ojo.
+ â€” Eso dÃ©jalo de mi mano.
+ Ambos regresÃ¡is junto a Bru que reaparece entre los arbustos del bosquecillo.
+ â€” Â¿Nos vamos ya? â€”pregunta.
+ - Tenemos que esperar unos diez minutos -dice Coleman-â€”. La baterÃ­a de mi coche se ha
+quedado sin corriente pero he avisado a un amigo que tiene un garaje un poco mÃ¡s abajo,
+en la carretera, y ya viene de camino con una baterÃ­a nueva.
+ Bru se queda callado. Luego se apelotona como si fuera un balÃ³n y salta en el aire a una
+altura de dos metros. Empiezan a salir chis: por todos sus pelos y desciende hasta quedarse a sÃ³lo unos centÃ­metros de la nariz bronceada de Coleman.
+ â€” Tus pensamientos revelan mÃ¡s que tus palabras -dice Bru.
+ Luego se deja caer al suelo y rebota nuevamente para situarse delante de ti. MirÃ¡ndote
 fijamente a los ojos, dice:
- — Me has decepcionado.
- — ¡Pero si yo no he dicho nada! —exclamas.
- -A veces callarse es peor que mentir —replica Bru. .
-Sin más palabras, se vuelve a enrollar sobre sí mismo y empieza a girar como una peonza.
+ â€” Me has decepcionado.
+ â€” Â¡Pero si yo no he dicho nada! â€”exclamas.
+ -A veces callarse es peor que mentir â€”replica Bru. .
+Sin mÃ¡s palabras, se vuelve a enrollar sobre sÃ­ mismo y empieza a girar como una peonza.
 De pronto, aquella forma desdibujada por la velocidad sale disparada hacia arriba, proyectando arena en todas direcciones, y Bru desaparece.
 Te quedas mirando a Coleman que se ha quedado estupefacto y se sacude la arena de
 los ojos. Al poco rato, oyes un frenazo. Miras hacia la carretera y ves a dos hombres que sal
-tas desde una furgoneta. Uno de ellos lleva una cámara de televisión. Corren hacia vosotros. Coleman se queda mirándolos con los brazos abiertos, haciendo un gesto de impotencia.
- Lo único que puedes hacer ahora es intentar volver a tu casa. Has perdido la gran oportunidad de ganarte diez mil dólares de forma fácil y, lo que es aún peor, has perdido un amigo irremplazable. Pero, al menos, has aprendido algunas lecciones, tanto a bordo del OVNI 54-40 como aquí, sobre la Tierra.
+tas desde una furgoneta. Uno de ellos lleva una cÃ¡mara de televisiÃ³n. Corren hacia vosotros. Coleman se queda mirÃ¡ndolos con los brazos abiertos, haciendo un gesto de impotencia.
+ Lo Ãºnico que puedes hacer ahora es intentar volver a tu casa. Has perdido la gran oportunidad de ganarte diez mil dÃ³lares de forma fÃ¡cil y, lo que es aÃºn peor, has perdido un amigo irremplazable. Pero, al menos, has aprendido algunas lecciones, tanto a bordo del OVNI 54-40 como aquÃ­, sobre la Tierra.
 Fin
 
 90#
  Has lanzado tu amenaza.
  No ocurre nada. Kim Lee te toca el brazo,
-- Me parece que no debías haber dicho eso…
-Vas a responderle pero quedas cegado por una intensísima luz amarilla. Esa será tu última imagen y lo último que sientan todos los seres vivos que van a bordo del OVNI 54-40, antes de succión.
+- Me parece que no debÃ­as haber dicho esoâ€¦
+Vas a responderle pero quedas cegado por una intensÃ­sima luz amarilla. Esa serÃ¡ tu Ãºltima imagen y lo Ãºltimo que sientan todos los seres vivos que van a bordo del OVNI 54-40, antes de succiÃ³n.
 Fin
 
 93#
@@ -820,141 +820,141 @@ Apenas has dicho que te vuelvan a la Tierra cuando escuchas en tu cerebro estas 
 NOS PIDES QUE SEAMOS AMABLES, PERO LA AMABILIDAD ES ALGO QUE NO TIENE NADA QUE CON LA NATURALEZA DE LOS U-TY
 
  La respuesta de los U-TY te ha dejado helado, pero no tienes tiempo de reaccionar. Las
-formas brillantes de los U-TY se entremezclan hasta formar una especie de niebla amarillenta que se va apagando hasta desaparecer. Ya no puedes ver, oír, oler ni tocar nada. La oscuridad reina en la cámara y el aire se hace más espeso y te oprime. El último pensamiento que cruza por tu mente es que quizá tu vida pueda reanudarse de nuevo... dentro de mil millones de años. Cuando despiertes del sueño de SOMO.
+formas brillantes de los U-TY se entremezclan hasta formar una especie de niebla amarillenta que se va apagando hasta desaparecer. Ya no puedes ver, oÃ­r, oler ni tocar nada. La oscuridad reina en la cÃ¡mara y el aire se hace mÃ¡s espeso y te oprime. El Ãºltimo pensamiento que cruza por tu mente es que quizÃ¡ tu vida pueda reanudarse de nuevo... dentro de mil millones de aÃ±os. Cuando despiertes del sueÃ±o de SOMO.
 Fin
 
 97#
- — ¿Podríamos hacer algo con estos ordenadores? -le preguntas a Angus-—. Al parecer, los
+ â€” Â¿PodrÃ­amos hacer algo con estos ordenadores? -le preguntas a Angus-â€”. Al parecer, los
 U-TY han perdido el control.
-Mientras hablas, los ordenadores parpadean y vibran con pulsaciones mecánicas. En
-el interior de sus cerebros electrónico, los programas contradictorios parecen estar luchando o por obtener la supremacía. Uno de los ordenadores se pone a zumbar y luego apaga todas sus luces, a excepción de una bombillita roja que se queda parpadeando.
-— ¿Qué ha ocurrido? —preguntas.
-— No lo sé —responde Angus-. No tengo ni la menor idea de lo...
- Sus palabras se pierden en el rugido del aire que se escapa. La nave espacial se ha resquebrajado y tú, Angus y todos los demás cautivos, con Jos U-TY, sois proyectados como misiles cósmicos hacia el negro y helado vacío espacial.
+Mientras hablas, los ordenadores parpadean y vibran con pulsaciones mecÃ¡nicas. En
+el interior de sus cerebros electrÃ³nico, los programas contradictorios parecen estar luchando o por obtener la supremacÃ­a. Uno de los ordenadores se pone a zumbar y luego apaga todas sus luces, a excepciÃ³n de una bombillita roja que se queda parpadeando.
+â€” Â¿QuÃ© ha ocurrido? â€”preguntas.
+â€” No lo sÃ© â€”responde Angus-. No tengo ni la menor idea de lo...
+ Sus palabras se pierden en el rugido del aire que se escapa. La nave espacial se ha resquebrajado y tÃº, Angus y todos los demÃ¡s cautivos, con Jos U-TY, sois proyectados como misiles cÃ³smicos hacia el negro y helado vacÃ­o espacial.
 Fin
 
 98#
- — Yo soy la persona que ha desaparecido del avión de -dices por el micrófono.
+ â€” Yo soy la persona que ha desaparecido del aviÃ³n de -dices por el micrÃ³fono.
  Se hace una larga pausa. Consultas el reloj.
-Los minutos parecen horas y te pones a pensar si habrá llegado tu último instante. Han transcurrido, en realidad, tres minutos. ¡Pero no sucede nada!
+Los minutos parecen horas y te pones a pensar si habrÃ¡ llegado tu Ãºltimo instante. Han transcurrido, en realidad, tres minutos. Â¡Pero no sucede nada!
  La radio emite de nuevo:
- - Aquí la NASA. ¿Nos captan?
+ - AquÃ­ la NASA. Â¿Nos captan?
  - Si.
- - Hemos comprobado su identidad en los ordenadores. Sabemos que usted es el pasajero dado por desaparecido del avión Concorde. El vehículo espacial en que se encuentra ha
-sido designado como el OVNI 54-40. Dentro de setenta y dos horas, lanzaremos un vehículo espacial auxiliar hacia donde usted se encuentra. No toque los controles. Hemos llamado a los científicos más destacados de los Estados Unidos. Vamos a hacer aterrizar el OVNI 54-40.
- Kim Lee empieza a dar saltos de alegría.
+ - Hemos comprobado su identidad en los ordenadores. Sabemos que usted es el pasajero dado por desaparecido del aviÃ³n Concorde. El vehÃ­culo espacial en que se encuentra ha
+sido designado como el OVNI 54-40. Dentro de setenta y dos horas, lanzaremos un vehÃ­culo espacial auxiliar hacia donde usted se encuentra. No toque los controles. Hemos llamado a los cientÃ­ficos mÃ¡s destacados de los Estados Unidos. Vamos a hacer aterrizar el OVNI 54-40.
+ Kim Lee empieza a dar saltos de alegrÃ­a.
 Con una sonrisa maravillosa, te pregunta:
- - ¿Vendrás a visitarme algún día a China?
- — ¡Por supuesto que sí!
+ - Â¿VendrÃ¡s a visitarme algÃºn dÃ­a a China?
+ â€” Â¡Por supuesto que sÃ­!
 Fin
 
 99#
- Apenas das la orden a los U-TY de virar nuevamente y poner rumbo a la Tierra, se encienden las luces piloto de alarma indicando que algunos circuitos del ordenador se están
+ Apenas das la orden a los U-TY de virar nuevamente y poner rumbo a la Tierra, se encienden las luces piloto de alarma indicando que algunos circuitos del ordenador se estÃ¡n
 recalentando.
  Se oye una voz que dice:
- — Ha-introducido-usted-un-error. — Usted-dirige. Quien-dirige-no-puede-introducir-errores-en-el-sistema... Paradoja... paradoja...
-El ordenador empieza a vibrar. De algún lugar del mecanismo surge un sonido chirriante
-Y lastimero que va aumentando de frecuencia hasta hacerte daño en los oídos.
-— Ultima orden cancelada —gritas-. Poner rumbo a Alara.
-— Paradoja-murmura el ordenador—. ¡Paradoja doble!.
+ â€” Ha-introducido-usted-un-error. â€” Usted-dirige. Quien-dirige-no-puede-introducir-errores-en-el-sistema... Paradoja... paradoja...
+El ordenador empieza a vibrar. De algÃºn lugar del mecanismo surge un sonido chirriante
+Y lastimero que va aumentando de frecuencia hasta hacerte daÃ±o en los oÃ­dos.
+â€” Ultima orden cancelada â€”gritas-. Poner rumbo a Alara.
+â€” Paradoja-murmura el ordenadorâ€”. Â¡Paradoja doble!.
  Una lluvia de chispas cae al suelo. Instintivamente, levantas los brazos para protegerte
-los ojos pero todo es inútil. A ti y a cuantos viajan a bordo de la nave, sólo os queda un
+los ojos pero todo es inÃºtil. A ti y a cuantos viajan a bordo de la nave, sÃ³lo os queda un
 instante para convertiros en un simple destello de luz blanca.
 Fin
 
 100#
- Avanzas hacia Coleman y te encaras con él.
- — No voy a entrar en ese juego. No es honrado, no está bien y, además, me parece una
+ Avanzas hacia Coleman y te encaras con Ã©l.
+ â€” No voy a entrar en ese juego. No es honrado, no estÃ¡ bien y, ademÃ¡s, me parece una
 estupidez.
  Coleman se pone colorado de rabia.
- — ¡Pero tú estás loco, muchacho! ¡Despreciar así diez mil billetes!
+ â€” Â¡Pero tÃº estÃ¡s loco, muchacho! Â¡Despreciar asÃ­ diez mil billetes!
  Te lanzas a correr sobre la arena, llamando a Bru. Este reaparece entre los arbustos del
 bosquecillo.
- - ¡Coleman ha llamado a los de la tele! -dices-. ¡Vienen hacia aquí para tomarte una
-película!
-Bru se acerca a ti, flotando en el aire. Cogiéndote la mano en un gesto amistoso y tranquilizador dice:
-— Gracias, amigo. Nunca te olvidaré.
-A continuación, apelotonándose sobre sí mismo, empieza a girar a toda velocidad, hasta que se convierte en una especie de bola de chispas eléctricas que se apagan poco a poco
+ - Â¡Coleman ha llamado a los de la tele! -dices-. Â¡Vienen hacia aquÃ­ para tomarte una
+pelÃ­cula!
+Bru se acerca a ti, flotando en el aire. CogiÃ©ndote la mano en un gesto amistoso y tranquilizador dice:
+â€” Gracias, amigo. Nunca te olvidarÃ©.
+A continuaciÃ³n, apelotonÃ¡ndose sobre sÃ­ mismo, empieza a girar a toda velocidad, hasta que se convierte en una especie de bola de chispas elÃ©ctricas que se apagan poco a poco
 hasta desaparecer.
-Una semana después, paseando por tu barrio, sientes una sensación extraña, una especie de cosquilleo. Te vuelves por instinto y ves a Bru, flotando en el aire a tu lado. Se te acerca ronroneando como un gato cariñoso y dice:
- — Hola; he venido a visitarte. Nadie se podrá imaginar nunca que has conseguido una amistad tan original.
+Una semana despuÃ©s, paseando por tu barrio, sientes una sensaciÃ³n extraÃ±a, una especie de cosquilleo. Te vuelves por instinto y ves a Bru, flotando en el aire a tu lado. Se te acerca ronroneando como un gato cariÃ±oso y dice:
+ â€” Hola; he venido a visitarte. Nadie se podrÃ¡ imaginar nunca que has conseguido una amistad tan original.
 Fin
 
 101#
- Sin hacer ninguna elección, sin seguir ningún tipo de instrucciones, estás descendiendo a través del espacio, aproximándote a una gran esfera resplandeciente: es Ultima, el planeta paradisíaco. Mientras tu nave desciende lenta y suavemente, ves allá abajo una pradera salpicada de flores. En el horizonte alcanzas a ver una cadena de montañas coronadas
-de nieve que destacan sobre las colinas verde dorado o gris nebuloso más cercanas, Al frente, contemplas una ciudad que parece de cristal, entre cuyos edificios se adivinan lagos centelleantes y árboles en flor.
+ Sin hacer ninguna elecciÃ³n, sin seguir ningÃºn tipo de instrucciones, estÃ¡s descendiendo a travÃ©s del espacio, aproximÃ¡ndote a una gran esfera resplandeciente: es Ultima, el planeta paradisÃ­aco. Mientras tu nave desciende lenta y suavemente, ves allÃ¡ abajo una pradera salpicada de flores. En el horizonte alcanzas a ver una cadena de montaÃ±as coronadas
+de nieve que destacan sobre las colinas verde dorado o gris nebuloso mÃ¡s cercanas, Al frente, contemplas una ciudad que parece de cristal, entre cuyos edificios se adivinan lagos centelleantes y Ã¡rboles en flor.
 Tu nave se desliza en la carrera final del aterrizaje y se abren las puertas laterales de a
-bordo. El aire que penetra del exterior trae un aroma de frescura con olor a pinos. Una armonía musical llena tus oídos. Hay una multitud esperándote. Son la gente más bella y acogedora que hubieras podido imaginar. Tienen la tez aceitunada y sus grandes ojos son tan verdes como la hierba primaveral. Un grupo de niños se adelanta corriendo para ofrecerte guirnaldas de flores. Detrás, un hombre y una mujer coronados de flores vienen también hacia ti abriendo los brazos en gesto de salutación.
- — Bienvenido a Ultima -dice ella-. Yo me llamo Elinka.
- — ¡Bienvenido! —exclama el hombre-. Mi nombre es Arkam. Acabas de llegar al planeta
-de la alegría y de la belleza. Compartirás con nosotros todos nuestros tesoros. Desde este
-momento, te pertenecen. Todos nosotros somos ya tus am para siempre jamás.
- Tomándote de la mano, Elinka dice:
- — Pero ningún planeta del universo puede ser un paraíso si no puedes salir de él. Por eso,
-siempre estarás en libertad de regresar a tu patria cuando lo desees y podrás hacerlo en
+bordo. El aire que penetra del exterior trae un aroma de frescura con olor a pinos. Una armonÃ­a musical llena tus oÃ­dos. Hay una multitud esperÃ¡ndote. Son la gente mÃ¡s bella y acogedora que hubieras podido imaginar. Tienen la tez aceitunada y sus grandes ojos son tan verdes como la hierba primaveral. Un grupo de niÃ±os se adelanta corriendo para ofrecerte guirnaldas de flores. DetrÃ¡s, un hombre y una mujer coronados de flores vienen tambiÃ©n hacia ti abriendo los brazos en gesto de salutaciÃ³n.
+ â€” Bienvenido a Ultima -dice ella-. Yo me llamo Elinka.
+ â€” Â¡Bienvenido! â€”exclama el hombre-. Mi nombre es Arkam. Acabas de llegar al planeta
+de la alegrÃ­a y de la belleza. CompartirÃ¡s con nosotros todos nuestros tesoros. Desde este
+momento, te pertenecen. Todos nosotros somos ya tus am para siempre jamÃ¡s.
+ TomÃ¡ndote de la mano, Elinka dice:
+ â€” Pero ningÃºn planeta del universo puede ser un paraÃ­so si no puedes salir de Ã©l. Por eso,
+siempre estarÃ¡s en libertad de regresar a tu patria cuando lo desees y podrÃ¡s hacerlo en
 un instante.
- — ¡Gracias, muchas gracias! -exclamas-. ¡Nunca había podido imaginar que llegaría a
-encontrar un lugar como éste! ¡Ni siquiera pensé que existiese!
- - Bueno, pues ya ves que existe -dice Arkam-, aunque muy pocos terrícolas pueden
-llegar aquí.
+ â€” Â¡Gracias, muchas gracias! -exclamas-. Â¡Nunca habÃ­a podido imaginar que llegarÃ­a a
+encontrar un lugar como Ã©ste! Â¡Ni siquiera pensÃ© que existiese!
+ - Bueno, pues ya ves que existe -dice Arkam-, aunque muy pocos terrÃ­colas pueden
+llegar aquÃ­.
  -Nadie puede llegar a Ultima por haber escogido este planeta -dice Elinka-. Tampoco
-se puede llegar aquí por indicación de nadie. Fue un milagro el que tú llegaras, pero se trata de un milagro perfectamente lógico porque Ultima constituye un milagro en sí mismo.
+se puede llegar aquÃ­ por indicaciÃ³n de nadie. Fue un milagro el que tÃº llegaras, pero se trata de un milagro perfectamente lÃ³gico porque Ultima constituye un milagro en sÃ­ mismo.
 Fin
 
 105#
- — ¡Tratemos de escapar! -dices.
-Angus tarda sólo unos minutos en hallar el pasadizo que conduce al vehículo espacial auxiliar. Las paredes se abren apenas las roza con la mano y, tras ellas, aparece por fin, un
+ â€” Â¡Tratemos de escapar! -dices.
+Angus tarda sÃ³lo unos minutos en hallar el pasadizo que conduce al vehÃ­culo espacial auxiliar. Las paredes se abren apenas las roza con la mano y, tras ellas, aparece por fin, un
 reluciente aparato en forma de disco.
-— ¡Parece un plato volador! -exclamas.
-— Eso no es ninguna coincidencia -dice Angus-. Este diseño es el más eficiente para un
-vehículo espacial auxiliar.
- Al instante, los dos estáis acomodados en la cabina.
- — La verdad es que hemos tenido suerte -dice Angus-—. Este artefacto es de control automático. Mira.
- Instantáneamente, el aparato sale catapultado hacia el espacio y endereza rumbo hacia
-la Tierra. Pocas horas después, conforme vas descendiendo, vislumbras bajo tus pies los
+â€” Â¡Parece un plato volador! -exclamas.
+â€” Eso no es ninguna coincidencia -dice Angus-. Este diseÃ±o es el mÃ¡s eficiente para un
+vehÃ­culo espacial auxiliar.
+ Al instante, los dos estÃ¡is acomodados en la cabina.
+ â€” La verdad es que hemos tenido suerte -dice Angus-â€”. Este artefacto es de control automÃ¡tico. Mira.
+ InstantÃ¡neamente, el aparato sale catapultado hacia el espacio y endereza rumbo hacia
+la Tierra. Pocas horas despuÃ©s, conforme vas descendiendo, vislumbras bajo tus pies los
 bosques y las casas, hasta que el aparato parece quedarse flotando en el aire unos instantes
-para luego posarse suavemente en un trigal. A través de los cristales ves a dos granjeros junto a una camioneta. Gesticulan y señalan hacia el aparato mostrando su sorpresa.
+para luego posarse suavemente en un trigal. A travÃ©s de los cristales ves a dos granjeros junto a una camioneta. Gesticulan y seÃ±alan hacia el aparato mostrando su sorpresa.
 La escotilla se abre y saltas a tierra.
-— ¡Venga! -le dices a Angus—. Le ayudaré a bajar.
+â€” Â¡Venga! -le dices a Angusâ€”. Le ayudarÃ© a bajar.
  Pero el bondadoso anciano niega con la cabeza.
-— No, gracias. Cuando me capturaron, hace 1200 años, me quedaba poco tiempo de vida.
-Prefiero quedarme allá arriba, donde nunca envejeceré. Además, mis familiares y amigos
-ya habrán muertos hace muchísimo tiempo.
-Sigues con la mano tendida hacia Angus, cuando la escotilla se cierra de golpe y el vehículo se eleva y desaparece en el aire. Te has quedado de pie en medio del trigo. Comprendes que Angus se ha escapado contigo sólo para ayudarte; para él la huida ya no tiene ningún sentido.
- —¡Oiga! ¿es eso?
-— ¿De dónde viene?
-— ¿Hacia dónde se fue ese aparato? —gritan los granjeros que vienen corriendo hacia ti.
+â€” No, gracias. Cuando me capturaron, hace 1200 aÃ±os, me quedaba poco tiempo de vida.
+Prefiero quedarme allÃ¡ arriba, donde nunca envejecerÃ©. AdemÃ¡s, mis familiares y amigos
+ya habrÃ¡n muertos hace muchÃ­simo tiempo.
+Sigues con la mano tendida hacia Angus, cuando la escotilla se cierra de golpe y el vehÃ­culo se eleva y desaparece en el aire. Te has quedado de pie en medio del trigo. Comprendes que Angus se ha escapado contigo sÃ³lo para ayudarte; para Ã©l la huida ya no tiene ningÃºn sentido.
+ â€”Â¡Oiga! Â¿es eso?
+â€” Â¿De dÃ³nde viene?
+â€” Â¿Hacia dÃ³nde se fue ese aparato? â€”gritan los granjeros que vienen corriendo hacia ti.
 Fin
 
 107#
- Determinas que eso de hacerse el loco sólo podría empeorar la situación. Paseas de un
- o a otro, tratando de hallar una solución.
+ Determinas que eso de hacerse el loco sÃ³lo podrÃ­a empeorar la situaciÃ³n. Paseas de un
+ o a otro, tratando de hallar una soluciÃ³n.
 De pronto, una de las paredes desaparece ante ti y se transforma en un amplio ventanal
-curvo. A través del vidrio plástico ves miríadas de estrellas diseminadas por el oscuro cielo. Al fondo de la cámara se alinean varias filas de ordenadores. Algunos tienen pequeñas luces
+curvo. A travÃ©s del vidrio plÃ¡stico ves mirÃ­adas de estrellas diseminadas por el oscuro cielo. Al fondo de la cÃ¡mara se alinean varias filas de ordenadores. Algunos tienen pequeÃ±as luces
 que lanzan destellos azules y rosados.
  Parece como si la nave estuviese virando y, al cabo de un minuto aproximadamente, ves
-ante ti la esfera blanquiazul que reconoces como la Tierra, tu planeta natal. Un extraterrestre está manipulando uno de los ordenadores. De pronto, se desploma en el suelo y se contrae como si fuera una araña muerta.
-Angus está de pie a tu lado y te hace señas de que te acerques más. Sus ojos brillan de
-emoción.
- — Algo ha ocurrido. Los ordenadores señalan una situación contradictoria en su programación y no la pueden resolver. Esa criatura cometió un error de operación. Al parecer quería apoderarse de la nave.
-Angus señala al extraterrestre que yace en el piso.
-— Probablemente fue víctima de algún mecanismo de defensa de los U-TY.
-Se dirige a una de las pantallas de control y estudia los símbolos que aparecen en ella.
-— El rumbo que llevamos ahora nos conducirá a la Tierra. Hay un vehículo espacial auxiliar a bordo de esta nave. Quizá pudiéramos meternos en él antes de que los ordenadores resuelvan las contradicciones de su programa. Si los U-TY detectan nuestro movimiento, nos enviarán a Somo... a dormir durante mil millones de años.
-— ¿Intentamos escaparnos?
-#Si tratas de escaparte con Angus tomando el vehículo espacial auxiliar:105
-#Si tratas de hallar otra solución:97
+ante ti la esfera blanquiazul que reconoces como la Tierra, tu planeta natal. Un extraterrestre estÃ¡ manipulando uno de los ordenadores. De pronto, se desploma en el suelo y se contrae como si fuera una araÃ±a muerta.
+Angus estÃ¡ de pie a tu lado y te hace seÃ±as de que te acerques mÃ¡s. Sus ojos brillan de
+emociÃ³n.
+ â€” Algo ha ocurrido. Los ordenadores seÃ±alan una situaciÃ³n contradictoria en su programaciÃ³n y no la pueden resolver. Esa criatura cometiÃ³ un error de operaciÃ³n. Al parecer querÃ­a apoderarse de la nave.
+Angus seÃ±ala al extraterrestre que yace en el piso.
+â€” Probablemente fue vÃ­ctima de algÃºn mecanismo de defensa de los U-TY.
+Se dirige a una de las pantallas de control y estudia los sÃ­mbolos que aparecen en ella.
+â€” El rumbo que llevamos ahora nos conducirÃ¡ a la Tierra. Hay un vehÃ­culo espacial auxiliar a bordo de esta nave. QuizÃ¡ pudiÃ©ramos meternos en Ã©l antes de que los ordenadores resuelvan las contradicciones de su programa. Si los U-TY detectan nuestro movimiento, nos enviarÃ¡n a Somo... a dormir durante mil millones de aÃ±os.
+â€” Â¿Intentamos escaparnos?
+#Si tratas de escaparte con Angus tomando el vehÃ­culo espacial auxiliar:105
+#Si tratas de hallar otra soluciÃ³n:97
 
 
 118#
- Las formas flotantes se te acercan y, antes de que puedas dar un paso atrás, sientes la
-sensación extraña y cosquilleante de su contacto electrizante.
+ Las formas flotantes se te acercan y, antes de que puedas dar un paso atrÃ¡s, sientes la
+sensaciÃ³n extraÃ±a y cosquilleante de su contacto electrizante.
 
 TU LOGICA ES CORRECTA NO TE MERECES SOMO, NI TAMPOCO EL JARDIN ZOOLOGICO.
 
 Dichas estas palabras, las formas se convierten en una niebla amarilla. De pronto te
-sientes muy cansado pero, en lugar de caer dormido, sientes como si estuvieras aquí, en
-este lugar, donde estás en este instante, leyendo esto.
+sientes muy cansado pero, en lugar de caer dormido, sientes como si estuvieras aquÃ­, en
+este lugar, donde estÃ¡s en este instante, leyendo esto.
 Fin
 
 
