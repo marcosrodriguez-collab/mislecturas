@@ -1,0 +1,90 @@
+1#
+El huerto de Janie siempre da cosechas más abundantes y grandes que el tuyo:V
+El producto milagroso ofrecido por el anciano en la tienda cuesta dos dólares con cincuenta:F
+2#
+El líquido guardado en el bolsillo huele exactamente igual que el zumo de manzana:F
+A la mañana siguiente, las plantas de tomate se hinchan como globos y estallan con estruendo:V
+5#
+Al cortar las plantas con la cortadora de césped, las raíces dejan de producir nuevos brotes:F
+Janie pone música de baladas pensando que las canciones de amor podrían calmar a las plantas:V
+6#
+El conejo Floppi destruye una valla y tres buzones mientras huye por la calle:V
+Decides escupir la zanahoria a tiempo sin llegar a sufrir ningún cambio de tamaño:F
+7#
+Los padres de los protagonistas suelen madrugar mucho durante los sábados:F
+El personaje principal planea encontrar al anciano para descubrir cómo detener la invasión de plantas:V
+8#
+Un tomate verde gigante cae a tan solo unos milímetros de impactar contra ti:V
+La cortadora de césped del señor Stanké funciona manualmente sin necesidad de motor ni tractor:F
+11#
+La melodía lánguida y romántica provoca que las plantas se retuerzan para intentarte estrangular:V
+El boletín especial de noticias anuncia que la invasión vegetal solo ocurre en tu propio jardín:F
+12#
+El frasco de fertilizante indica claramente el nombre de "Abono Mágico del Sr. Invento":V
+El propietario del Garden Center te informa que el inventor vive en un apartamento detrás del garaje Wilson:V
+14#
+Surgida la idea de la oruga, te das cuenta de que aún queda una pequeña cantidad de zumo en la botella:V
+Janie no posee ninguna mascota en casa que pueda servir para encarar a las verduras:F
+15#
+El señor Invento utiliza una planta con largas hojas pegajosas como guardiana ante la puerta:V
+Las hojas de la planta guardiana te permiten liberarte rápidamente al contacto con tu brazo:F
+17#
+La oruga gigante devora los tallos de guisantes y las plantas regadas con el zumo mágico:V
+Para intentar detener a la oruga en el rosal, decides lanzarle una buena cantidad de piedras:F
+18#
+Decides coger la cortadora de césped del señor Stanké sin pedirle permiso previamente:V
+Las primeras pasadas con la cortadora de césped logran cortar varios tomates a nivel del suelo:V
+21#
+Al sonar la música rock, las calabazas empiezan a golpearse entre sí como si fueran platillos:V
+Los tallos trepadores aumentan su presión sobre tus brazos al escuchar el ritmo de la batería:F
+22#
+En la puerta trasera del garaje Wilson hay una inscripción sobre los inventos del Sr. Invento:V
+Al llamar a la puerta, el anciano te abre de inmediato respondiendo a tus reclamos:F
+25#
+Los tallos de guisantes se dirigen hacia el jardín del señor Stanké amenazando a su gato:V
+Al intentar podar los guisantes con tijeras grandes, las vainas explotan lanzando proyectiles:V
+27#
+Encuentras la oruga sobre un lirio en el jardín tras no hallar ninguna entre otras plantas:V
+La oruga gigante rompe la maceta debido al aumento rápido de su tamaño al comer la lechuga:V
+28#
+El señor Invento te encierra con llave en su estancia mientras explica su malvado plan:V
+El anciano afirma que su abono mágico solo afectó al huerto de tu casa:F
+31#
+Te escondes detrás de un cubo de basura para observar discretamente las acciones del anciano:V
+El líquido vertido por el señor Invento hace que las plantas destruyan estructuras y objetos cercanos:V
+32#
+Aceptas hacer los deberes de Janie durante una semana a cambio de que te preste a Floppi:V
+Floppi se asusta de un perro pequeño y salta la valla perdiendo completamente el control:V
+34#
+Janie ingresa a la habitación a través de la ventana portando un pollo asado:V
+La planta guardiana rechaza comerse el pollo asado y continúa sujetándote el brazo:F
+37#
+Para cubrirte tras aumentar de tamaño utilizas una carpa familiar guardada en el garaje:V
+Decides que la mejor manera de terminar con el problema del huerto es salir a comer fuera:F
+38#
+La oruga gigante utiliza el hilo que sale de su boca para tejer un capullo dentro del cobertizo:V
+La mariposa metamorfoseada emerge volando con el techo del cobertizo pegado sobre ella:V
+41#
+Al tropezar con la tapa de un cubo de basura, derramas parte del líquido rojo al suelo:V
+El gato que bebe el líquido derramado se transforma en una criatura del tamaño de un elefante:V
+42#
+Las vainas de frijoles bailan al ritmo de la música hasta quedar completamente tiradas y hundidas:V
+El cortacésped continúa atascado por los guisantes sin que puedas liberarlo para huir:F
+43#
+Logras guiar a la oruga hacia el interior del cobertizo de herramientas usando un chorro de agua:V
+Tus padres descubren inmediatamente a la oruga gigante escondida en la cabaña durante la mañana:F
+44#
+La oruga provoca que la copa del abedul se parta y caiga directo sobre el tejado de la casa:V
+Tu padre acepta con agrado la historia sobre el petirrojo de una tonelada que dejó caer su comida:F
+46#
+El líquido arrojado provoca que los arbustos crezcan desmesuradamente elevando al señor Invento:V
+El señor Invento disfruta de la experiencia en las alturas y te agradece el lanzamiento del jugo:F
+49#
+La madre de Janie ordena apagar la música de manera tajante e inmediata:V
+Al apagar la música, las plantas se calman por completo permitiéndote escapar en el cortacésped:F
+50#
+Logras arrebatarle el cubo al señor Invento aprovechando que lo tomaste desarmado y desprevenido:V
+El cubo retenido se encuentra completamente vacío tras haber sido derramado todo su contenido:F
+52#
+El boletín de noticias reporta que los huertos descontrolados están apareciendo por toda la ciudad:V
+Los equipos de emergencia logran rescatarte del montón de tallos justo a tiempo antes de que la música termine:F

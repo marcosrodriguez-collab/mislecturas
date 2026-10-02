@@ -1,0 +1,387 @@
+﻿1#
+Cada año, tú y tu hermana menor, Janie, plantáis un huerto. Pero el de Janie siempre crece mejor que el tuyo. Por ejemplo, si tus tomates llegan a ser tan grandes como naranjas, los suyos serán como cabezas de lechuga; y si cosechas seis calabazas por semana, tu hermana tendrá dieciséis. Estás empezando a cansarte de oírla alardear. Así que este verano decides hacerte con un abono especial para conseguir hortalizas tan grandes como las suyas… ¡o incluso más grandes! Vas a la tienda de jardinería. ¡Oh, este fertilizante es caro! Estás comprobando si tienes suficiente dinero para comprarlo cuando un anciano se te acerca.
+
+—¿Ves esto? —susurra, sacando una botella de una bolsa de la compra—. Bueno, esto... ¡es mejor que el fertilizante! Simplemente vierte unas gotas sobre cada planta. Funciona a las mil maravillas: ¡obtendrás plantas gigantescas con esto! ¡Y mi producto solo cuesta un dólar cuarenta y nueve!
+
+El precio te conviene. ¡Así que optas por este producto milagroso! Cuando llegas a casa, abres la botella y miras el líquido que hay dentro.
+
+«Parece zumo de arándanos», murmuras entre dientes.
+#Sigue:2
+
+2#
+A pesar de eso, rocías el líquido sobre tus pequeños guisantes, tus delgados frijoles, tu atrofiada calabaza y tus enfermizos tomates. No usas todo, queda un poco de producto en la botella, y lo guardas de nuevo en tu bolsillo. A la mañana siguiente, al amanecer, Janie te despierta asustada.
+
+—¿Me cuentas qué le hiciste a tus plantas? —grita, presa del pánico—. ¡Estás metido en serios problemas!
+
+¡Corres hacia la ventana! ¡Tus plantas han multiplicado por diez su volumen! ¡Tus calabazas han aumentado tanto que rebosan del huerto! ¡Incluso están deambulando por el pasillo! Y al lado de la casa, tus tomates se hinchan como globos y estallan con sonoros CHOOOFS.
+#Sigue:7
+
+5#
+Janie está ahí, gritando y señalando algo detrás de tu espalda, pero su voz no puede con el ruido del cortacésped. Te das la vuelta y... ¡OH NO! Conseguiste cortar algunas plantas, es cierto, ¡pero de las raíces están saliendo nuevos brotes! ¡Donde había tres plantas de tomate ahora hay doce zigzagueando hacia ti de forma amenazadora!
+
+¡De repente los frijoles te rodean! ¡Y los tallos trepadores de las plantas de guisantes atascan el motor del cortacésped! ¡Desafortunadamente no hay manera de hacer que se mueva ni siquiera un milímetro!
+
+Se oye el sonido de una radio. ¡Eres prisionero de las plantas monstruosas y Janie tiene el descaro de poner baladas!
+
+—Mis verduras crecen mejor con el sonido del rock and roll —te grita por encima de la música—, así que pensé que las tuyas tal vez se calmarían escuchando hermosas y dulces melodías.
+
+¿De verdad crees que las canciones de amor frenarán a tus plantas? ¿No sería mejor ponerles rock and roll?
+#Si crees que Janie tiene razón en lo de las canciones de amor:11
+#Si le dices que ponga rock and roll:21
+
+6#
+—¡Floppi, vuelve aquí ahora mismo! —grita Janie.
+
+¡Pero ya se fue! Lo ves a una manzana de distancia.
+
+—¡Dos años de deberes! —grita tu hermana.
+
+Ahí está el conejo casi al final de la calle. Ante tus ojos, aplasta una valla y tres buzones. ¿Qué vas a hacer ahora? ¡Y aún no has desayunado! Sin pensarlo, muerdes la...
+
+¡ZANAHORIA!
+
+Por más que la escupes, es demasiado tarde. Creces tan deprisa que te mareas un poco.
+#Sigue:37
+
+7#
+¡Es una suerte que tus padres duerman hasta tarde los sábados! Lo único que tienes que hacer es encontrar al anciano lo más rápido posible para que te diga cómo detener la invasión. Pero, ¿qué te garantiza que tus padres no se despertarán más pronto? Deberías probar alguna cosa... ¡y rápido!
+#Si vas a buscar al viejo:12
+#Si prefieres probar algo por tu cuenta:25
+
+8#
+—¡Cuidado! —grita Janie.
+
+¡Uf! ¡Por poco! Apenas esquivaste el enorme tomate verde que cayó a unos milímetros de ti. Imposible podar las plantas o arrancarlas: han crecido demasiado. ¡Sin mencionar que parecen tener voluntad propia!
+
+Entonces es cuando se te ocurre una brillante idea: ¡la cortadora de césped del señor Stanké! Es un cortacésped motorizado que se conduce como un tractor y está equipado con una cuchilla en la parte delantera. ¡Quizás podrías usarlo como excavadora para arrasar las plantas!
+
+¡Por supuesto, si no funciona, tendrás que lidiar con un montón de vegetales enfadados!
+#Sigue:14
+
+11#
+—Gran idea —le dices a Janie—. ¡Cuanto más lenta sea la música, mejor!
+
+Sin duda con el rock and roll las legumbres se vendrían aún más arriba. ¡Suficiente para que crezcan aún más rápido! Tras probar varias emisoras de radio, Janie acaba encontrando una melodía lánguida y romántica, con muchos violines. Sube el volumen. Ojalá esta música calme tus plantas...
+
+Algo está sucediendo, pero no es en absoluto lo que querías: cada vez que se escuchan los violines, las plantas emergen, de forma lenta pero segura, y se retuercen a tu alrededor. ¡Están intentando estrangularte hasta la muerte! Te gustaría gritar «¡Basta ya!», pero una gran hoja de guisante te tapa la boca.
+
+De repente, la música se detiene:
+
+«Les ofrecemos un boletín de noticias especial», anuncia un comentarista con voz estridente. «¡Por toda la ciudad, las plantas se han vuelto locas!».
+#Sigue:52
+
+12#
+Esto es demasiado para ti. ¡Será mejor que encuentres al viejo lo antes posible! ¿Pero cómo? ¡Ni siquiera sabes su nombre!
+
+¡La botella! Recuerdas que se encuentra en el fondo de tu bolsillo. Rápidamente la sacas y lees la inscripción: ABONO MÁGICO DEL SR. INVENTO. ¿¿Señor Invento?? Tienes que correr hacia el Garden Center para localizar a este personaje. Te vistes y sales corriendo.
+
+—¡Espérame! —te dice Janie—. ¡Yo también voy!
+
+¡Janie! ¡Oh, no! ¡Como si necesitaras arrastrar a tu hermana pequeña contigo! Subido en tu bicicleta te alejas sin esperarla.
+
+Por suerte, el centro de jardinería abre temprano. El propietario ya está allí, regando las plantas. Se echa a reír cuando escucha el nombre del Señor Invento.
+
+—Es ese viejo loco de Fred Francoeur —te dice—. Se considera un gran inventor.
+
+—¿Sabes dónde puedo encontrarlo? —preguntas.
+
+—Pues sí, vive de alquiler en un apartamento detrás del garaje Wilson.
+#Sigue:22
+
+14#
+Piensas un momento. ¿Quién come productos de la huerta? Hay orugas. Todavía te queda un poco de zumo en el fondo de la botella. ¿Qué pasaría si se lo dieras a una oruga? ¿Quizás se convertiría en una gigantesca máquina herbívora?
+
+Es posible que incluso una oruga gigante no sea lo suficientemente grande para hacer frente a todas estas verduras. Tal vez un conejo sería mejor... ¡y Janie tiene uno!
+#Si usas la cortadora de césped del Sr. Stanké:18
+#Si crees que el zumo tendrá efectos enormes en la oruga:27
+#Si prefieres utilizar el conejo:32
+
+15#
+—¡Si crees que voy a dejarte escapar y arruinar mi proyecto vas listo! —se burla el señor Invento, empujando una planta enorme frente a la puerta—. ¿Alguna vez has oído hablar de un perro guardián? —bromea—. ¡Pues aquí está mi planta guardiana! Ella se encargará de que no escapes.
+
+Y con estas palabras, el inventor sale por la puerta. Te preocuparía si fuera una planta carnívora, como una Venus atrapamoscas por ejemplo, pero no es el caso. Tiene hojas largas y delgadas. La rodeas para abrir la puerta. Al hacerlo, tu brazo toca una hoja y se queda atrapado allí. ¡Las hojas están completamente cubiertas de pelos pegajosos! ¡Imposible liberarse de sus garras!
+
+—¡Ayuda! —gritas.
+#Sigue:34
+
+17#
+¡Tu oruga no deja de crecer! La levantas y la arrastras hacia el patio. En pocos minutos ya mide casi dos metros de largo. ¡Se dirige hacia tu huerto, comiendo los tallos de guisantes como si fuesen espaguetis y los frijoles como si fueran cápsulas de vitaminas! Pronto se traga todas las plantas que habías regado con zumo mágico.
+
+¡Sería perfecto si este snack fuera suficiente! Pero ahora decide atacar las flores de tu madre, y... ¡ay, ay! ¡Su rosal favorito! ¡Tendrás que encontrar la manera de detenerla!
+
+Agarrando la manguera del jardín, desenroscas la boquilla para que el agua salga a borbotones. ¡Una buena ducha quizás la modere! El resultado supera tus expectativas: ¡la oruga gigante sale del agua! Tal vez podrías llevarla al cobertizo de herramientas, solo para quitarla de en medio, al menos por ahora. A no ser que la dirijas hacia el terreno baldío tras de tu casa. No extrañaría la comida allí...
+#Si intentas llevar la oruga al cobertizo de herramientas:43
+#Si prefieres conducirla hacia los terrenos baldíos:44
+
+18#
+Corres alrededor de la cerca para entrar al jardín del Sr. Stanké. Probablemente te metas en un lío por coger prestada su cortadora de césped de esta manera. ¡Pero entre los dos males, eliges el menor! ¡Imagínate el enfado de tu madre si al despertar encuentra el jardín en este terrible estado!
+
+Estás de suerte: el cortacésped está justo ahí, en el camino de entrada. Te sientas en los controles y giras la llave. El motor ronronea. Se pone la marcha de avance y el cortacésped arranca.
+
+Conduces el vehículo por el camino de entrada del Sr. Stanké, luego cruzas a la calle y subes al césped. Aceleras al máximo para llegar al huerto lo antes posible.
+
+Una vez cerca de las verduras, bajas la cuchilla y ¡RASSS!, la primera planta de tomate se derrumba. ¡RASSS! Cortas otra a nivel del suelo. ¡Y RASSS otra vez! ¡Esto funciona!
+
+¿Oh sí? ¿En serio?
+#Sigue:5
+
+
+21#
+—¡Dale caña al rock and roll! —le gritas a tu hermana—. ¡Rápido!
+
+Si les cuesta aguantar el aire lánguido, es fácil que las plantas lo lleven mal. ¡Y por supuesto no querrás causarles molestias ahora mismo!
+
+Janie encuentra una música enérgica, con un ritmo marcado por una potente batería. Durante los primeros compases no pasa nada. Los tallos trepadores todavía se aferran a tus brazos. Y un tomate gigantesco explota sobre tu cabeza. Estás lleno de zumo de tomate tibio.
+
+¿Qué pasa? ¿A tus plantas no les gusta el rock?
+
+Pues sí, ¡les encanta! ¡De repente ves que las calabazas empiezan a golpearse como platillos! Los tallos aflojan su agarre alrededor de tus brazos. Los guisantes bailan alzando sus tallos hacia el cielo, al ritmo de la música.
+#Sigue:42
+
+22#
+Corres al garaje Wilson. Ves una inscripción en la puerta trasera: LOS INCREÍBLES INVENTOS DEL SR. INVENTO.
+
+¡Estás en el lugar correcto!
+
+Golpeas fuerte. Ninguna respuesta. Pones tu oreja en la puerta. Todo parece en silencio allí dentro.
+
+¿Dónde se esconde este viejo? Entonces es cuando lo ves caminando apresuradamente por el callejón de al lado, cargando un gran cubo. Lanza miradas preocupadas aquí y allá. ¡Tienes la curiosa impresión de que está tramando algo malo!
+
+¿Deberías interceptarlo allí de inmediato para contarle tu problema? ¿O seguirlo, solo para descubrir adónde tiene tanta prisa por ir?
+#Si decides interceptarlo:28
+#Si prefieres saber a dónde va primero:31
+
+25#
+Te pones la ropa y bajas corriendo las escaleras de cuatro en cuatro.
+
+Es mejor ocuparse primero de los guisantes, cuyos tallos han trepado tanto por la valla que están al otro lado, en el jardín del señor Stanké. ¡Y parece que se dirigen directamente hacia el gato de tu vecino!
+
+Entras en el cobertizo de herramientas y coges un par de tijeras grandes. Unos cuantos cortes en la base de las plantas de guisantes deberían ser suficientes, ¿verdad?
+
+¡No exactamente! Al verte acercarte hacia ellos, los tallos comienzan a moverse al ritmo, como si estuvieran bailando. ¡Parece que estos guisantes monstruosos han adivinado tus intenciones!
+
+Te estás acercando de todos modos. Y de repente, ¡PLOP!, las gigantescas vainas estallan. ¡Y los guisantes del interior se catapultan hacia ti como auténticas pequeñas balas de cañón verdes!
+
+¡Apenas tienes tiempo de tirarte al suelo! ¡Oyes la lluvia de proyectiles silbando sobre tu cabeza! No pienses que es el menor de tus problemas...
+#Sigue:8
+
+27#
+Vas a probar con fertilizante líquido en una oruga. Después de todo, no es seguro que el cortacésped resuelva el problema, y Janie probablemente prefiera dejar su conejo como está.
+
+En el otro extremo del jardín hurgas entre las flores de tu madre. Ves algunos insectos, así como una babosa viscosa. Pero no hay orugas. Terminas viendo una en un lirio. La recoges y la llevas con cuidado a la cocina.
+
+—¡Qué asco! ¡Alimañas! —grita Janie, desapareciendo escaleras arriba.
+
+Colocas la oruga en el fondo de una maceta, así como un poco de lechuga que sacas de la nevera. Luego, sacando la botella del bolsillo, rocías la lechuga con el resto del jugo.
+
+La oruga empieza a comerse la ensalada, tan rápido como puede comer una oruga. ¡Apenas ha dado algunos mordiscos cuando está creciendo ante tus ojos! ¡Bien hecho! ¡El fertilizante también funciona con las orugas!
+
+¡Se vuelve tan grande que, ¡CRACK!, la maceta ya no es lo suficientemente grande para ella!
+#Sigue:17
+
+28#
+¡No hay tiempo que perder! ¡Quién sabe en qué estado se encuentra ahora mismo tu huerto!
+
+—¡Hey! ¡Señor Invento!
+
+Dándose la vuelta bruscamente, el anciano se te encara.
+
+—Vas a tener que hacer algo con mis plantas —le dices.
+
+—¡Adelante! —invita, abriendo la puerta—. Ven y cuéntame tu problema.
+
+—Tengo calabazas corriendo por todas partes —explicas—, tomates y guisantes explotando... En una palabra, todas mis verduras están fuera de control.
+
+¡El señor Invento cierra la puerta con llave!
+
+—¡Pues claro! —ríe—. ¡Como toda la ciudad! Hay edificios que se bloquean bajo el peso de los guisantes, calles enteras repletas de calabazas... El tráfico se verá interrumpido y los comercios tendrán que cerrar sus puertas. ¡Nunca más se burlarán del Sr. Invento!
+
+¡Este tipo está loco! Sigue divagando:
+
+—Empezaré por convertirme en el dueño de la ciudad. Después dominaré la provincia. Volaré y dejaré caer gotas de mi fertilizante mágico desde el aire...
+
+Rápido, tienes que salir de allí, ¿no?
+#Sigue:15
+
+31#
+Tienes la impresión de que el señor Invento no trama nada bueno y quieres saber de qué se trata. Sin que él lo sepa, le sigues sigilosamente hasta el callejón. Allí se detiene de repente y lanza una mirada ansiosa detrás de su hombro. Solo tienes tiempo para esconderte detrás de un cubo de basura.
+
+El señor Invento levanta su cubo. Vierte un líquido que parece jugo de arándano en el jardín vecino.
+
+—¡Hoy la ciudad, mañana el mundo entero! —dice soltando carcajadas.
+
+¡El líquido mágico transforma las verduras en monstruos! Los tallos de calabazas y pepinos saltan al aire como fuentes, luego se aferran a una casa y arrancan el techo. Los tomates son impulsados hacia el cielo. Ves tallos de guisantes aplastando una bicicleta.
+
+El señor Invento cruza la calle con paso acelerado. Levanta el cubo para verter más cantidad de su líquido maligno. ¡Esta vez no le permitirás hacerlo!
+#Sigue:50
+
+32#
+Negocias con Janie:
+
+—Préstame a Floppi una hora y haré tus deberes durante una semana entera. ¿Te parece bien?
+
+—¡Trato hecho! —acepta tu hermana.
+
+Es hora de coger una zanahoria. Corres de regreso hacia la jaula de Floppi, cerca del garaje.
+
+Agarrando al conejo, lo sacas de su jaula y lo colocas en el suelo. Echas unas gotas de fertilizante sobre la zanahoria. Con un buen mordisco, Floppi muerde la mayor parte de la verdura. ¡Inmediatamente, ¡BOOM!, se está volviendo más grande que un collie! Otro bocado y, ¡BOOM!, ¡es del tamaño de un pony!
+
+—¡Te va a costar un año entero de deberes! —grita Janie.
+
+El conejo pronto tendrá el tamaño de un coche: ¡un coche con orejas! Esas plantas gigantes tienen que andarse con cuidado: ¡Floppi, el súper conejo, pronto ajustará cuentas!
+
+Desafortunadamente, un perro aparece trotando en la calle. ¡Y nuestro Floppi podrá pesar trescientos kilos, pero es tan cobarde como cuando pesaba cuatro! Aterrorizado, el conejo salta a la valla del señor Stanké…
+#Sigue:6
+
+34#
+La ventana se abre lentamente. Alguien se cuela por la abertura. ¡Es Janie! ¡Tu hermana te siguió!
+
+Abre la nevera y coge un pollo asado que arroja a la planta.
+
+—Estoy segura de que sabrá mejor que tú —dice.
+
+¡La planta lo engulle al momento!
+
+—¿Y ahora qué hacemos? —dices, entrando en pánico.
+
+—Esperaremos —responde tu hermana—. Esperemos que le siente mal.
+
+Fin
+
+37#
+Tu ropa ya no sirve, así que te agachas y entras al garaje para desvestirte. Tu cabeza toca el techo. Te inclinas para coger una carpa familiar de un estante.
+
+Es lo suficientemente grande como para cubrirte como una toga larga.
+
+Te envuelves en ella. Luego, con la cabeza gacha, sales del garaje. Lo primero es encontrar a Floppi. Luego al viejo. ¡Y será mejor que te haga más pequeño, o tendrá que enfrentarse a ti!
+
+¿Y tu monstruoso huerto? ¡Bueno! ¡No hay necesidad de preocuparse por eso! Muy pronto habrás solucionado el problema tú mismo: ¡lo devorarás en la cena!
+
+—¡Hey Janie! —dices con voz fuerte—. ¡Tráeme doce litros de vinagreta!
+
+Fin
+
+38#
+¿Pero qué está pasando? El cobertizo para herramientas está lleno de hilo, ¡hilo blanco brillante! Te das cuenta de que es la oruga la que lo hace porque le sale por la boca. De repente lo entiendes: ¡está tejiendo su capullo! Dios mío, ¿cuánto tardará en transformarse esta oruga de dos metros de largo? ¡Tendrás que mantener a tus padres alejados de la cabaña todo ese tiempo!
+
+Pero la suerte te sonríe porque los siguientes días son lluviosos. Nadie tiene que ir a la cabaña. Todo parece muy tranquilo por dentro.
+
+El tiempo acaba aclarando y, una buena tarde, sales a la calle.
+
+Pero ¿qué es ese objeto que está ahí encima de tu cabeza y que vuela en la oscuridad de la noche? Definitivamente un OVNI, con sus alas redondeadas, dos antenas y su techo puntiagudo. ¿Su techo puntiagudo? Te hace pensar... Uh-oh... ¡Corres al cobertizo de herramientas!
+
+Aquí está la respuesta a tu pregunta: ¡solo hicieron falta unos días para que la oruga gigante se metamorfoseara! ¡Es una mariposa gigante que lleva encima el techo del cobertizo de herramientas!
+
+Fin
+
+41#
+Decides ir directamente a la comisaría y coger el cubo que contiene el producto del señor Invento.
+
+Con el cubo en tu mano, vuelves a cruzar la calle. Corres hacia el callejón. Pero de repente, ¡PLAAS!, tropiezas con la tapa de un bote de basura. ¡POOF!, te encuentras sentado en el suelo.
+
+Parte del jugo de arándano se derrama en el bote de basura abierto.
+
+Un estruendoso MIAU rompe el silencio: ¡un gato enojado salta del cubo de la basura! Te mira fijamente y gime.
+
+Observas al lado una mancha de líquido rojo. Comienza a limpiarlo con grandes lametazos... ¡Oh, no! Ahí está, creciendo... CRECIENDO... ¡CRECIENDO!
+
+La mancha roja ha desaparecido de su lado. El gato es ahora bastante más grande que tú. ¡Es del tamaño de un elefante!
+
+¿Y cómo te mira? No te gusta la forma en que se lame los labios mientras te mira...
+
+¡Ojalá no llevaras ese chaleco gris! ¡Es del mismo color que los ratones!
+
+Fin
+
+42#
+A tu alrededor, las vainas de frijoles se divierten, siguiendo con movimientos enérgicos los sonidos de la música. ¡Se balancean tanto que terminan hundidas!
+
+Los últimos tallos de guisantes dejan de obstruir el cortacésped. ¡Por fin puedes largarte! Huyes corriendo de la jungla vegetal sin pensártelo dos veces.
+#Sigue:49
+
+43#
+Diriges el chorro de agua hacia la izquierda de la oruga gigante para animarla a moverse hacia el cobertizo de herramientas. ¿Su reacción? Se levanta de repente, asiente con la cabeza y luego se aleja. Vuelves a darle con el chorro hacia la izquierda. ¡Victoria, estás logrando guiarla hacia la cabaña!
+
+La oruga ve la puerta abierta. «Aquí», debe decirse a sí misma, «aquí hay un lugar seguro y seco». ¡Le tiras un último chorro de agua! Rápidamente se refugia en el interior.
+
+Finalmente está dentro. Cierras la puerta.
+
+No hay mucho en la cabaña: solo algunas herramientas y leña para la chimenea. Si todo va bien, nadie pondrá un pie allí en todo el día. Estás ocupado limpiando el desorden causado por las verduras.
+
+Tienes suerte, porque tus padres no se acercan a la cabaña esa mañana. Tú mismo apenas tienes tiempo para preocuparte por lo que le sucederá a la oruga. Pero después de la cena vas a echar un vistazo por la ventanita...
+#Sigue:38
+
+44#
+Vas a llevar a la oruga gigante al páramo. Diriges tu chorro de agua hacia su cara hasta que se gira de lado. Luego le riegas por detrás para que siga en movimiento. Se aleja de los rosales, va más allá del garaje, del abedul... pero no... ¡Allí se detiene! Decidió trepar al árbol.
+
+Lo que pasa es que es una oruga demasiado grande: el pobre abedul se balancea bajo su peso. Si no detiene su escalada muy pronto...
+
+¡Cuidado! ¡La copa del árbol se partió y, con un enorme crujido, el abedul y la oruga se desplomaron sobre el tejado de tu casa!
+
+Tu hermana grita. Unos segundos más tarde, tu padre asoma la cabeza por la ventana del piso de arriba.
+
+—¿Qué es esa barbaridad de la oruga? —pregunta con su voz más severa.
+
+—¿Me creerías, papá, si te dijera que fue un petirrojo de una tonelada el que dejó caer su comida?
+
+Aunque le dices esto en tono optimista, tienes la impresión de que no hay muchas esperanzas de que te crea...
+
+Fin
+
+46#
+No es plan de dejar escapar al señor Invento. No es fácil correr con un cubo en la mano, pero llevas zapatillas, así que... acabas atrapando a tu hombre justo cuando se arrastra por un seto.
+
+—Para o te tiro el contenido de este cubo.
+
+—¡No seas estúpido! —se burla el señor Invento—. ¡No creas que tendrá algún efecto en mí!
+
+Sobre él tal vez no, pero sobre los arbustos que lo rodean, ¿qué?
+
+Así que tiras lo que quede en el cubo. El líquido salpica al señor Invento y a los arbustos circundantes. ¡Y están creciendo vertiginosamente! Se elevan seis metros en el aire, no diez, mejor dicho quince, ¡a menos que sean veinte! Y el señor Invento, atrapado en la maraña de sus gigantescas ramas, se levanta al mismo tiempo que ellas crecen.
+
+—¡Bájame, por favor! —grita, presa del pánico—. ¡Tengo fobia a las alturas!
+
+¡Pero eso no puede ser! Al menos hasta que traigas ayuda...
+
+—Volveré —le prometes. Mientras tanto... ¡Cuidado con los aviones que vuelan a baja altura!
+
+Fin
+
+49#
+Todo lo que tienes que hacer es mantener las pilas de la radio cargadas. Y sintonizar una emisora que reproduzca rock and roll las veinticuatro horas del día, hasta que las verduras terminen agotadas por el cansancio... o hasta la primera helada del otoño.
+
+Pero aquí viene tu madre a estropearlo todo:
+
+—Janie, ¿podrías parar esta horrible música? —ordena en un tono de los que no admiten respuesta—. ¡In-me-dia-ta-men-te!
+
+—¡No, mamá! —protestas.
+
+Pero ya es demasiado tarde. La música se detiene.
+
+Los tallos trepadores se extienden hacia el cortacésped y vuelven a aferrarse a él. Y ahora un tomate gigante rueda hacia ti como una piedra enorme.
+
+—¡Janiiiiiiie!...
+
+Fin
+
+50#
+Corres tras el Sr. Invento y le arrebatas el cubo de las manos. Lo tomaste tan desprevenido que lo soltó. Ahora tienes el cubo, que todavía está medio lleno de la sustancia roja que has estado rociando sobre tus plantas.
+
+Pero ahí se escapa el inventor de desgracias. ¿Deberías ir directamente a la comisaría a llevar el cubo hasta allí? ¿O más bien impedir que el señor Invento se escape?
+#Si decides ir a la comisaría:41
+#Si evitas que el Sr. Invento escape:46
+
+52#
+¡Así que no eres el único que compró el fertilizante del viejo!
+
+«Hay huertos que crecen sin control en el Bulevar Central, en el Camino del Molino... ¡y en la Avenida Buenavista!», continúa el comentarista.
+
+¡Avenida Buenavista! ¡Esa es tu calle! ¿Está hablando de tu jardín?
+
+«La policía y los bomberos acaban de ser enviados urgentemente al lugar del desastre. Mientras tanto, tengan cuidado con las plantas de aspecto extraño».
+
+¡Por supuesto, en tu caso, este consejo llega demasiado tarde! Bueno, quién sabe, la ayuda podría llegar en cualquier momento. ¡Pero será mejor que se den prisa! Pronto serás completamente tragado por el montón de tallos que te cubren y será imposible encontrarte.
+
+Y esos violines no dejan de tocar sus lánguidas melodías una y otra vez...
+
+Fin
